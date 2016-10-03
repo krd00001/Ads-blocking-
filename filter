@@ -1,0 +1,2059 @@
+[Adblock]
+! Homepage: 
+! Title: KAMEN || VĂN ĐÌNH TRỌNG list [ads blocking || 27/09/2016, 11:15 PM GMT+7]
+! Expires: 1 day
+! Version: 1.0
+! Last modified:  08/08/2016, 07:57 PM GMT+7
+! ------------ Generic Blocking Rules ------------
+
+
+facebook.com/ajax/mercury/change_read_status.php$xmlhttprequest
+
+! 7:50:24 4/6/2015 http://thachpham.com/
+thachpham.com###boom_bar-17806
+
+! 20:38:34 4/6/2015 http://it-24h.com/
+||my.jhost.vn/jhost1.gif
+
+! 6:05:43 5/6/2015 http://www.achanime.net/oregairu-ost-opening-ending-mp3/
+||www.achanime.net/wp-content/uploads/2015/05/Screenshot_45.jpg
+
+! 16:43:34 5/6/2015 http://phienbanmoi.com/threads/huong-dan-su-dung-windows-updates-downloader-de-tai-update-hotfix-that-de-dang.10471/
+phienbanmoi.com###uix_wrapper > footer > table > tbody > tr > td:nth-of-type(1)
+
+! 16:43:50 5/6/2015 http://phienbanmoi.com/threads/huong-dan-su-dung-windows-updates-downloader-de-tai-update-hotfix-that-de-dang.10471/
+phienbanmoi.com###uix_wrapper > footer > table > tbody > tr > td:nth-of-type(1)
+
+! 16:44:00 5/6/2015 http://phienbanmoi.com/threads/huong-dan-su-dung-windows-updates-downloader-de-tai-update-hotfix-that-de-dang.10471/
+phienbanmoi.com###uix_wrapper > footer > table > tbody > tr > td:nth-of-type(3)
+
+! 16:44:08 5/6/2015 http://phienbanmoi.com/threads/huong-dan-su-dung-windows-updates-downloader-de-tai-update-hotfix-that-de-dang.10471/
+phienbanmoi.com###uix_wrapper > footer > table > tbody > tr > td:nth-of-type(1)
+
+! 16:44:20 5/6/2015 http://phienbanmoi.com/threads/huong-dan-su-dung-windows-updates-downloader-de-tai-update-hotfix-that-de-dang.10471/
+phienbanmoi.com###uix_wrapper > footer > table > tbody > tr > td:nth-of-type(1)
+
+! 16:44:26 5/6/2015 http://phienbanmoi.com/threads/huong-dan-su-dung-windows-updates-downloader-de-tai-update-hotfix-that-de-dang.10471/
+phienbanmoi.com###uix_wrapper > footer > table > tbody > tr > td:nth-of-type(1)
+
+! 16:44:31 5/6/2015 http://phienbanmoi.com/threads/huong-dan-su-dung-windows-updates-downloader-de-tai-update-hotfix-that-de-dang.10471/
+phienbanmoi.com###uix_wrapper > footer > table > tbody > tr > td:nth-of-type(1)
+
+! 16:44:40 5/6/2015 http://phienbanmoi.com/threads/huong-dan-su-dung-windows-updates-downloader-de-tai-update-hotfix-that-de-dang.10471/
+phienbanmoi.com###uix_wrapper > footer > table > tbody > tr > td
+
+! 20:17:06 8/6/2015 http://www.hocgioi.org/cai-theme-cho-win-xp-dep-don-gian/
+||www.hocgioi.org/wp-content/uploads/2014/11/banner6.png
+
+! 20:17:11 8/6/2015 http://www.hocgioi.org/cai-theme-cho-win-xp-dep-don-gian/
+||www.hocgioi.org/wp-content/uploads/2014/11/banner2.png
+
+! 20:17:16 8/6/2015 http://www.hocgioi.org/cai-theme-cho-win-xp-dep-don-gian/
+||www.hocgioi.org/wp-content/uploads/2014/11/banner-oto_zpse2869afb.gif
+
+! 20:17:18 8/6/2015 http://www.hocgioi.org/cai-theme-cho-win-xp-dep-don-gian/
+||www.hocgioi.org/wp-content/uploads/2014/11/banner3.png
+
+! 20:17:21 8/6/2015 http://www.hocgioi.org/cai-theme-cho-win-xp-dep-don-gian/
+||www.hocgioi.org/wp-content/uploads/2015/04/lien-thong-dai-hoc-su-pham.gif
+
+! 20:17:25 8/6/2015 http://www.hocgioi.org/cai-theme-cho-win-xp-dep-don-gian/
+||www.hocgioi.org/wp-content/uploads/2015/03/trung-cap-mam-non.gif
+
+! 9:54:21 9/6/2015 http://blogtruyen.com/truyen/massugu-kimi-e
+||4.bp.blogspot.com/-27PqOZSWNGw/VP_W_qXGd1I/AAAAAAAAdVg/HcvgKT6SYhM/s0/800x100.jpg
+
+! 9:55:10 9/6/2015 http://blogtruyen.com/truyen/massugu-kimi-e
+blogtruyen.com###wrapper > footer > .fl-l.footer-link:nth-of-type(1)
+
+! 9:55:20 9/6/2015 http://blogtruyen.com/truyen/massugu-kimi-e
+blogtruyen.com###wrapper > footer > .fl-l.footer-link:nth-of-type(1)
+
+! 9:57:01 9/6/2015 http://otakufc.com/danhsach/key/a
+otakufc.com###outerdiv
+
+! 9:57:07 9/6/2015 http://otakufc.com/danhsach/key/a
+otakufc.com###footer > .ads-fly > .ads-close
+
+! 16:08:49 11/6/2015 http://arlinadesign.blogspot.com/
+||1.bp.blogspot.com/-7Szw_yN7XoM/VVlbly_aVPI/AAAAAAAACWM/EQrlJRAq5RM/s1600/troli-distro.gif
+
+
+
+! 19:23:17 29/6/2015 http://blogtruyen.com/truyen/pokemon-special-new-new
+blogtruyen.com###wrapper > footer > .fl-l.footer-link:nth-of-type(2)
+
+
+
+
+! 15:33:43 3/7/2015 http://infogame.vn/phim-manga/ba-bai-hoc-ve-thi-cu-cac-si-tu-viet-co-the-rut-ra-tu-anime-17506.html
+infogame.vn##.wrapper > .layout > .fix > .l-right > div:nth-of-type(5) > div
+
+! 15:33:55 3/7/2015 http://infogame.vn/phim-manga/ba-bai-hoc-ve-thi-cu-cac-si-tu-viet-co-the-rut-ra-tu-anime-17506.html
+||infogame.vn/swf/300x250%20(1).swf
+
+! 20:05:54 6/7/2015 http://playpark.vn/cong-dong/tham-hoa-cosplay-tai-hoi-cho-trien-lam-anime-2015-8673-11.html
+||picture.playpark.vn/img/ads21174338280701338289.jpg
+
+! 12:36:22 13/7/2015 http://sachviet.edu.vn/threads/giai-tich-12-nang-cao-nxb-giao-duc-2007-doan-quynh-nguyen-huy-doan-236-trang.7505/
+javascript:'<!DOCTYPE html><html><body></body></html>'$domain=sachviet.edu.vn
+
+! 12:41:51 13/7/2015 http://tienichchiase.com/thu-thuat/tai-file-tren-scribd-com-mien-phi/
+||tienichchiase.com/wp-content/uploads/2015/04/BannerIDM.png
+
+! 12:42:01 13/7/2015 http://tienichchiase.com/thu-thuat/tai-file-tren-scribd-com-mien-phi/
+||tienichchiase.com/wp-content/uploads/2015/04/BannerFB.png
+
+! 13:50:05 15/7/2015 http://www.share99.net/
+||i.imgur.com/Nk1G2uw.jpg
+
+
+
+! 0:31:46 17/7/2015 http://btlibrary.org/torrent/07d9f87b81c5cee8466401293a7610e1afc388cf/Lord-Of-Study-720P-HDTV-x264-Baby.html
+btlibrary.org###ETE
+
+! 0:31:55 17/7/2015 http://btlibrary.org/torrent/07d9f87b81c5cee8466401293a7610e1afc388cf/Lord-Of-Study-720P-HDTV-x264-Baby.html
+||ji.ihualun.com/adscpv/view_i.php?l_url=http%3A%2F%2Fwww.vnsqp99.com%2F%3F883&i_url=http%3A%2F%2Fimgtu.bjjingda.com%2Fcpv%2Fduilian%2F1.swf&ads_id=131&zone_id=1461&c=0&ch=0&w=120&h=270&d=http%3A%2F%2Fiiad.leyouduo8.com&jsdomain=http%3A%2F%2Fji.ihualun.com&logparam=%26u_fv%3D18.0.0%26u_url%3Dhttps%253A%252F%252Fwww.google.com%252F%26r_url%3Dhttp%253A%252F%252Fbtlibrary.org%252Ftorrent%252F07d9f87b81c5cee8466401293a7610e1afc388cf%252FLord-Of-Study-720P-HDTV-x264-Baby.html%26u_sw%3D1360%26u_sh%3D768%26u_scd%3D24%26u_bw%3D1343%26u_bh%3D599%26u_utz%3D7
+
+
+
+! 0:43:52 17/7/2015 http://storebt.com/torrent/BcGBAQAgBATAlXyKN47E_iN0J_5i6JeoU93cZluwQtMN0sgpJWs-/btlibrary.org_Lord-Of-Study-720P-HDTV-x264-Baby.html
+storebt.com###__QQCP_RIGHT_Div
+
+! 0:43:58 17/7/2015 http://storebt.com/torrent/BcGBAQAgBATAlXyKN47E_iN0J_5i6JeoU93cZluwQtMN0sgpJWs-/btlibrary.org_Lord-Of-Study-720P-HDTV-x264-Baby.html
+storebt.com###__QQCP_LEFT_Div
+
+! 0:44:03 17/7/2015 http://storebt.com/torrent/BcGBAQAgBATAlXyKN47E_iN0J_5i6JeoU93cZluwQtMN0sgpJWs-/btlibrary.org_Lord-Of-Study-720P-HDTV-x264-Baby.html
+||55336.5ip9.com/mediacodeRotate.php?id=209643&w=300&h=250&a=86619&b=15611&p=7519&s=86619&ui=136547&u=btkitty&k=1&bf=ete_zhuan%2Fete_zhuan_1427795288.swf&rot=1&fromtime=1437068615&gu=http%253A//www.stat.lurmin-a.irano.com.cn/zpo7&tp=http%3A//storebt.com/torrent/BcGBAQAgBATAlXyKN47E_iN0J_5i6JeoU93cZluwQtMN0sgpJWs-/btlibrary.org_Lord-Of-Study-720P-HDTV-x264-Baby.html&re=http%3A//btlibrary.org/torrent/07d9f87b81c5cee8466401293a7610e1afc388cf/Lord-Of-Study-720P-HDTV-x264-Baby.html&fsh=1&cok=1&acq=0&screen=1360_768&eteops=2
+
+! 0:44:44 17/7/2015 http://btlibrary.org/torrent/07d9f87b81c5cee8466401293a7610e1afc388cf/Lord-Of-Study-720P-HDTV-x264-Baby.html
+btlibrary.org###__QQCP_LEFT_Div
+
+! 13:21:46 17/7/2015 http://btlibrary.org/torrent/07d9f87b81c5cee8466401293a7610e1afc388cf/Lord-Of-Study-720P-HDTV-x264-Baby.html
+||ji.ihualun.com/adscpv/view_i.php?l_url=http%3A%2F%2Fnnb888.com%2F%3F883&i_url=http%3A%2F%2Fimgtu.bjjingda.com%2Fcpc%2F239%2F719.swf&ads_id=190&zone_id=1461&c=0&ch=0&w=120&h=270&d=http%3A%2F%2Fiiad.leyouduo8.com&jsdomain=http%3A%2F%2Fji.ihualun.com&logparam=%26u_fv%3D18.0.0%26u_url%3Dhttps%253A%252F%252Fwww.google.com%252F%26r_url%3Dhttp%253A%252F%252Fbtlibrary.org%252Ftorrent%252F07d9f87b81c5cee8466401293a7610e1afc388cf%252FLord-Of-Study-720P-HDTV-x264-Baby.html%26u_sw%3D1360%26u_sh%3D768%26u_scd%3D24%26u_bw%3D1343%26u_bh%3D599%26u_utz%3D7
+
+! 13:21:57 17/7/2015 http://btlibrary.org/torrent/07d9f87b81c5cee8466401293a7610e1afc388cf/Lord-Of-Study-720P-HDTV-x264-Baby.html
+btlibrary.org###__QQCP_RIGHT_Div
+
+! 13:31:44 17/7/2015 http://www.torrentair.com/
+||www.torrentair.com/plugin/top_slide/images/yamato_top.gif
+
+! 13:32:45 17/7/2015 http://www.torrentair.com/torrent_drama/26572?sca=&sfl=wr_subject&stx=%EC%8B%9C%ED%81%AC%EB%A6%BF&spt=-30390&page=1
+||www.torrentair.com/img/yamato_wide.gif
+
+! 15:00:47 18/7/2015 http://phimnhanh.net/movie/info/2081/Lord-Of-Study
+phimnhanh.net###balloon
+
+! 15:00:52 18/7/2015 http://phimnhanh.net/movie/info/2081/Lord-Of-Study
+||cdn.phimnhanh.net/mybet88.gif
+
+! 15:00:59 18/7/2015 http://phimnhanh.net/movie/info/2081/Lord-Of-Study
+phimnhanh.net###balloonads2
+
+! 16:19:13 18/7/2015 http://biphim.com/
+||homedesign4k.com/2015/biphimpc.html
+
+! 14:09:51 19/7/2015 http://nethd.org/
+||nethd.org/pic/1000gem.png
+
+! 22:41:50 19/7/2015 http://www.suachualaptop24h.com/loi-man-hinh-laptop/loi-man-hinh-lcd-laptop-bi-soc-ngang-soc-doc-d2460.html
+||www.suachualaptop24h.com/Pictures/635527827712031250sualaptoptainha_2811.jpg
+
+! 22:41:54 19/7/2015 http://www.suachualaptop24h.com/loi-man-hinh-laptop/loi-man-hinh-lcd-laptop-bi-soc-ngang-soc-doc-d2460.html
+||www.suachualaptop24h.com/Pictures/635713701949912500banner-tuyen-dung.gif
+
+! 22:43:17 19/7/2015 http://www.suachualaptop24h.com/loi-man-hinh-laptop/loi-man-hinh-lcd-laptop-bi-soc-ngang-soc-doc-d2460.html
+||www.suachualaptop24h.com/Pictures/635683369876941250banner-giam-gia-ap24h.gif
+
+! 22:43:20 19/7/2015 http://www.suachualaptop24h.com/loi-man-hinh-laptop/loi-man-hinh-lcd-laptop-bi-soc-ngang-soc-doc-d2460.html
+||www.suachualaptop24h.com/Pictures/635558727258207500baner%20sualaptop.jpg
+
+! 22:43:24 19/7/2015 http://www.suachualaptop24h.com/loi-man-hinh-laptop/loi-man-hinh-lcd-laptop-bi-soc-ngang-soc-doc-d2460.html
+||www.suachualaptop24h.com/Pictures/635561528728722500banner-day-sua-laptop-chuyen-nghiep.gif
+
+! 5:54:35 20/7/2015 http://downloadidmsilent.com/
+||downloadidmsilent.com/wp-content/uploads/2015/03/BannerIDM.png
+
+! 9:47:24 23/7/2015 http://proshowvn.net/threads/tong-hop-sub-kara-tieng-anh-va-viet-uploader-dan-theo-thoi-gian-sky.48038/
+||binhduongwork.com/adw.png
+
+! 11:32:22 23/7/2015 http://www.phim4v.com/xem-phim/132944/vuong-quoc-loai-chuot.html
+||www.besttoysfortoddlers.info/viral-boy.html
+
+! 11:32:29 23/7/2015 http://www.phim4v.com/xem-phim/132944/vuong-quoc-loai-chuot.html
+www.phim4v.com###balloons_left_close
+
+! 11:32:38 23/7/2015 http://www.phim4v.com/xem-phim/132944/vuong-quoc-loai-chuot.html
+www.phim4v.com###balloons_left
+
+! 16:26:02 29/7/2015 http://blogtruyen.com/truyen/idol-pretender-new
+||blogtruyen.com/file/tc-top.html
+
+! 22:02:09 29/7/2015 http://tangthucac.com/nay-co-be-anh-yeu-em.html
+||i.imgur.com/BA2vAgg.jpg
+
+! 22:02:14 29/7/2015 http://tangthucac.com/nay-co-be-anh-yeu-em.html
+||static.lazada.vn/cms/docking-banner/docking-vpm-3-7.jpg
+
+! 22:13:05 29/7/2015 http://www.tangthuvien.vn/forum/showthread.php?t=118869&page=740
+||www.tangthuvien.vn/forum/images/ongame.jpg
+
+! 22:13:13 29/7/2015 http://www.tangthuvien.vn/forum/showthread.php?t=118869&page=740
+www.tangthuvien.vn###post_19518193 > .code > tbody > tr > td
+
+! 20:23:55 1/8/2015 http://tvtructuyen.net/xem-truc-tuyen-mien-phi-chat-luong-cao-kenh-mytv-hd.php
+||i.imgur.com/43fCmXl.gif
+
+! 20:23:58 1/8/2015 http://tvtructuyen.net/xem-truc-tuyen-mien-phi-chat-luong-cao-kenh-mytv-hd.php
+||i.imgur.com/6OQIckn.gif
+
+! 20:24:07 1/8/2015 http://tvtructuyen.net/xem-truc-tuyen-mien-phi-chat-luong-cao-kenh-mytv-hd.php
+||i.imgur.com/1rPEFPm.gif
+
+! 22:32:59 1/8/2015 http://www.nyaa.eu/?page=torrentinfo&tid=269719
+||files.nyaa.eu/ai9.jpg
+
+! 22:33:04 1/8/2015 http://www.nyaa.eu/?page=torrentinfo&tid=269719
+||files.nyaa.eu/ai23.jpg
+
+! 22:33:12 1/8/2015 http://www.nyaa.eu/?page=torrentinfo&tid=269719
+||files.nyaa.eu/ai7.jpg
+
+! 15:21:41 2/8/2015 http://www.vietcago.com/load/multimedia/viet_simpletv/2-1-0-76
+www.vietcago.com###content > .message > .image > div:nth-of-type(2) > div > iframe
+
+! 15:21:59 2/8/2015 http://www.vietcago.com/
+www.vietcago.com###main > .wrap > div:nth-of-type(1) > iframe
+
+! 15:26:06 2/8/2015 http://kenh76.vn/phan-mem-zonline-xem-tv-hd-khong-giat-phim-full-hd.html
+||kenh76.vn/banner-webghepanh-300.gif
+
+! 15:28:49 2/8/2015 http://upfile.vn/T-GQNQXm_qXt/kenh76-vn-list-kenh-fpt-tren-vlc-m3u.html
+upfile.vn###Download > .Wrapper > a[href="http://fbapp.topway.vn/1110035/fp/s/c/1150260"] > .Banner-left
+
+! 15:28:51 2/8/2015 http://upfile.vn/T-GQNQXm_qXt/kenh76-vn-list-kenh-fpt-tren-vlc-m3u.html
+upfile.vn###Download > .Wrapper > a[href="http://fbapp.topway.vn/1110035/fp/s/c/1150255"] > .Banner-right
+
+! 14:05:23 4/8/2015 http://thegioitinhoc.vn/tin-hoc-can-ban/114205-cach-tat-chuc-nang-windows-update-trong-win-7-a.html
+||hoiquantinhoc.vn/img/hqth.gif
+
+! 16:03:18 6/8/2015 http://www.vn-zoom.com/f77/tool-download-phim-tren-hayhaytv-vn-2912282.html
+||i.imgur.com/AoFhTCx.jpg
+
+! 19:29:45 8/8/2015 http://hdonline.vn/phim-doraemon--nhung-hiep-si-khong-gian-8845.html
+||hdonline.vn/ads/hdo_coccoc_v2.png
+
+! 7:25:36 10/8/2015 http://www.removetips.net/how-can-i-remove-api-box-yahoo-co-jp-removal-tips/
+||www.removetips.net/wp-content/uploads/2015/05/spyhunterdownload.gif
+
+! 7:25:44 10/8/2015 http://www.removetips.net/how-can-i-remove-api-box-yahoo-co-jp-removal-tips/
+||www.removetips.net/wp-content/uploads/2015/05/banner-side-right.jpg
+
+! 22:18:12 31/8/2015 http://congnghe3s.com/trinh-duyet-google-chrome-phien-ban-cai-offline/
+||share34.com/wp-content/uploads/2013/10/eva247.gif
+
+! 15:54:38 1/9/2015 http://www.oni.vn/2xX4Z
+||oni.vn/hinh-anh/banner-totdoi.jpg
+
+! 15:54:40 1/9/2015 http://www.oni.vn/2xX4Z
+||oni.vn/hinh-anh/totdoi-300x250.jpg
+
+! 15:54:46 1/9/2015 http://www.oni.vn/Tvleq
+||oni.vn/hinh-anh/totdoi-300x250.jpg
+
+! 15:54:49 1/9/2015 http://www.oni.vn/Tvleq
+||oni.vn/hinh-anh/banner-totdoi.jpg
+
+! 17:05:12 4/9/2015 https://share.dmhy.org/topics/view/404633_-11_A_Doraemon_Movie_01-36_BDRIP_720P_X264-10bit_AAC_25.html
+||share.dmhy.org/shareman1.jpg?43
+
+! 17:05:20 4/9/2015 https://share.dmhy.org/topics/view/404633_-11_A_Doraemon_Movie_01-36_BDRIP_720P_X264-10bit_AAC_25.html
+||share.dmhy.org/MZ1.jpg?106
+
+! 17:05:26 4/9/2015 https://share.dmhy.org/topics/view/404633_-11_A_Doraemon_Movie_01-36_BDRIP_720P_X264-10bit_AAC_25.html
+||share.dmhy.org/MY1.png?50
+
+! 17:05:34 4/9/2015 https://share.dmhy.org/topics/view/404633_-11_A_Doraemon_Movie_01-36_BDRIP_720P_X264-10bit_AAC_25.html
+||share.dmhy.org/sms3.jpg?20
+
+! 17:06:13 4/9/2015 https://share.dmhy.org/topics/view/404633_-11_A_Doraemon_Movie_01-36_BDRIP_720P_X264-10bit_AAC_25.html
+||share.dmhy.org/DM3.jpg?6
+
+! 17:06:21 4/9/2015 https://share.dmhy.org/topics/view/404633_-11_A_Doraemon_Movie_01-36_BDRIP_720P_X264-10bit_AAC_25.html
+||share.dmhy.org/ZDS3.jpg?11
+
+! 17:06:29 4/9/2015 https://share.dmhy.org/topics/view/404633_-11_A_Doraemon_Movie_01-36_BDRIP_720P_X264-10bit_AAC_25.html
+||share.dmhy.org/QM1.jpg?1
+
+! 0:41:46 6/9/2015 http://truyen.academyvn.com/chapter/43655/sweet-guy-chapter-6
+truyen.academyvn.com###float_content_right
+
+! 0:41:52 6/9/2015 http://truyen.academyvn.com/chapter/43655/sweet-guy-chapter-6
+truyen.academyvn.com###hide_float_right > a[href="javascript:hide_float_right()"]
+
+! 0:46:06 6/9/2015 http://gamehay.net/forum/index.php?threads/cac-tu-the-quan-he-tinh-duc.14950/
+||gamehay.net/logo/digital-ocean-coupon-10-dollar.jpg
+
+! 0:51:30 6/9/2015 http://truyen.academyvn.com/chapter/43655/sweet-guy-chapter-6
+truyen.academyvn.com###hide_float_left > a[href="javascript:hide_float_left()"]
+
+! 11:26:18 6/9/2015 http://mangak.net/sweet-guy-chap-28/
+mangak.net##body > div:nth-of-type(17) > .open-ad
+
+! 11:26:31 6/9/2015 http://mangak.net/sweet-guy-chap-28/
+mangak.net###like-fanpage > div > span:nth-of-type(1)
+
+! 15:40:08 6/9/2015 https://www.nyaa.eu/?page=view&tid=729371
+||files.nyaa.eu/ai32.jpg
+
+! 15:40:24 6/9/2015 https://www.nyaa.eu/?page=view&tid=729371
+||files.nyaa.eu/ai4.jpg
+
+! 15:41:06 6/9/2015 https://www.nyaa.eu/?user=215322
+www.nyaa.eu###main > div:nth-of-type(4)
+
+! 15:41:37 6/9/2015 https://www.nyaa.eu/?user=215322
+www.nyaa.eu###main > div:nth-of-type(2) > a[href^="https://www.nyaa.eu/ai/"] > img
+
+! 15:41:46 6/9/2015 https://www.nyaa.eu/?user=215322
+www.nyaa.eu###main > div:nth-of-type(1) > div > a[href^="https://www.nyaa.eu/ai/"] > img
+
+! 16:00:24 6/9/2015 https://sukebei.nyaa.eu/
+||files.nyaa.eu/ai28.jpg
+
+! 16:00:30 6/9/2015 https://sukebei.nyaa.eu/
+||files.nyaa.eu/ai11.jpg
+
+! 16:00:53 6/9/2015 https://sukebei.nyaa.eu/
+sukebei.nyaa.eu###main > div:nth-of-type(2) > a[href^="https://sukebei.nyaa.eu/ai/"] > img
+
+! 16:00:58 6/9/2015 https://sukebei.nyaa.eu/
+sukebei.nyaa.eu###main > div:nth-of-type(1) > div > a[href^="https://sukebei.nyaa.eu/ai/"] > img
+
+! 16:01:56 6/9/2015 https://sukebei.nyaa.eu/?page=view&tid=1813211
+sukebei.nyaa.eu###main > div:nth-of-type(4) > a[href^="https://sukebei.nyaa.eu/ai/"] > img
+
+! 16:41:49 6/9/2015 http://share.dmhy.org/topics/view/382029_NO_GAME_NO_LIFE_rip_720P.html
+||share.dmhy.org/MZ2.jpg?106
+
+! 16:41:53 6/9/2015 http://share.dmhy.org/topics/view/382029_NO_GAME_NO_LIFE_rip_720P.html
+||share.dmhy.org/shareman3.jpg?43
+
+! 16:42:13 6/9/2015 http://share.dmhy.org/topics/view/382029_NO_GAME_NO_LIFE_rip_720P.html
+||share.dmhy.org/DM2.jpg?6
+
+! 16:42:21 6/9/2015 http://share.dmhy.org/topics/view/382029_NO_GAME_NO_LIFE_rip_720P.html
+||share.dmhy.org/ZDS2.jpg?11
+
+! 16:57:19 6/9/2015 https://share.dmhy.org/topics/view/407453_07_Charlotte_10_720P_MP4.html
+share.dmhy.org###MY_ad > a[href^="https://item.taobao.com/item.htm"] > img
+
+! 16:57:31 6/9/2015 https://share.dmhy.org/topics/view/407453_07_Charlotte_10_720P_MP4.html
+share.dmhy.org###mz_ad > a[href="http://manzong.tmall.com/"] > img
+
+! 16:57:37 6/9/2015 https://share.dmhy.org/topics/view/407453_07_Charlotte_10_720P_MP4.html
+share.dmhy.org###shareman_ad > a[href="http://shareman001.taobao.com/"] > img
+
+! 16:57:44 6/9/2015 https://share.dmhy.org/topics/view/407453_07_Charlotte_10_720P_MP4.html
+share.dmhy.org###JN_ad > a[href="http://wydm.taobao.com/"] > img
+
+! 16:58:26 6/9/2015 https://share.dmhy.org/topics/view/407453_07_Charlotte_10_720P_MP4.html
+share.dmhy.org###ZDS_ad > a[href^="https://detail.tmall.com/item.htm"] > img
+
+! 17:19:08 6/9/2015 http://sh.st/hqAV?utm_source=buzzgfx.com&utm_medium=QL&utm_name=1
+sh.st###intermediate-ad
+
+! 17:27:00 6/9/2015 http://sh.st/hqAV?utm_source=buzzgfx.com&utm_medium=QL&utm_name=1
+sh.st###\33 96943
+
+! 17:27:05 6/9/2015 http://sh.st/hqAV?utm_source=buzzgfx.com&utm_medium=QL&utm_name=1
+sh.st##span > span > img
+
+! 17:27:24 6/9/2015 http://prefiles.com/tffkjv21vbig/alpha.rar
+||pixdl.com/images/2015/08/26/3be732ade9e6fa8258c17b7945d88040.png
+
+! 17:27:28 6/9/2015 http://prefiles.com/tffkjv21vbig/alpha.rar
+||pixdl.com/images/2015/08/26/e0e46a43a00d5969c4602a6491d2fd32.png
+
+! 19:42:31 6/9/2015 http://gfxfree.net/templates/blog-theme/slider-v1-0-1-responsive-media-driven-ghost-theme.html
+||ouo.io/images/banners/r4.jpg
+
+! 0:32:47 7/9/2015 http://bato.to/read/_/341909/sweet-guy_ch26_by_yo-manga
+bato.to###webtoon160ad
+
+! 23:08:24 7/9/2015 http://phienbanmoi.com/threads/windows-xp-professional-sp3-x86-black-edition-16-08-2015.86806/
+||d5coalition.com/phienbanmoi-com-top.html
+
+! 17:05:23 8/9/2015 http://www.nyaa.se/
+www.nyaa.se###main > div:nth-of-type(1) > div
+
+! 17:05:35 8/9/2015 http://www.nyaa.se/
+www.nyaa.se###main > div:nth-of-type(2) > a[href^="http://www.nyaa.se/aj/"] > img
+
+! 17:05:45 8/9/2015 http://www.nyaa.se/
+www.nyaa.se###main > div:nth-of-type(4)
+
+! 17:18:48 9/9/2015 http://share.dmhy.org/topics/view/388754_One_Week_Friends_rip_720P_BDrip.html
+share.dmhy.org###DM_ad > a[href="http://otama.taobao.com/"]
+
+! 17:18:54 9/9/2015 http://share.dmhy.org/topics/view/388754_One_Week_Friends_rip_720P_BDrip.html
+share.dmhy.org###ZDS_ad > a[href^="http://world.tmall.com/item/521743099045.htm"]
+
+! 17:19:16 9/9/2015 http://share.dmhy.org/topics/view/407664_7_I_am_Jitsu_wa_Watashi_wa_10_1280X720_BIG5_MP4.html
+share.dmhy.org###MY_ad > a[href="https://slolita.taobao.com/"]
+
+! 17:19:25 9/9/2015 http://share.dmhy.org/topics/view/407664_7_I_am_Jitsu_wa_Watashi_wa_10_1280X720_BIG5_MP4.html
+share.dmhy.org###DM_ad > a[href="http://otama.taobao.com/"] > img
+
+! 19:10:15 9/9/2015 https://share.dmhy.org/topics/list?keyword=BDMV%7CBDISO%7CBDBOX%7CBDRIP%7CBD
+share.dmhy.org###MY_ad > a[href^="https://slolita.taobao.com/p/rd060647.htm"] > img
+
+! 22:21:51 9/9/2015 http://www.nyaa.eu/?page=view&tid=14749&showfiles=1
+www.nyaa.eu###main > div:nth-of-type(1) > div > a[href^="https://www.nyaa.eu/aj/"] > img
+
+! 22:21:57 9/9/2015 http://www.nyaa.eu/?page=view&tid=14749&showfiles=1
+www.nyaa.eu###main > div:nth-of-type(2) > a[href^="https://www.nyaa.eu/aj/"] > img
+
+! 22:23:41 9/9/2015 http://www.verycd.com/topics/132059/
+||strip.taobaocdn.com/tfscom/TB1tOqVIFXXXXXDXXXXO04pFXXX.html?refpos=,a,null&pid=mm_50954048_5026644_15498199&upvid=2is1_1441812218247605&src=talos&r=1&u=http%3A%2F%2Fwww.verycd.com%2Ftopics%2F132059%2F
+
+! 22:25:01 9/9/2015 http://www.verycd.com/topics/19169/
+www.verycd.com###tanxssp_con_mm_50954048_5026644_15498199 > iframe
+
+! 22:27:34 9/9/2015 http://www.didiaoxz.com/html/2015/anime-tv_0426/30096.html
+||www.didiaoxz.com/uploadfile/2015/0428/20150428121805485.jpg
+
+! 22:40:17 9/9/2015 http://www.nyaatorrents.ga/?page=view&tid=28135
+||files.nyaa.se/aj2.jpg
+
+! 22:40:19 9/9/2015 http://www.nyaatorrents.ga/?page=view&tid=28135
+||files.nyaa.se/aj10.jpg
+
+! 22:40:22 9/9/2015 http://www.nyaatorrents.ga/?page=view&tid=28135
+||files.nyaa.se/aj1.jpg
+
+! 22:40:43 9/9/2015 http://www.nyaatorrents.ga/?page=view&tid=28135&showfiles=1
+www.nyaatorrents.ga###main > div:nth-of-type(1) > div > a[href^="/aj/"] > img
+
+! 22:40:47 9/9/2015 http://www.nyaatorrents.ga/?page=view&tid=28135&showfiles=1
+www.nyaatorrents.ga###main > div:nth-of-type(2) > a[href^="/aj/"] > img
+
+! 22:40:52 9/9/2015 http://www.nyaatorrents.ga/?page=view&tid=28135&showfiles=1
+www.nyaatorrents.ga###main > div:nth-of-type(4) > a[href^="/aj/"] > img
+
+! 12:28:55 10/9/2015 http://forum.nihonomaru.net/register.php
+||forum.nihonomaru.net/filejocker.jpg
+
+! 0:18:57 11/9/2015 http://sachviet.edu.vn/threads/giai-thich-ngu-phap-tieng-anh-bai-tap-dap-an-ha-thanh-uyen-mai-lan-huong-512-trang.3035/
+||lh5.googleusercontent.com/-5NOt1P5Csyg/UsZFCVPtsZI/AAAAAAABB5E/aoU3zi99ZU0/s1000/baner%25201000x170.jpg
+
+! 0:19:15 11/9/2015 http://sachviet.edu.vn/threads/giai-thich-ngu-phap-tieng-anh-bai-tap-dap-an-ha-thanh-uyen-mai-lan-huong-512-trang.3035/
+javascript:'<!DOCTYPE html><html><body></body></html>'$domain=sachviet.edu.vn
+
+! 0:20:34 11/9/2015 http://sachviet.edu.vn/threads/dvd-ebook-tieng-anh-tong-hop-giao-trinh-tieng-anh-do-viet-nam-bien-soan.5759/
+javascript:'<!DOCTYPE html><html><body></body></html>'$domain=sachviet.edu.vn
+
+! 0:21:00 11/9/2015 http://sachviet.edu.vn/threads/dvd-ebook-tieng-anh-tong-hop-giao-trinh-tieng-anh-do-viet-nam-bien-soan.5759/
+sachviet.edu.vn###if_va_A70A9B1075B02FFB
+
+! 0:32:05 11/9/2015 http://daytiengnhat.edu.vn/50-bai-hoc-tieng-nhat-bang-tai-lieu-duoi-pdf-88154.html
+||daytiengnhat.edu.vn/upload/itqweb/image/slides/khai-giang2.jpg
+
+! 0:32:16 11/9/2015 http://daytiengnhat.edu.vn/50-bai-hoc-tieng-nhat-bang-tai-lieu-duoi-pdf-88154.html
+||daytiengnhat.edu.vn/upload/itqweb/image/slides/khai-giang-lop-a1.jpg
+
+! 0:51:58 11/9/2015 http://vechai.info/sstudy/chap-000
+||haynhucnhoi.tv/api/vechai/id/1
+
+! 0:52:25 11/9/2015 http://vechai.info/sstudy/chap-000
+||haynhucnhoi.tv/api/vechai/id/2
+
+! 17:15:20 18/9/2015 http://www.nyaa.se/?page=search&cats=0_0&filter=0&term=xxxHOLiC
+||files.nyaa.se/ak12.jpg
+
+! 17:15:56 18/9/2015 http://www.nyaa.se/?page=view&tid=75745&showfiles=1
+||files.nyaa.se/*.jpg
+
+! 23:37:48 19/9/2015 http://pururin.com/view/4216/011/cute-devil-girlfriend_12.html
+||pururin.com/assets/static/bzone/pururin-leaderboard-chat-ab.html
+
+! 23:35:38 20/9/2015 http://blogtruyen.com/trangchu
+||4.bp.blogspot.com/-Mibkqu_hCNU/Vfd2ckKO20I/AAAAAAAAsKk/Fxf16-Wau1s/s0/
+
+! 10:25:07 22/9/2015 http://www.2cl.cc/
+||vip4.rwjfs.com/cpv/v2.ashx?jxu=703579&jxs=0&jxo=7&jxt=7&jxw=0&jxh=0&jxtk=63578517907&jxd=807110&jxdm=d3d3LjJjbC5jYw2&jxoby=0&jxlp=1&jxcf=xwAAABIAAABodHRwOi8vd3d3LjJjbC5jYy8AAAAAUAUAAxgAAQEBAAAAAGUAAABNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS80NS4wLjI0NTQuOTMgU2FmYXJpLzUzNy4zNgIADQAGAAAAMTguMC4wDwAAADExMy4xODkuMTM0LjE2NaWGvXEMAAAA5Zu95aSW5YW25LuWTAA1&jxst=0&jxtm=80&jxtw=0&jxnm=1&jxln=1
+
+! 10:25:12 22/9/2015 http://www.2cl.cc/
+||f.f70123.com/cpf/BothSides.asp?u=59605&th=1&ist=0&c=1|1|1&s_noadid=&w=142&h=350&ref=&j=0
+
+! 10:25:17 22/9/2015 http://www.2cl.cc/
+||f.f70123.com/cpf/BothSides.asp?u=59605&th=1&ist=0&c=1|1|1&s_noadid=&w=142&h=350&ref=&j=1
+
+! 10:25:28 22/9/2015 http://www.2cl.cc/
+||e.70e.com/code/cpc_bottom_cpf.asp?s_type=1&s_diyorsystem=1&s_hang=2&s_lie=1&s_id=59605&s_attrib=0&l=1
+
+! 10:25:34 22/9/2015 http://www.2cl.cc/
+www.2cl.cc###cpc_70e_float_right > div:nth-of-type(3)
+
+! 10:25:39 22/9/2015 http://www.2cl.cc/
+www.2cl.cc###cpc_70e_float_right > div:nth-of-type(1)
+
+! 10:25:45 22/9/2015 http://www.2cl.cc/
+www.2cl.cc###cpc_70e_float_left > div:nth-of-type(1)
+
+! 15:15:25 22/9/2015 https://www.nyaa.eu/?page=view&tid=446617&showfiles=1
+||files.nyaa.eu/ak6.jpg
+
+! 15:15:29 22/9/2015 https://www.nyaa.eu/?page=view&tid=446617&showfiles=1
+||files.nyaa.eu/ak2.jpg
+
+! 15:15:36 22/9/2015 https://www.nyaa.eu/?user=76430
+||files.nyaa.eu/ak15.jpg
+
+! 15:15:45 22/9/2015 https://www.nyaa.eu/?page=view&tid=736182
+www.nyaa.eu###main > div:nth-of-type(1) > div > a[href^="https://www.nyaa.eu/ak/"] > img
+
+! 15:15:50 22/9/2015 https://www.nyaa.eu/?page=view&tid=736182
+www.nyaa.eu###main > div:nth-of-type(2) > a[href^="https://www.nyaa.eu/ak/"] > img
+
+
+
+! 20:36:26 23/9/2015 http://xemtvhd.com/vtc7-online-vtc7-today-truc-tuyen-kenh-vtc7.html
+||xemtvhd.com/logo/1babiphai.php
+
+! 20:36:31 23/9/2015 http://xemtvhd.com/vtc7-online-vtc7-today-truc-tuyen-kenh-vtc7.html
+||xemtvhd.com/logo/1phai.php
+
+! 20:36:36 23/9/2015 http://xemtvhd.com/vtc7-online-vtc7-today-truc-tuyen-kenh-vtc7.html
+xemtvhd.com###hide_rightpopup_right > a[href="javascript:hide_rightpopup_right()"]
+
+! 20:36:41 23/9/2015 http://xemtvhd.com/vtc7-online-vtc7-today-truc-tuyen-kenh-vtc7.html
+||xemtvhd.com/logo/1s888.php
+
+! 20:36:46 23/9/2015 http://xemtvhd.com/vtc7-online-vtc7-today-truc-tuyen-kenh-vtc7.html
+||xemtvhd.com/logo/1dafanba.php
+
+! 20:36:51 23/9/2015 http://xemtvhd.com/vtc7-online-vtc7-today-truc-tuyen-kenh-vtc7.html
+||xemtvhd.com/logo/1vatgia4.php
+
+! 20:36:57 23/9/2015 http://xemtvhd.com/vtc7-online-vtc7-today-truc-tuyen-kenh-vtc7.html
+||xemtvhd.com/logo/1vatgia5.php
+
+! 20:37:05 23/9/2015 http://xemtvhd.com/vtc7-online-vtc7-today-truc-tuyen-kenh-vtc7.html
+||xemtvhd.com/logo/menu2.php
+
+! 20:37:10 23/9/2015 http://xemtvhd.com/vtc7-online-vtc7-today-truc-tuyen-kenh-vtc7.html
+||xemtvhd.com/logo/mybet88.php
+
+! 20:59:18 23/9/2015 http://xemtvhd.com/vtc7-online-vtc7-today-truc-tuyen-kenh-vtc7.html
+||xemtvhd.com/logo/1trai.php
+
+! 12:17:32 24/9/2015 http://phienbanmoi.com/threads/windows-xp-professional-sp3-x86-black-edition-2015-9-12.90338/
+||www.upsieutoc.com/images/2015/09/12/button_2.gif
+
+! 12:05:27 25/9/2015 http://vkool.net/watch/co-be-charlotte-503578.html
+||phimkp.com/2015/vkool.html
+
+! 21:01:17 26/9/2015 http://www.tivi24h.com/2011/08/kenh-vtc7-hd-today-giai-tri-tong-hop.html
+||lh6.googleusercontent.com/-n-wdYx7AM2k/U-dGHY1myTI/AAAAAAAAAJo/fHRLBgF7qlA/w640-h80-no/m88.gif
+
+! 21:01:33 26/9/2015 http://www.tivi24h.com/2011/06/vtc7-online-kenh-vtc7-truc-tuyen-truyen.html
+||lh4.googleusercontent.com/WqdIEeOhSorfzjjXlq-xWEVjZNoJqyMZgTL93k5M52w=w743-h281-no
+
+! 21:01:37 26/9/2015 http://www.tivi24h.com/2011/06/vtc7-online-kenh-vtc7-truc-tuyen-truyen.html
+||i.imgur.com/Mtm16T5.gif
+
+! 23:58:24 26/9/2015 https://share.dmhy.org/topics/view/404677_-11_Grisaia_no_Kajitsu_BDrip_720P_X264-10bit_AAC.html
+||share.dmhy.org/UNY1.jpg?6
+
+! 19:28:43 27/9/2015 http://xemtvhd.com/animal-planet-online-kenh-animal-planet-truc-tuyen.html
+||xemtvhd.com/logo/menu2-3.php
+
+! 19:28:49 27/9/2015 http://xemtvhd.com/animal-planet-online-kenh-animal-planet-truc-tuyen.html
+||xemtvhd.com/logo/menu2-4.php
+
+! 7:08:40 28/9/2015 http://q.gs/5gbiI
+||q.gs/1market.php?p=iOJixULWmbdhz5IGidwzi9aGGa9izwdiCIIi6oIjnIE0uJZ33bMwiJLCCLJiwkcUma9i0dbW2NNvvIbiCOIi6UIWmbhh05dGHaA06FIGicwiiwbi3IJipoZj2IlouNImjcohiVa2HcRi0wciDIoivoLj3IEouNZX3YMoiJLyCeJ6oIcCmbVymVInjIosiQaDHNR40gcDDMo4voLj3IEuuJZC3LM0vINTWOd0iEaTUOk6iILCCZJihwbimINilBcT3MR1vAcTkM9xyYazWMd3pMbmnNMjiBODnOtj9BfTSYwjiRZWmZxjhRcT2YgxiIOGjMElshIzmY14vYYjmIl6sIZCSdIi6wMiCIwxiIbiWO9iiMa2WcxilwXi2I9tzNIjjIo6iITimY8jiJfyQe==
+
+
+! 14:18:03 28/9/2015 http://thiendia.com/diendan/forumdisplay.php?f=18
+||s29.postimg.org/kxmhmo6fb/Lauxanh_Thiendia_Fun88_The_Thao_Ca_Cuoc_Truc_Tuy.gif
+
+! 14:18:06 28/9/2015 http://thiendia.com/diendan/forumdisplay.php?f=18
+||s10.postimg.org/qhmaas8ft/VDN_media_banner_728_x_90.gif
+
+! 14:18:09 28/9/2015 http://thiendia.com/diendan/forumdisplay.php?f=18
+||s12.postimg.org/nhydqtzot/722x85.gif
+
+! 14:18:12 28/9/2015 http://thiendia.com/diendan/forumdisplay.php?f=18
+||s1.postimg.org/cy3eq9t8f/300_x_250_1.gif
+
+! 14:21:26 28/9/2015 http://thiendia.com/diendan/index.php
+||img.thiendia.com/server6/images/80620288355778038486.gif
+
+! 14:23:24 28/9/2015 http://www.porn99.net/online/index.php
+||s10.postimg.org/nn2ouui0p/VN_001.gif
+
+! 14:28:19 28/9/2015 http://www.phim88.net/phim-cap-3/
+||img.thiendia.com/server5/images/00003189319935047995.jpg
+
+! 14:28:23 28/9/2015 http://www.phim88.net/phim-cap-3/
+||server5.upload69.net/images/53193272146833073672.jpg
+
+! 14:44:56 28/9/2015 http://thiendia.com/diendan/showthread.php?t=949314
+||img.thiendia.com/server6/images/46753077179055236421.gif
+
+! 13:19:25 30/9/2015 http://www.bdsola.com/search.php?kw=%E5%AE%AB%E5%B4%8E%E9%AA%8F.1984-2008.BluRay.iPad.720p-CHDPAD
+||vip4.rwjfs.com/cpv/v2.ashx?jxu=703745&jxs=0&jxo=7&jxt=7&jxw=0&jxh=0&jxtk=63579219574&jxd=807439&jxdm=d3d3LmJkc29sYS5jb201&jxoby=0&jxlp=1&jxcf=LAEAAGEAAABodHRwOi8vd3d3LmJkc29sYS5jb20vc2VhcmNoLnBocD9rdz0lRTUlQUUlQUIlRTUlQjQlOEUlRTklQUElOEYuMTk4NC0yMDA4LkJsdVJheS5pUGFkLjcyMHAtQ0hEUEFEFwAAAGh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vUAUAAxgAAQEBAAAAAGYAAABNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS80NS4wLjI0NTQuMTAxIFNhZmFyaS81MzcuMzYCAA0ABgAAADE5LjAuMA0AAAAxMTMuMTY4LjcyLjQwKEiocQwAAADlm73lpJblhbbku5ZMAA2&jxst=0&jxtm=80&jxtw=0&jxnm=1&jxln=1
+
+! 13:24:31 30/9/2015 http://www.bdsola.com/search.php?kw=STUDIO.GHIBLI.Hayao.Miyazaki.Animation.Film.Collection.1984-2008.BluRay.iPad.720p.AAC.4Audio.x264-CHDPAD
+||vip4.rwjfs.com/cpv/v2.ashx?jxu=703745&jxs=0&jxo=7&jxt=7&jxw=0&jxh=0&jxtk=63579219628&jxd=807439&jxdm=d3d3LmJkc29sYS5jb201&jxoby=0&jxlp=3&jxcf=bQEAAIwAAABodHRwOi8vd3d3LmJkc29sYS5jb20vc2VhcmNoLnBocD9rdz1TVFVESU8uR0hJQkxJLkhheWFvLk1peWF6YWtpLkFuaW1hdGlvbi5GaWxtLkNvbGxlY3Rpb24uMTk4NC0yMDA4LkJsdVJheS5pUGFkLjcyMHAuQUFDLjRBdWRpby54MjY0LUNIRFBBRC0AAABodHRwOi8vd3d3LmJkc29sYS5jb20vdmlld2ZpbGUucGhwP2ZpZD13TVdGYWJQBQADGAABAQEAAAAAZgAAAE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDYuMSkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzQ1LjAuMjQ1NC4xMDEgU2FmYXJpLzUzNy4zNgIADQAGAAAAMTkuMC4wDQAAADExMy4xNjguNzIuNDAoSKhxDAAAAOWbveWkluWFtuS7lkwA0&jxst=0&jxtm=80&jxtw=0&jxnm=1&jxln=1
+
+! 13:24:37 30/9/2015 http://www.bdsola.com/search.php?kw=STUDIO.GHIBLI.Hayao.Miyazaki.Animation.Film.Collection.1984-2008.BluRay.iPad.720p.AAC.4Audio.x264-CHDPAD
+||vip4.rwjfs.com/cpv/images/close.png
+
+! 13:25:03 30/9/2015 http://www.bdsola.com/viewfile.php?fid=aMbLab
+||vip4.rwjfs.com/cpv/v2.ashx
+
+! 22:45:02 30/9/2015 http://tapcuoi.net/co-dau-8-tuoi/
+||biblicaleating.org/wp-ad/336moira-tapcuoi.html
+
+! 22:45:08 30/9/2015 http://tapcuoi.net/co-dau-8-tuoi/
+||biblicaleating.org/wp-ad/300moira-tapcuoi.html
+
+! 22:45:14 30/9/2015 http://tapcuoi.net/co-dau-8-tuoi/
+tapcuoi.net###hide_balloons_right
+
+! 22:45:21 30/9/2015 http://tapcuoi.net/co-dau-8-tuoi/
+tapcuoi.net###hide_balloons_left
+
+! 22:57:13 30/9/2015 http://phimck.com/xem-phim/7227/co-dau-8-tuoi.html
+||dulichdatviet.info/du-lich-dien-bien-phu.html
+
+! 12:03:45 3/10/2015 http://hayxemphim.com/phim-my/khach-san-huyen-bi-2-full-vietsub.html
+||hayxemphim.com/assets/images/no-banner-300x250.jpg
+
+! 12:59:26 3/10/2015 http://share.dmhy.org/topics/view/373788_2004.html
+||share.dmhy.org/ZDS1.jpg?14
+
+! 21:19:55 4/10/2015 http://keonhacai.com/xem-bong-da-truc-tuyen
+||s19.postimg.org/quetz51eb/300x90km_1.gif
+
+! 21:20:00 4/10/2015 http://keonhacai.com/xem-bong-da-truc-tuyen
+keonhacai.com###pf204652hide > .min
+
+! 21:20:03 4/10/2015 http://keonhacai.com/xem-bong-da-truc-tuyen
+keonhacai.com###pf204652close > .close
+
+! 21:20:06 4/10/2015 http://keonhacai.com/xem-bong-da-truc-tuyen
+||s19.postimg.org/8sk2mdefn/RA1z_AAU.gif
+
+! 21:20:09 4/10/2015 http://keonhacai.com/xem-bong-da-truc-tuyen
+||s19.postimg.org/f6f9o3p03/tjh6tzg.gif
+
+! 21:20:12 4/10/2015 http://keonhacai.com/xem-bong-da-truc-tuyen
+||s19.postimg.org/du25zygyb/120x300_1.gif
+
+! 21:20:15 4/10/2015 http://keonhacai.com/xem-bong-da-truc-tuyen
+||s19.postimg.org/6mmn5ddcj/8hd_Qory.gif
+
+! 21:20:18 4/10/2015 http://keonhacai.com/xem-bong-da-truc-tuyen
+||s19.postimg.org/71xwydz9v/300x180_1.gif
+
+! 21:20:22 4/10/2015 http://keonhacai.com/xem-bong-da-truc-tuyen
+||s19.postimg.org/e5ls2z8lv/bet365_465x90_1.gif
+
+! 21:20:25 4/10/2015 http://keonhacai.com/xem-bong-da-truc-tuyen
+||s19.postimg.org/8rs8ep36b/7live_media_banner_500x80_viet_v1_01.gif
+
+! 21:20:29 4/10/2015 http://keonhacai.com/xem-bong-da-truc-tuyen
+||s19.postimg.org/445lbx5jn/490x90nhanh1.gif
+
+! 21:20:32 4/10/2015 http://keonhacai.com/xem-bong-da-truc-tuyen
+||s19.postimg.org/uqi20w9qr/ir_LN2m7.gif
+
+! 21:20:34 4/10/2015 http://keonhacai.com/xem-bong-da-truc-tuyen
+||oi62.tinypic.com/2hy9wt2.jpg
+
+! 21:20:37 4/10/2015 http://keonhacai.com/xem-bong-da-truc-tuyen
+||s19.postimg.org/4z9qcsaj7/banner.jpg
+
+! 21:20:39 4/10/2015 http://keonhacai.com/xem-bong-da-truc-tuyen
+||s19.postimg.org/nbo4uryhf/keonhacai_com_Vbet79_Top_460x80px.gif
+
+! 21:20:42 4/10/2015 http://keonhacai.com/xem-bong-da-truc-tuyen
+||s19.postimg.org/zazn2342b/q_E0_Fdb_U.gif
+
+! 21:20:45 4/10/2015 http://keonhacai.com/xem-bong-da-truc-tuyen
+||s19.postimg.org/ffou1amoj/BN_300_X180.gif
+
+! 21:20:49 4/10/2015 http://keonhacai.com/xem-bong-da-truc-tuyen
+||s19.postimg.org/6iczantjn/7677.gif
+
+! 12:46:49 6/10/2015 http://tinhphim.com/xem-phim-co-dau-8-tuoi-phan-2-30356
+tinhphim.com###hide_balloons_right > a[href="javascript:hide_balloons_right()"]
+
+! 12:46:54 6/10/2015 http://tinhphim.com/xem-phim-co-dau-8-tuoi-phan-2-30356
+||uri.us/1V
+
+! 18:16:02 7/10/2015 http://animetvn.com/thong-tin-phim/f4165-kamen-rider-ghost.html
+||animetvn.com/template/banner-main-one.php
+
+! 21:29:05 11/10/2015 http://vkool.net/
+||imgs.123chien.com/f0ea4782-be60-4f54-b512-e29b909850d6.gif
+
+! 19:12:57 12/10/2015 http://mphim.net/
+||imgs.123chien.com/be92df0e-c647-46b7-bd22-3b0642d29dec.gif
+
+! 19:13:04 12/10/2015 http://mphim.net/
+mphim.net###bn_bottom_fixed_left > .head
+
+! 19:13:13 12/10/2015 http://mphim.net/
+||www.fshare.vn/media/banner_Fshare/Fshare_610x60.png
+
+! 22:43:53 13/10/2015 http://www.cilibaba.com/info/1593181
+||www.6dad.com/images/ypicon/dot.gif
+
+! 22:47:09 13/10/2015 http://btlibrary.net/
+btlibrary.net###adfdiv > object
+
+! 22:47:18 13/10/2015 http://btlibrary.net/
+||m9.xcdf.cn/067884.net?ds8datastr=eNoVyskRgCAQBdFcXIjAz6xgNAhDAl5cJ3ix-vaq327WC4hZLWtrjryywpmRBK2SJkdYfo8N3yseVYRMt4nNbQRoKKsIneVU7g_SLBdD&key=ef18fdeb661e5c87c1f49ae13a646553&q=eNpdUNtuwjAM_RekvnkhttOkYU9IFdIeGJ-AeoVI9MLKROHr55SXbYojnxznyMeeNgbtZoVsjHVA3mcIaIxxKRKSQIVOK1wiq5AyQA-EmTEIBPp_0aQoJMeC0-wk15cjkp7JaRjGpofz7TYmvE1oXCfRjerehDn06npV1dAJNSW8Ox7L8Ew43z8_Hp_5dj7k-_thK0QMsl2oBZD2qSG2XphQz8KgoKkX0HqsWDtrCldURdF6LsumJONaLhtfm4T4qxZv8SBiCv0g6C1ah0czAVkxv6A_bkN3Uo9TPY2q6uX53YchZiuX0VKqpnsLMizEYaNys14vmtulE8k6bib-g9iWs2VRr9ZcIlGiQ5VpcFL_tX6Vcfqyunr_AcEKa7Q,&url=huvs%3A%2F%2Fitmkevfxf.ogw%2F&ref=&cok=1&hot=0&idl=idr
+
+! 22:47:23 13/10/2015 http://btlibrary.net/
+btlibrary.net###Ksdadlr
+
+! 22:47:29 13/10/2015 http://btlibrary.net/
+btlibrary.net###adfdiv
+
+! 22:47:34 13/10/2015 http://btlibrary.net/
+||m9.xcdf.cn/067884.net?ds8datastr=eNoVyskRgCAQBdFcXIjAz6xgNAhDAl5cJ3ix-vaq327WC4hZLWtrjryywpmRBK2SJkdYfo8N3yseVYRMt4nNbQRoKKsIneVU7g_SLBdD&key=ef18fdeb661e5c87c1f49ae13a646553&q=eNpdUNtuwjAM_RekvnkhttOkYU9IFdIeGJ-AeoVI9MLKROHr55SXbYojnxznyMeeNgbtZoVsjHVA3mcIaIxxKRKSQIVOK1wiq5AyQA-EmTEIBPp_0aQoJMeC0-wk15cjkp7JaRjGpofz7TYmvE1oXCfRjerehDn06npV1dAJNSW8Ox7L8Ew43z8_Hp_5dj7k-_thK0QMsl2oBZD2qSG2XphQz8KgoKkX0HqsWDtrCldURdF6LsumJONaLhtfm4T4qxZv8SBiCv0g6C1ah0czAVkxv6A_bkN3Uo9TPY2q6uX53YchZiuX0VKqpnsLMizEYaNys14vmtulE8k6bib-g9iWs2VRr9ZcIlGiQ5VpcFL_tX6Vcfqyunr_AcEKa7Q,&url=huvs%3A%2F%2Fitmkevfxf.ogw%2F&ref=&cok=1&hot=0&idl=idl
+
+! 22:47:40 13/10/2015 http://btlibrary.net/
+btlibrary.net###Ksdadll
+
+! 9:00:03 14/10/2015 http://www.eafyfsuh.net/9da27d46
+||dxyajrafeyqrool.net/feae95791dc23b01d3ed/bdb46721ac49d748948e
+
+! 11:46:15 14/10/2015 http://www.cilibaba.com/info/16435500
+||www.baigm.com/images/cpv/dot.gif
+
+! 11:46:22 14/10/2015 http://www.cilibaba.com/info/16435500
+www.cilibaba.com###adfdiv > object
+
+! 11:46:33 14/10/2015 http://www.cilibaba.com/info/16435500
+www.cilibaba.com###adfdiv
+
+! 17:17:45 15/10/2015 http://softx86vn.blogspot.com/2014/01/cai-win-bang-winntsetup-fast-install.html
+||www.swfcabin.com//swf-files/1415505216.swf
+
+! 9:05:49 18/10/2015 https://www.nyaa.eu/?page=view&tid=745797
+www.nyaa.eu###main > div:nth-of-type(1) > div > a[href^="https://www.nyaa.eu/al/"]
+
+! 9:05:53 18/10/2015 https://www.nyaa.eu/?page=view&tid=745797
+www.nyaa.eu###main > div:nth-of-type(2) > a[href^="https://www.nyaa.eu/al/"]
+
+! 15:41:07 18/10/2015 https://www.nyaa.eu/
+www.nyaa.eu###main > div:nth-of-type(1) > div
+
+! 15:41:11 18/10/2015 https://www.nyaa.eu/
+www.nyaa.eu###main > div:nth-of-type(2)
+
+! 19:23:09 19/10/2015 http://vn-zoom.tvmienphi.biz/f294/cach-hack-game-roadrash-2537256.html
+||i.imgur.com/8uW1K4i.jpg
+
+! 18:41:30 20/10/2015 http://ign.vn/phim-manga/5-nu-robot-xinh-dep-va-quyen-ru-trong-the-gioi-anime-19523.html
+||ign.vn/swf/300x600_link19102015.swf
+
+! 18:47:29 20/10/2015 http://ign.vn/phim-manga/9-anime-sau-sac-danh-cho-nguoi-truong-thanh-18998.html
+ign.vn###pinnedBanner > center > embed
+
+! 22:05:38 20/10/2015 http://torrent.cd/
+||torrent.cd/images/bnr_main.gif
+
+! 6:37:15 21/10/2015 https://share.dmhy.org/topics/view/397951_Date_a_Live_BDrip_1920x1080_TV12_OAD_CM10_OPED11_info3_menu14_x264_m4a_10bit.html
+share.dmhy.org###qm_ad > a[href="https://chimon.taobao.com/"] > img
+
+
+
+! 22:01:49 23/10/2015 http://sh.st/zrDnx
+sh.st##span > span
+
+! 22:01:53 23/10/2015 http://sh.st/zrDnx
+sh.st###footer
+
+! 19:36:00 24/10/2015 http://www.xemgame.com/thong-tin-internet/top-5-bo-anime-ve-game-ban-chac-chan-phai-xem
+||anh.xemgame.com/images/2015/10/9/bannertamquocchiton.gif
+
+! 19:57:30 24/10/2015 http://down.vn/s/%C4%90%E1%BB%81-thi-h%E1%BB%8Dc-sinh-gi%E1%BB%8Fi-t%E1%BB%89nh-m%C3%B4n-tin-h%E1%BB%8Dc
+||realclick.vn/data/File/2015/Thang10/backgruond-thethao-left-400x800.jpg
+
+! 19:57:32 24/10/2015 http://down.vn/s/%C4%90%E1%BB%81-thi-h%E1%BB%8Dc-sinh-gi%E1%BB%8Fi-t%E1%BB%89nh-m%C3%B4n-tin-h%E1%BB%8Dc
+||realclick.vn/data/File/2015/Thang10/backgruond-Yte-right-400x800.jpg
+
+! 19:58:08 24/10/2015 http://down.vn/de-thi-hoc-sinh-gioi-lop-12-thpt-tinh-bac-lieu-mon-tin-hoc-bang-b-nam-hoc-2011-2012-ngay-thi-thu-hai-download
+down.vn###MetaNET_ADV_NUMBER_12[href^="http://meta.vn/khuyenmai/135/mua-my-pham-gia-uu-dai-nhan-qua-tang.aspx"] > img
+
+! 19:58:12 24/10/2015 http://down.vn/de-thi-hoc-sinh-gioi-lop-12-thpt-tinh-bac-lieu-mon-tin-hoc-bang-b-nam-hoc-2011-2012-ngay-thi-thu-hai-download
+down.vn###MetaNET_ADV_NUMBER_13[href^="http://meta.vn/khuyenmai/139/mua-do-gia-dung-gia-tot-nhan-qua-hap-dan.aspx"] > img
+
+! 8:19:36 25/10/2015 http://www.vietcago.com/board/
+www.vietcago.com###blocks2 > div > iframe
+
+! 8:19:42 25/10/2015 http://www.vietcago.com/board/
+www.vietcago.com###blocks3 > div > iframe
+
+! 8:31:17 25/10/2015 http://k2nblog.com/tag/tara/
+||k2nblog.com/wp-content/uploads/2015/10/korean-fashion-sale-70.jpg
+
+! 14:31:00 17/12/2015 http://www.kenh1.info/2013/01/huong-dan-cai-at-va-su-dung-stream.html
+||i.imgur.com/8ohLqS1.gif
+
+! 14:31:03 17/12/2015 http://www.kenh1.info/2013/01/huong-dan-cai-at-va-su-dung-stream.html
+||s6.postimg.org/5lxh72ikh/m88_042015.gif
+
+! 14:31:06 17/12/2015 http://www.kenh1.info/2013/01/huong-dan-cai-at-va-su-dung-stream.html
+||i.imgur.com/azigQHd.gif
+
+! 14:31:09 17/12/2015 http://www.kenh1.info/2013/01/huong-dan-cai-at-va-su-dung-stream.html
+||i.imgur.com/m866582.gif
+
+! 14:31:12 17/12/2015 http://www.kenh1.info/2013/01/huong-dan-cai-at-va-su-dung-stream.html
+||i.imgur.com/6jpkHAp.gif
+
+! 14:31:14 17/12/2015 http://www.kenh1.info/2013/01/huong-dan-cai-at-va-su-dung-stream.html
+||s7.postimg.org/3juxdrvuj/klq_Vpse.gif
+
+! 14:31:21 17/12/2015 http://www.kenh1.info/2013/01/huong-dan-cai-at-va-su-dung-stream.html
+||s16.postimg.org/qe883yrk5/pfbdd_It.gif
+
+! 14:31:25 17/12/2015 http://www.kenh1.info/2013/01/huong-dan-cai-at-va-su-dung-stream.html
+||s23.postimg.org/yqsviifsr/Fi_Dn_TBe.gif
+
+! 19:44:45 17/12/2015 http://www.manganetworks.net/top-10-bo-anime-hap-dan-ban-khong-the-khong-xem-vao-dip-giang-sinh/
+||wpstore.org/1.html
+
+! 19:44:53 17/12/2015 http://www.manganetworks.net/top-10-bo-anime-hap-dan-ban-khong-the-khong-xem-vao-dip-giang-sinh/
+||wpstore.org/bannerqc.png
+
+! 19:44:59 17/12/2015 http://www.manganetworks.net/top-10-bo-anime-hap-dan-ban-khong-the-khong-xem-vao-dip-giang-sinh/
+www.manganetworks.net###ads-iframe-fixed > .hide-ads-iframe
+
+! 19:45:03 17/12/2015 http://www.manganetworks.net/top-10-bo-anime-hap-dan-ban-khong-the-khong-xem-vao-dip-giang-sinh/
+www.manganetworks.net###ads-iframe-fixed > .ads-iframe-content
+
+! 12:40:31 19/12/2015 http://www.baobongda.net/lord-bendtner-chinh-thuc-tro-thanh-chua-te-d18584.html
+||www.baobongda.net/files/ucw88-new.gif
+
+! 12:40:35 19/12/2015 http://www.baobongda.net/lord-bendtner-chinh-thuc-tro-thanh-chua-te-d18584.html
+||www.baobongda.net/files/125x350.gif
+
+! 12:40:37 19/12/2015 http://www.baobongda.net/lord-bendtner-chinh-thuc-tro-thanh-chua-te-d18584.html
+||www.baobongda.net/files/vip-tip.gif
+
+! 12:40:46 19/12/2015 http://www.baobongda.net/lord-bendtner-chinh-thuc-tro-thanh-chua-te-d18584.html
+www.baobongda.net###banner_cleft > .btn_close[href="#"]
+
+! 12:40:49 19/12/2015 http://www.baobongda.net/lord-bendtner-chinh-thuc-tro-thanh-chua-te-d18584.html
+||www.baobongda.net/files/httpdd562.jss77.net.gif
+
+! 12:40:51 19/12/2015 http://www.baobongda.net/lord-bendtner-chinh-thuc-tro-thanh-chua-te-d18584.html
+||www.baobongda.net/files/450x90_1.gif
+
+! 12:41:08 19/12/2015 http://www.baobongda.net/lord-bendtner-chinh-thuc-tro-thanh-chua-te-d18584.html
+||www.baobongda.net/files/pop_vn2rev.gif
+
+! 2:41:59 20/12/2015 http://thiendia.com/diendan/showthread.php?t=932165
+||img.thiendia.com/server7/images/2015/12/03/LauxanhThiendiaFun88TheThaoCaCuocTrucTuyenSoikeoTylecuocSongbaiKhuyenMaiThuongGiangSinhHoanTraTuDong_720x9081540.gif
+
+! 2:42:02 20/12/2015 http://thiendia.com/diendan/showthread.php?t=932165
+||img.thiendia.com/server7/images/2015/12/03/722x85dc5e0.gif
+
+! 2:56:34 20/12/2015 http://linksvip.net/
+||linksvip.net/images/vip/smail188.gif
+
+! 2:56:37 20/12/2015 http://linksvip.net/
+||linksvip.net/images/vip/rut-gon-link.png?ver1
+
+! 19:36:07 23/12/2015 http://gocmobile.net/threads/251823/
+||gocmobile.net/data/banners/50.jpg
+
+! 19:36:11 23/12/2015 http://gocmobile.net/threads/251823/
+||gocmobile.net/data/banners/56.jpg
+
+! 19:36:14 23/12/2015 http://gocmobile.net/threads/251823/
+||gocmobile.net/data/banners/47.jpg
+
+! 20:26:46 23/12/2015 http://www.zingzing96.wap.sh/xtscript/blog/index.php/__xtblog_entry/9583841-h-ng-d-n-x-l-2-l-i-th-ng-g-p-sau-khi-hack-phone-s40?__xtblog_block_id=1#xt_blog
+||xtgem.com/images/forum/xtgem-forums.jpg
+
+! 20:35:23 23/12/2015 http://dinhloi.xtgem.com/thu-thuat/hd-hack-va-up-fw/tac-hai-hack-phone-s40
+||xtgem.com/images/close2.png?v=0.01
+
+! 21:30:33 25/12/2015 http://www.truyen18.org/doctruyen/offline-game-hentai-manga/hentai-manga-one-shot---chapter-1a/127837.html
+||thumb.truyen18.org/Store2/cf64ca690d39f38e81ed53aad1bd48a8.jpg
+
+! 14:04:27 26/12/2015 http://hdonline.vn/phim-chu-khung-long-tot-bung-8700.html
+||ad.skylink.vn/tracking/avw.php?zoneid=84&cb=1451113372&n=af7861da
+
+! 18:07:37 29/12/2015 http://www.hdvietnam.com/diendan/229-android-box/997745-xshare-xbmc-hd-video-subtitles-fshare.html
+||html5.tamanae.com/Song%20Am%20Thanh/banner--hd-vietnam-12292015.gif
+
+! 18:07:41 29/12/2015 http://www.hdvietnam.com/diendan/229-android-box/997745-xshare-xbmc-hd-video-subtitles-fshare.html
+||html5.tamanae.com/FPTAd/FPT%2021122015.gif
+
+! 18:08:27 29/12/2015 http://www.hdvietnam.com/diendan/229-android-box/997745-xshare-xbmc-hd-video-subtitles-fshare.html
+||html5.tamanae.com/LG%20Tet/Banner%20LG%20Tet.html
+
+! 12:00:15 30/12/2015 http://kephim.com/xem-phim/khac-tinh-cua-loai-tho_68351.html
+kephim.com###balloons_left
+
+! 12:00:21 30/12/2015 http://kephim.com/xem-phim/khac-tinh-cua-loai-tho_68351.html
+kephim.com###balloons_left_close
+
+! 12:00:26 30/12/2015 http://kephim.com/xem-phim/khac-tinh-cua-loai-tho_68351.html
+kephim.com###AbdPopupAd_left
+
+! 22:28:57 3/1/2016 https://www.lamchame.com/forum/threads/cach-su-dung-xe-tay-ga.940908/
+||www.lamchame.com/files/fix/babyhop468x60.gif
+
+! 22:30:32 3/1/2016 https://www.lamchame.com/forum/threads/cach-su-dung-xe-tay-ga.940908/
+||bit.ly/132tv46
+
+! 0:51:44 4/1/2016 http://congtruongit.com/forum/de-tai/huong-dan-gia-lap-psp-bang-ppsspp.79331/
+||www.fshare.vn/media/banner_Fshare/Fshare_960x128.png
+
+! 18:59:09 4/1/2016 http://vozfozum.com/threads/1314-phan-mem-soan-thao-cong-thuc-toan-hoc-trong-word-mathtype-6-9.html
+||banhoabinhgreencity.com/images/hoabinh.png
+
+! 13:11:03 9/1/2016 http://thiendia.com/diendan/showthread.php?t=887839
+||s12.postimg.org/t7q78d60t/Lauxanh_Thiendia_Fun88_The_Thao_Ca_Cuoc_Truc_Tuy.gif
+
+! 13:43:33 9/1/2016 http://phimtorrent.com/phim-le/hoat-hinh/shaun-the-sheep-movie-2015-cuu-que-ra-pho.html
+||phimtorrent.com/wp-content/uploads/2015/11/phimtorrent-cococ-banner.png
+
+! 16:29:50 9/1/2016 http://tech24h.org/threads/big-hero-6-2014-mhd-bluray-dd5-1-x264-tayto-biet-doi-big-hero-6.19183/
+||lh3.googleusercontent.com/-z5qr2tgeXVg/VoKl8_uKbFI/AAAAAAAAKXg/sXyOMwiewM4/w852-h474/Sport%2B728%2Bx90.gif
+
+! 16:29:53 9/1/2016 http://tech24h.org/threads/big-hero-6-2014-mhd-bluray-dd5-1-x264-tayto-biet-doi-big-hero-6.19183/
+||i.imgur.com/FPUKuS0.jpg
+
+! 16:30:04 9/1/2016 http://tech24h.org/threads/big-hero-6-2014-mhd-bluray-dd5-1-x264-tayto-biet-doi-big-hero-6.19183/
+||imp.accesstrade.vn/img.php?rk=0000y60001j3
+
+! 17:04:46 12/1/2016 http://linktocdo.com/get-link/luot-tai.html
+||linktocdo.com/hotro/hinhanh/frontend/quangcao-thaison.gif
+
+! 8:35:43 24/1/2016 http://www.jdownloader2premium.com/p/install-database.html
+||www.derrotalacrisis.com/wp-content/banners/180X300/d44dc6841509ce585e04cb58be7ec3ce06b985ecb4f4/d44dc6841509ce585e04cb58be7ec3ce06b985ecb4f4.html
+
+! 9:49:05 24/1/2016 http://mphim.net/phim/truyen-thuyet-jumong-jumong-2006.html
+||bestdestinationsintheworld.info/mphim.html
+
+
+
+
+! 20:20:03 8/2/2016 http://www.caotrunghieu.com/2015/07/so-o-to-chuc-bo-may-nha-nuoc-viet-nam-hien-tai.html
+||www.youtube.com/embed/ff9nK0LyBBA
+
+! 11:37:20 18/2/2016 http://www.techrum.vn/threads/giup-thiet-bi-android-chay-nhanh-hon-voi-chromer.40372/
+||www.techrum.vn/chevereto/images/2016/02/16/IP_CAM850x120.jpg
+
+! 11:37:25 18/2/2016 http://www.techrum.vn/threads/giup-thiet-bi-android-chay-nhanh-hon-voi-chromer.40372/
+||www.techrum.vn/chevereto/images/2016/01/08/flash_226_226.gif
+
+! 11:37:35 18/2/2016 http://www.techrum.vn/threads/giup-thiet-bi-android-chay-nhanh-hon-voi-chromer.40372/
+||www.techrum.vn/chevereto/images/2016/01/16/SW.jpg
+
+! 11:37:40 18/2/2016 http://www.techrum.vn/threads/giup-thiet-bi-android-chay-nhanh-hon-voi-chromer.40372/
+||imp.accesstrade.vn/img.php?rk=0001450001f3
+
+! 11:37:43 18/2/2016 http://www.techrum.vn/threads/giup-thiet-bi-android-chay-nhanh-hon-voi-chromer.40372/
+||www.techrum.vn/chevereto/images/2016/01/07/5s_grey_226x226.gif
+
+! 11:49:39 18/2/2016 http://www.techrum.vn/forums/thu-thuat-cong-nghe.171/
+||www.techrum.vn/chevereto/images/2016/02/17/banner-5s-techrumcopy.png
+
+! 18:35:40 18/2/2016 http://www.phim.media/phim-pokemon-indigo-league/tap-82.html
+||traveltourday.com/adv728-h/insurance-education-health-car.html
+
+! 23:44:46 25/2/2016 http://thiendia.com/diendan/showthread.php?t=846014
+||s18.postimg.org/hdmtkot15/Lauxanh_Thiendia_Fun88_Tet_Binh_Than_The_Thao_Ca.gif
+
+! 23:44:49 25/2/2016 http://thiendia.com/diendan/showthread.php?t=846014
+||img.thiendia.com/server7/images/2016/02/21/CaMQHhae0f78.gif
+
+! 12:35:13 29/2/2016 http://www.hdvietnam.com/diendan/77-mhd-sd/1158576-tam-ly-trinh-tham-spotlight-2015-a.html
+||html5.tamanae.com/Song%20Am%20Thanh/banner--hd-vietnam-2422016.gif
+
+! 12:35:16 29/2/2016 http://www.hdvietnam.com/diendan/77-mhd-sd/1158576-tam-ly-trinh-tham-spotlight-2015-a.html
+||html5.tamanae.com/navison/navison.html
+
+! 12:35:19 29/2/2016 http://www.hdvietnam.com/diendan/77-mhd-sd/1158576-tam-ly-trinh-tham-spotlight-2015-a.html
+||html5.tamanae.com/Oppo/oppo.gif
+
+! 13:28:04 11/3/2016 http://blogtruyen.com/truyen/gto-paradise-lost
+||4.bp.blogspot.com/-4cddtfUrjE0/VuB8JO4QniI/AAAAAAAA9g0/vbCys89Crjk/s0/
+
+! 22:17:47 14/3/2016 http://linksvip.net/
+||linksvip.net/images/vip/dungchatvolam.png
+
+! 21:04:03 23/3/2016 http://diachivang.com/truong-thpt-hoang-le-kha/
+||meohay.com/wp-content/float/950x88-standee.png
+
+! 21:04:06 23/3/2016 http://diachivang.com/truong-thpt-hoang-le-kha/
+||meohay.com/wp-content/float/950x88-intemnhan.png
+
+! 11:11:20 10/4/2016 http://www.vn-zoom.com/f181/toantam2006-giup-kich-hoat-office-2013-2010-va-windows-10-8-1-8-7-by-phone-cap-nhat-key-thuong-xuyen-3058499.html
+||api.adtimaserver.vn/render.html?zid=2240274173529644356&id=1591475881219854836,55972195071707249255593&uid=2000.74f7f154884e6110385f.1453290453407.46fff463&q=0.9627439799741393
+
+! 23:24:25 10/4/2016 http://tailieu.vn/doc/4000-tu-vung-tieng-anh-thong-dung-nhat-1161154.html
+||c0-vcdn.anthill.vn/images/2016/03/23/ee14eddc555867fec13773c6cb2ebd20.jpg
+
+! 10:41:47 14/4/2016 http://yuphim.net/
+yuphim.net##.topbaner > .AdsDesktop-header > .a90x490 > a[href^="https://www.w88top.com/"] > img
+
+! 13:21:48 17/4/2016 http://www.hdvietnam.com/diendan/123-phim-hoat-hinh/1173956-thuyet-minh-hoat-hinh-hai-uoc.html
+||html5.tamanae.com/galaxy%20s7/ss7%204-4/1280x250.html
+
+! 13:21:53 17/4/2016 http://www.hdvietnam.com/diendan/123-phim-hoat-hinh/1173956-thuyet-minh-hoat-hinh-hai-uoc.html
+||html5.tamanae.com/Song%20Am%20Thanh/banner--hd-vietnam-122015.gif
+
+! 17:45:59 20/4/2016 http://thiendia.com/diendan/forums/nhat-ky-tinh-yeu-tinh-duc-qua-tang-cuoc-song.169/
+thiendia.com###logoBlock > .pageWidth > .pageContent > .my_responsive_ads
+
+! 17:46:04 20/4/2016 http://thiendia.com/diendan/forums/nhat-ky-tinh-yeu-tinh-duc-qua-tang-cuoc-song.169/
+thiendia.com###content > .pageWidth > .pageContent > .my_responsive_ads > center > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2) > a[href^="http://www.thanpoker.com/ref.php"] > img[alt="quang cao"]
+
+! 17:46:11 20/4/2016 http://thiendia.com/diendan/forums/nhat-ky-tinh-yeu-tinh-duc-qua-tang-cuoc-song.169/
+thiendia.com###content > .pageWidth > .pageContent > .my_responsive_ads > center > table > tbody > tr:nth-of-type(2) > td > div
+
+! 17:46:18 20/4/2016 http://thiendia.com/diendan/forums/nhat-ky-tinh-yeu-tinh-duc-qua-tang-cuoc-song.169/
+thiendia.com###content > .pageWidth > .pageContent > aside > .sidebar > .section:nth-of-type(2)
+
+! 13:08:45 21/4/2016 http://www.nyaa.se/?user=251635
+www.nyaa.se###main > div:nth-of-type(2) > a[href^="//www.nyaa.se/www/"]
+
+animetvn.com###colorbox
+animetvn.com###cboxOverlay
+animetvn.com###footer
+animetvn.com###menubentrai
+animetvn.com###dt-bottom-right-banner
+
+! 17:28:53 9/5/2016 http://sukebei.nyaa.se/?page=search&cats=0_0&filter=0&term=Kaho+Ikuina
+||files.nyaa.se/www-42.png$image
+
+! 17:28:55 9/5/2016 http://sukebei.nyaa.se/?page=search&cats=0_0&filter=0&term=Kaho+Ikuina
+||files.nyaa.se/www-58.png$image
+
+! 17:28:58 9/5/2016 http://sukebei.nyaa.se/?page=search&cats=0_0&filter=0&term=Kaho+Ikuina
+||files.nyaa.se/www-61.png$image
+
+! 17:29:25 9/5/2016 http://sukebei.nyaa.se/?page=view&tid=1784922
+||files.nyaa.se/www-54.png$image
+
+! 17:29:28 9/5/2016 http://sukebei.nyaa.se/?page=view&tid=1784922
+||files.nyaa.se/www-79.png$image
+
+! 17:19:06 10/5/2016 http://www.nyaa.se/
+||files.nyaa.se/www-65.png$image
+
+! 0:01:50 12/5/2016 http://www.nyaa.se/?page=view&tid=137251
+||files.nyaa.se/www-64.png$image
+
+! 18:29:22 12/5/2016 http://www.nyaa.se/?page=search&cats=0_0&filter=0&term=Hanamaru+Youchien
+www.nyaa.se###main > div:nth-of-type(2) > div > a[href^="//www.nyaa.se/www/"] > img
+
+! 20:03:54 16/5/2016 http://getlinkpro.net/get-link.html
+||getlinkpro.net/images/banner_shink.jpg$image
+
+! 20:10:57 16/5/2016 http://mphim.net/phim/zootopia-phi-vu-dong-troi-zootopia-2016.html
+mphim.net###floatleft > .link-full
+
+! 20:11:00 16/5/2016 http://mphim.net/phim/zootopia-phi-vu-dong-troi-zootopia-2016.html
+mphim.net###floatright > .link-full
+
+! 11:59:52 17/5/2016 http://esportsviet.vn/giai-tri/canh-bi-cat-cua-captain-america-civil-war-co-nhung-gi-20061-17
+||media.esportsviet.vn/images/slide_banner/Banner.300x600-2.gif$image
+
+! 16:39:36 18/5/2016 http://www.mystown.com/2016/05/thien-uong-cua-cac-hacker-o-romania.html
+||imp.accesstrade.vn/img.php?rk=0000hh000g8u$image
+
+! 13:43:21 21/5/2016 http://sukebei.nyaa.se/
+sukebei.nyaa.se###main > div:nth-of-type(1) > div > a[href^="//sukebei.nyaa.se/www/"] > img
+
+! 13:44:08 21/5/2016 http://sukebei.nyaa.se/?page=search&cats=0_0&filter=0&term=Emiri+Suzuhara+
+sukebei.nyaa.se###main > div:nth-of-type(4) > a[href^="//sukebei.nyaa.se/www/"] > img
+
+! 13:44:11 21/5/2016 http://sukebei.nyaa.se/?page=search&cats=0_0&filter=0&term=Emiri+Suzuhara+
+sukebei.nyaa.se###main > div:nth-of-type(2) > div > a[href^="//sukebei.nyaa.se/www/"] > img
+
+! 20:43:09 22/5/2016 http://phimnhanh.com/phim/dai-chien-hai-the-gioi-warcraft-2016
+||gapip.info/3.Visiting-the-Vieques-Biobay.html$subdocument
+
+! 12:00:01 23/5/2016 http://upfile.vn/7aXmurXCNqLg/zootopia-2016-mhd-bluray-dd5-1-x264-vnzhd-mkv.html
+upfile.vn###aswift_2
+
+! 12:00:17 23/5/2016 http://upfile.vn/7aXmurXCNqLg/zootopia-2016-mhd-bluray-dd5-1-x264-vnzhd-mkv.html
+upfile.vn###aswift_1
+
+! 12:00:25 23/5/2016 http://upfile.vn/7aXmurXCNqLg/zootopia-2016-mhd-bluray-dd5-1-x264-vnzhd-mkv.html
+upfile.vn###aswift_0
+
+! 09:53:41, 30/5/2016 http://myanimelist.net/anime/6746/Durarara
+myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .pt24.clearfix.mauto
+
+! 09:53:57, 30/5/2016 http://myanimelist.net/anime/6746/Durarara
+myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(1) > td > .border_top > div:nth-of-type(2)
+
+! 09:54:01, 30/5/2016 http://myanimelist.net/anime/6746/Durarara
+myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(1) > td > .border_top > div:nth-of-type(1)
+
+! 09:54:14, 30/5/2016 http://myanimelist.net/anime/6746/Durarara
+myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(2) > .pb24 > div:nth-of-type(2)
+
+! 09:54:19, 30/5/2016 http://myanimelist.net/anime/6746/Durarara
+myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(2) > .pb24 > div:nth-of-type(3)
+
+! 09:54:27, 30/5/2016 http://myanimelist.net/anime/6746/Durarara
+myanimelist.net###content > table > tbody > tr > .borderClass > .js-scrollfix-bottom > .mt16.mauto.clearfix > ._unit > table > tbody > tr:nth-of-type(1) > td
+
+! 09:54:35, 30/5/2016 http://myanimelist.net/anime/6746/Durarara
+myanimelist.net###content > table > tbody > tr > .borderClass > .js-scrollfix-bottom > .mt16.mauto.clearfix > ._unit > table
+
+! 18:13:50, 31/5/2016 http://tip.down.vn/cach-choi-dota-co-ban-nhat-cho-nhung-nguoi-moi-1530
+||asc.quantrimang.com/data/File/2016/Thang04/giai-nhiet-mua-nong-400x800-right.jpg$image
+
+! 14:48:59, 3/6/2016 http://www.hdvietnam.com/diendan/4-software-ky-thuat-phan-mem/576333-gioi-thieu-foobar2000-skin-darkone-v4-13.html
+||html5.tamanae.com/Nguyenaudio/banner--hd-vietnam-paramax_micro-pro-series.gif$image
+
+! 14:49:08, 3/6/2016 http://www.hdvietnam.com/diendan/4-software-ky-thuat-phan-mem/576333-gioi-thieu-foobar2000-skin-darkone-v4-13.html
+www.hdvietnam.com###topbanner
+
+! 14:50:10, 3/6/2016 http://www.hdvietnam.com/diendan/4-software-ky-thuat-phan-mem/576333-gioi-thieu-foobar2000-skin-darkone-v4-13.html
+www.hdvietnam.com###notices
+
+! 14:50:22, 3/6/2016 http://www.hdvietnam.com/diendan/4-software-ky-thuat-phan-mem/576333-gioi-thieu-foobar2000-skin-darkone-v4-13.html
+www.hdvietnam.com###back-ground > a[href="http://tvtuonglai.com"] > img
+
+
+
+! 07:00:30, 6/6/2016 http://phimnhanh.com/xem-phim/di-nhan-khai-huyen-x-men-apocalypse-2016
+||mu.naidum.com/phimnhanh.html$subdocument
+
+! 07:00:35, 6/6/2016 http://phimnhanh.com/xem-phim/di-nhan-khai-huyen-x-men-apocalypse-2016
+phimnhanh.com###bn_bottom_fixed_right_btn
+
+! 07:18:57, 6/6/2016 http://thethaovanhoa.vn/van-hoa-giai-tri/dang-hoang-giang-nguoi-thong-minh-doc-vi-dam-dong-viet-n20151101064543938.htm
+||thethaovanhoa.vn/longphu/banner-yangbay-330.png$image
+
+! 07:19:02, 6/6/2016 http://thethaovanhoa.vn/van-hoa-giai-tri/dang-hoang-giang-nguoi-thong-minh-doc-vi-dam-dong-viet-n20151101064543938.htm
+||thethaovanhoa.vn/longphu/banner-da-330.png$image
+
+! 07:19:08, 6/6/2016 http://thethaovanhoa.vn/van-hoa-giai-tri/dang-hoang-giang-nguoi-thong-minh-doc-vi-dam-dong-viet-n20151101064543938.htm
+||khampha.thethaovanhoa.vn/Images/close.png$image
+
+! 07:19:22, 6/6/2016 http://thethaovanhoa.vn/van-hoa-giai-tri/dang-hoang-giang-nguoi-thong-minh-doc-vi-dam-dong-viet-n20151101064543938.htm
+thethaovanhoa.vn###ktc_banner2 > ul > li:nth-of-type(2) > a[href="http://thoitrangkhatoco.vn/"]
+
+! 07:40:29, 6/6/2016 http://myanimelist.net/anime/1887/Lucky%E2%98%86Star/userrecs
+myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > .border_bottom
+
+! 09:47:53, 9/6/2016 http://rsload.net/soft/18831-msact.html
+rsload.net###e00001959e_c_0
+
+! 09:48:08, 9/6/2016 http://rsload.net/soft/18831-msact.html
+rsload.net###e00001959e > table > tr
+
+! 19:06:05, 10/6/2016 http://gamevui.vn/shinchan-dat-bom/game
+gamevui.vn###MetaNET_ADV_NUMBER_25 > img
+
+! 08:51:15, 12/6/2016 http://myanimelist.net/manga/1929/Loose_Senki__Old_Boy
+myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(2) > .pb24 > div:nth-of-type(1)
+
+! 15:33:34, 16/6/2016 http://myanimelist.net/search/all?q=gundam
+myanimelist.net###content > .content-result > .content-right > .js-scrollfix-bottom > ._unit > table > tbody > tr:nth-of-type(1) > td
+
+! 15:33:38, 16/6/2016 http://myanimelist.net/search/all?q=gundam
+myanimelist.net###content > .content-result > .content-right > .js-scrollfix-bottom > ._unit > table > tbody > tr:nth-of-type(2) > td
+
+! 15:33:42, 16/6/2016 http://myanimelist.net/search/all?q=gundam
+myanimelist.net###content > .content-result > .content-right > .js-scrollfix-bottom > ._unit > table
+
+! 16:10:07, 16/6/2016 http://www.mpgh.net/forum/showthread.php?t=1120134&page=2
+www.mpgh.net###gamuse_box
+
+! 16:10:15, 16/6/2016 http://www.mpgh.net/forum/showthread.php?t=1120134&page=2
+www.mpgh.net###posts > li:nth-of-type(3)
+
+! 01:20:53, 19/6/2016 http://javforu.com/5938-2/
+javforu.com###text-8 > .textwidget
+
+! 10:41:04, 19/6/2016 http://quantrimang.com/cach-phat-hien-ke-len-lut-vao-facebook-cua-ban-105681
+quantrimang.com###MetaNET_ADV_NUMBER_7 > img
+
+! 10:41:13, 19/6/2016 http://quantrimang.com/cach-phat-hien-ke-len-lut-vao-facebook-cua-ban-105681
+quantrimang.com###adrightsecond > .adx-vertical.adx-zone > .adx-row:nth-of-type(1) > .adx-cell > .breview-box
+
+! 10:41:23, 19/6/2016 http://quantrimang.com/cach-phat-hien-ke-len-lut-vao-facebook-cua-ban-105681
+quantrimang.com###adrightsecond > .adx-vertical.adx-zone > .adx-row:nth-of-type(5) > .adx-cell > .breview-box
+
+! 10:41:30, 19/6/2016 http://quantrimang.com/cach-phat-hien-ke-len-lut-vao-facebook-cua-ban-105681
+quantrimang.com###adrightsecond > .adx-vertical.adx-zone > .adx-row:nth-of-type(3) > .adx-cell > .breview-box
+
+! 10:41:44, 19/6/2016 http://quantrimang.com/cach-phat-hien-ke-len-lut-vao-facebook-cua-ban-105681
+||asc.quantrimang.com/data/File/2016/*/*-*-*-*400x800.jpg$image
+
+! 10:41:57, 19/6/2016 http://quantrimang.com/cach-phat-hien-ke-len-lut-vao-facebook-cua-ban-105681
+||asc.quantrimang.com/data/File/2016/*/*-*-*-*.jpg$image
+
+! 10:42:09, 19/6/2016 http://quantrimang.com/cach-phat-hien-ke-len-lut-vao-facebook-cua-ban-105681
+||asc.quantrimang.com/data/File/2016/*/*-*-*-*.*$image
+
+! 10:42:49, 19/6/2016 http://quantrimang.com/ung-dung
+quantrimang.com###_shad_1 > div:nth-of-type(1) > iframe
+
+! 17:59:21, 19/6/2016 http://thuviensoft.net/
+||lh3.googleusercontent.com/-jZl3Zb8_w4U/V1BApIM1rcI/AAAAAAAABaM/7RZFdFRogqg/s0/pizushop.com_my_pham_moc_thien_nhien.jpg$image
+
+! 08:59:17, 23/6/2016 http://www.hdvietnam.com/diendan/190-asia/329724-t-ara-tong-hop-1080i.html
+www.hdvietnam.com###back-ground > iframe
+
+! 08:59:30, 23/6/2016 http://www.hdvietnam.com/diendan/190-asia/329724-t-ara-tong-hop-1080i.html
+www.hdvietnam.com###back-ground
+
+! 09:03:27, 23/6/2016 http://www.hdvietnam.com/diendan/190-asia/329724-t-ara-tong-hop-1080i.html
+www.hdvietnam.com###topbillboard:nth-of-type(5) > a[href="http://www.nguyenaudio.com/"] > img
+
+! 09:03:34, 23/6/2016 http://www.hdvietnam.com/diendan/190-asia/329724-t-ara-tong-hop-1080i.html
+www.hdvietnam.com###iframe-top-3
+
+
+
+! 06:37:58, 26/6/2016 http://amvnews.ru/index.php?go=Ratings&file=byauthor&author=DJKev2000
+amvnews.ru###catsmobplaceholder > div > center
+
+! 16:07:38, 26/6/2016 http://docxongvoclien.com/trang-getlink/
+docxongvoclien.com###text-3
+
+! 21:54:52, 26/6/2016 http://pcgames-download.net/2013/11/warcraft-iii-complete-edition-mega-uploaded-uptobox/
+pcgames-download.net###niceMessage > .inner
+
+! 20:05:47, 15/7/2016 http://tv.101vn.com/
+tv.101vn.com###med_rec_banner12
+
+! 20:07:00, 15/7/2016 http://tv.101vn.com/
+tv.101vn.com###topads
+
+! 10:02:47, 19/7/2016 http://www.arlinadzgn.com/
+||1.bp.blogspot.com/-f4JepM4pwaM/VxjEYOEU87I/AAAAAAAAD2U/H1-uSU5cEakM_GmfoMblx4cSol1MjooSgCLcB/s1600/Ciptaloka.jpg$image
+
+! 17:43:23, 19/7/2016 http://dongnaigsm.vn/threads/g3812-cai-tieng-viet-chplay-ok.24122/
+dongnaigsm.vn###headerMover > header > .ad_header_banner_desktop:nth-of-type(3)
+
+! 17:43:41, 19/7/2016 http://dongnaigsm.vn/threads/g3812-cai-tieng-viet-chplay-ok.24122/
+dongnaigsm.vn###headerMover > header > .ad_header_banner_desktop:nth-of-type(2)
+
+! 17:44:40, 19/7/2016 http://dongnaigsm.vn/threads/g3812-cai-tieng-viet-chplay-ok.24122/
+dongnaigsm.vn###content > .pageWidth > center
+
+! 17:44:47, 19/7/2016 http://dongnaigsm.vn/threads/g3812-cai-tieng-viet-chplay-ok.24122/
+dongnaigsm.vn###content > .pageWidth > .pageContent > center
+
+! 17:44:59, 19/7/2016 http://dongnaigsm.vn/threads/g3812-cai-tieng-viet-chplay-ok.24122/
+dongnaigsm.vn##footer > .YT
+
+! 17:45:52, 19/7/2016 http://dongnaigsm.vn/threads/g3812-cai-tieng-viet-chplay-ok.24122/
+dongnaigsm.vn###logoBlock > .pageWidth > .pageContent > center > span:nth-of-type(2) > a[href="http://dongnaigsm.vn/threads/mua-va-ban-may-xac-all-mobile.21007/"] > .banner
+
+! 14:32:45, 20/7/2016 http://esports.vn/dota2/hoai-co-an-may-di-vang-voi-nhung-loi-build-item-vang-bong-mot-thoi-phan-7-22771-5
+esports.vn###banner300x250_1 > a[href="http://bit.ly/bannerwebesv"] > img[src="http://media.esports.vn/images/slide_banner/Banner.banner1 300x250.gif"]
+
+! 14:32:58, 20/7/2016 http://esports.vn/dota2/hoai-co-an-may-di-vang-voi-nhung-loi-build-item-vang-bong-mot-thoi-phan-7-22771-5
+esports.vn###banner300x600 > a[href="http://bit.ly/1LVw0QO"] > img[src="http://media.esports.vn/images/slide_banner/Banner.300x600idol.gif"]
+
+! 14:33:25, 20/7/2016 http://esports.vn/dota2/hoai-co-an-may-di-vang-voi-nhung-loi-build-item-vang-bong-mot-thoi-phan-7-22771-5
+esports.vn##a[href="http://b88.vn/"] > img[src="/Images/output_IPAPYr.gif"]
+
+! 14:34:00, 20/7/2016 http://esports.vn/dota2/hoai-co-an-may-di-vang-voi-nhung-loi-build-item-vang-bong-mot-thoi-phan-7-22771-5
+esports.vn##.cover > .header-color > .header > .container > .pull-left.advertisement-sm.advertisement > a[href="/Content/advFiles/[ESV]Bao-gia-quang-cao-2016.pdf"]
+
+! 11:19:00, 24/7/2016 http://www.nhaccuatui.com/bai-hat/starving-hailee-steinfeld-ft-zedd-ft-grey.kwIOa8SKDyLW.html
+www.nhaccuatui.com##body > .box-content:nth-of-type(4) > .wrap > .content-wrap > .box-right > .yan_widget_custom
+
+! 20:24:25, 29/7/2016 http://kenhhd.tv
+kenhhd.tv##.body > .bg.container > .row-fluid > .hidden-sm.no-padding.sidebar.col-md-3.home-column-right > .panel-default.panel:nth-of-type(4)
+
+! 20:26:55, 29/7/2016 http://myanimelist.net/anime/20/Naruto
+myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(2) > .pb24 > div:nth-of-type(4)
+
+! 20:27:40, 29/7/2016 http://myanimelist.net/
+myanimelist.net###content > .pt12.left-column > article:nth-of-type(9) > .left.left_bottom_ad.widget > .clearfix
+
+! 20:28:00, 29/7/2016 http://myanimelist.net/
+myanimelist.net###content > .right-column > .widget:nth-of-type(1) > .right.right_top_ad.widget
+
+! 20:28:11, 29/7/2016 http://myanimelist.net/
+myanimelist.net###content > .right-column > .widget:nth-of-type(4) > .right.right_middle_ad.widget
+
+! 18:14:34, 3/8/2016 http://4r.ketnoitatca.net/forum.php?s=582aa3faaae5b4bc886d42cdfa976b4b
+4r.ketnoitatca.net###fl813691
+
+
+
+! 23:43:50, 3/8/2016 https://share.dmhy.org/
+share.dmhy.org##.container > .bg > .header > .headerright > .ad
+
+! 23:44:03, 3/8/2016 https://share.dmhy.org/
+share.dmhy.org###zds_ad
+
+! 23:44:11, 3/8/2016 https://share.dmhy.org/
+share.dmhy.org###shareman_ad
+
+! 23:44:41, 3/8/2016 https://share.dmhy.org/topics/view/418566_rip_720P.html
+share.dmhy.org###JN_ad
+
+! 23:44:50, 3/8/2016 https://share.dmhy.org/topics/view/418566_rip_720P.html
+share.dmhy.org###un_ad
+
+! 10:18:07, 4/8/2016 http://phimvipvn.net/xem-phim/nhung-chu-chim-noi-gian-angry-birds-new-movie.73891/
+phimvipvn.net###movie_info > .link-ads
+
+! 10:19:03, 4/8/2016 http://phimvipvn.net/nhung-chu-chim-noi-gian-angry-birds-new-movie.8341/
+phimvipvn.net###main > .block > .blockrow.blockbody > .intro > .link-ads
+
+! 11:43:46, 4/8/2016 http://www.animevn.biz/
+www.animevn.biz###simsodep
+
+! 12:22:15, 4/8/2016 http://www.xemtiviso.com/
+www.xemtiviso.com###wrapper_bt > .bodywrapper > .quangcao
+
+! 12:22:29, 4/8/2016 http://www.xemtiviso.com/
+www.xemtiviso.com###main-wrap1 > .wrap2:nth-of-type(1) > .quangcao
+
+! 12:22:39, 4/8/2016 http://www.xemtiviso.com/
+www.xemtiviso.com###sidebarright > .block:nth-of-type(2) > .quangcao
+
+! 12:22:49, 4/8/2016 http://www.xemtiviso.com/
+www.xemtiviso.com###sidebar-leftwrap > .block:nth-of-type(3) > .quangcao
+
+! 12:22:56, 4/8/2016 http://www.xemtiviso.com/
+www.xemtiviso.com###main-wrap1 > .quangcao:nth-of-type(3)
+
+! 12:23:00, 4/8/2016 http://www.xemtiviso.com/
+www.xemtiviso.com###main-wrap1 > .quangcao:nth-of-type(5)
+
+! 12:23:14, 4/8/2016 http://www.xemtiviso.com/
+www.xemtiviso.com###main-wrap1 > .wrap2:nth-of-type(6) > .quangcao
+
+! 12:23:19, 4/8/2016 http://www.xemtiviso.com/
+www.xemtiviso.com###HTML9 > .widget-content > .quangcao
+
+! 12:23:29, 4/8/2016 http://www.xemtiviso.com/
+www.xemtiviso.com###sidebar-leftwrap > .quangcao
+
+! 12:23:46, 4/8/2016 http://www.xemtiviso.com/
+www.xemtiviso.com###ads_float > a[href="javascript:ads_float()"]
+
+! 12:23:53, 4/8/2016 http://www.xemtiviso.com/
+www.xemtiviso.com###hide_float > a[href="javascript:hide_float()"]
+
+! 12:24:34, 4/8/2016 http://www.xemtivifull.com/2016/01/htv3-online-xem-htv3-truc-tuyen-nhanh.html
+www.xemtivifull.com##.float-ads
+
+! 12:24:46, 4/8/2016 http://www.xemtivifull.com/2016/01/htv3-online-xem-htv3-truc-tuyen-nhanh.html
+www.xemtivifull.com###hide_float > a[href="javascript:hide_float()"]
+
+! 12:27:40, 4/8/2016 http://www.tivi4k.net/
+www.tivi4k.net###main-wrap1 > center
+
+! 12:30:09, 4/8/2016 http://www.tivi12h.net/
+www.tivi12h.net###HTML5 > .tabs-widget-content-widget-themater_tabs-143244742-id.tabs-widget-content > .quangcaos
+
+! 12:30:19, 4/8/2016 http://www.tivi12h.net/
+www.tivi12h.net###hide_float > a[href="javascript:hide_float()"]
+
+! 12:30:38, 4/8/2016 http://www.tivi12h.net/
+www.tivi12h.net###HTML5 > .quangcaos:nth-of-type(3)
+
+! 12:31:06, 4/8/2016 http://www.tivi12h.net/2015/08/kenh-vtv1hd.html
+www.tivi12h.net##.page_bg > .header > .leaderboard_banner > .quangcaos
+
+! 12:31:13, 4/8/2016 http://www.tivi12h.net/2015/08/kenh-vtv1hd.html
+www.tivi12h.net##.page_bg > .wrapper > .page > .container-inner > .ctn > .AdsDesktop-header > .quangcaos:nth-of-type(1)
+
+! 12:31:24, 4/8/2016 http://www.tivi12h.net/2015/08/kenh-vtv1hd.html
+www.tivi12h.net##.page_bg > .wrapper > .page > .container-inner > .ctn
+
+! 12:31:34, 4/8/2016 http://www.tivi12h.net/2015/08/kenh-vtv1hd.html
+www.tivi12h.net###_ComingMatches_ > .tintuc > .quangcaos
+
+! 12:31:46, 4/8/2016 http://www.tivi12h.net/2015/08/kenh-vtv1hd.html
+www.tivi12h.net###HTML5 > .quangcaos:nth-of-type(4)
+
+! 12:31:55, 4/8/2016 http://www.tivi12h.net/2015/08/kenh-vtv1hd.html
+www.tivi12h.net###HTML4 > .widget-content > .tabviewsection > .tabs-widget-widget-themater_tabs-1432447472-id.clearfix.tabs-widget > .quangcaos
+
+! 12:32:42, 4/8/2016 http://www.kenhtivihd.net/
+www.kenhtivihd.net###wrapper > .bodywrapper > .topbaner > .AdsDesktop-header
+
+! 12:32:58, 4/8/2016 http://www.kenhtivihd.net/
+www.kenhtivihd.net###ads_float > a[href="javascript:ads_float()"]
+
+! 12:33:04, 4/8/2016 http://www.kenhtivihd.net/
+www.kenhtivihd.net###hide_float > a[href="javascript:hide_float()"]
+
+! 12:33:13, 4/8/2016 http://www.kenhtivihd.net/
+www.kenhtivihd.net###wrapper > .bodywrapper > .topbaner
+
+! 12:34:09, 4/8/2016 http://xemtivingon.com/
+xemtivingon.com###body-wrapper > .container > .sidebar
+
+! 12:37:28, 4/8/2016 http://thichtruyen.vn/
+thichtruyen.vn###content-wrapper > .container > .col-xs-12.right-content.col-md-3.col-sm-4 > .sub-category:nth-of-type(3) > .adv-nga
+
+! 12:38:02, 4/8/2016 http://truyenyy.com/
+truyenyy.com##.container > .row > .span12 > .wrapper.row > .YY.span2 > .hide-x:nth-of-type(2)
+
+! 12:38:28, 4/8/2016 http://thichdoctruyen.com/
+thichdoctruyen.com##.ballon_wapper_1
+
+! 17:57:10, 4/8/2016 http://phienbanmoi.com/home/
+phienbanmoi.com##.xbOffCanvasContainer > footer > .footerLegal > .pageWidth > .pageContent > .my_responsive_add
+
+! 18:00:31, 4/8/2016 http://tvtructuyen.net/
+tvtructuyen.net###header-wrapper > div:nth-of-type(2)
+
+! 18:00:41, 4/8/2016 http://tvtructuyen.net/
+tvtructuyen.net###header-wrapper > div:nth-of-type(3)
+
+! 18:00:57, 4/8/2016 http://tvtructuyen.net/
+tvtructuyen.net###float_content_left
+
+! 18:01:17, 4/8/2016 http://tvtructuyen.net/
+tvtructuyen.net###main-wrap2 > .widget-content > .chia-se > .buttom > div:nth-of-type(3)
+
+! 18:01:26, 4/8/2016 http://tvtructuyen.net/
+tvtructuyen.net###hide_rightpopup_right > a[href="javascript:hide_rightpopup_right()"]
+
+! 18:05:49, 4/8/2016 https://sukebei.nyaa.se/
+sukebei.nyaa.se###main > div:nth-of-type(4) > div
+
+! 18:05:59, 4/8/2016 https://sukebei.nyaa.se/
+sukebei.nyaa.se###main > div:nth-of-type(2) > div > div
+
+! 18:06:20, 4/8/2016 https://sukebei.nyaa.se/
+sukebei.nyaa.se###main > div:nth-of-type(1) > div > div
+
+! 18:14:12, 4/8/2016 http://tapcuoi.net/
+tapcuoi.net###footer > strong > .container.above_of_content.ad_location
+
+! 18:14:21, 4/8/2016 http://tapcuoi.net/
+tapcuoi.net##strong > .container.above_of_content.ad_location
+
+! 18:15:47, 4/8/2016 http://tinhphim.com/
+tinhphim.com###footer > .container.above_of_content.ad_location:nth-of-type(2)
+
+! 18:15:57, 4/8/2016 http://tinhphim.com/
+tinhphim.com###footer > .container.above_of_content.ad_location:nth-of-type(3)
+
+! 19:00:23, 4/8/2016 http://www.kenh1.info/
+www.kenh1.info###HTML23
+
+! 19:00:42, 4/8/2016 http://www.kenh1.info/
+www.kenh1.info###top-banner
+
+! 19:01:03, 4/8/2016 http://www.kenh1.info/
+www.kenh1.info###HTML12
+
+! 19:01:19, 4/8/2016 http://www.kenh1.info/
+www.kenh1.info###post-body-328578257651509128 > center
+
+! 19:01:47, 4/8/2016 http://www.kenh1.info/
+www.kenh1.info###post-body-328578257651509128 > a[href="http://mybet.fullbet88aa.com/vi-VN/Home"]
+
+! 19:01:54, 4/8/2016 http://www.kenh1.info/
+www.kenh1.info###HTML22
+
+! 19:06:31, 4/8/2016 http://linksvip.net/
+linksvip.net##.container > .content > .content-container > .row:nth-of-type(2) > .col-md-4 > .portlet
+
+! 19:07:45, 4/8/2016 http://gocmobile.net/
+gocmobile.net###content > .pageWidth > .pageContent > .mainContainer > .mainContent > div:nth-of-type(2)
+
+! 19:12:30, 4/8/2016 http://congtruongit.com/forum/
+congtruongit.com###content > .pageWidth > .pageContent > .sidebarContainer > .sidebarWrapped.sidebar > a[href="http://flamingo.dailai.info/513-biet-thu-charm-flamingo-dai-lai-cpp.html"]
+
+! 19:12:51, 4/8/2016 http://congtruongit.com/forum/
+congtruongit.com###content > .pageWidth > .pageContent > .sidebarContainer > .sidebarWrapped.sidebar > a[href="http://flamingo.dailai.info/501-biet-thu-ban-dao-golf-flamingo-dai-lai-cpp.html"]
+
+! 19:22:26, 4/8/2016 http://congtruongit.com/forum/
+congtruongit.com###content > .pageWidth > .pageContent > .sidebarContainer > .sidebarWrapped.sidebar > a[href="http://tourdulichdubai.net/"]
+
+! 19:22:38, 4/8/2016 http://congtruongit.com/forum/
+congtruongit.com###content > .pageWidth > .pageContent > .sidebarContainer > .sidebarWrapped.sidebar > a[href="http://tourdulichhanquoc.info/"]
+
+! 09:36:22, 5/8/2016 http://congtruongit.com/forum/
+congtruongit.com###content > .pageWidth > .pageContent > .mainContainer > .mainContent > a[href="http://muaxongship.com/"]
+
+! 10:13:30, 5/8/2016 http://esports.vn/giai-tri/bong-mat-voi-cosplay-attack-on-titan-cuc-goi-cam-va-khac-biet-23220-17
+esports.vn###banner300x250_2 > a[href="http://bit.ly/2azzD11"]
+
+! 10:14:50, 5/8/2016 http://esports.vn/giai-tri/bong-mat-voi-cosplay-attack-on-titan-cuc-goi-cam-va-khac-biet-23220-17
+esports.vn###abdf > .no-border.no-margin.no-padding > div:nth-of-type(7) > strong > u > a[href="http://bit.ly/pd2PR"]
+
+! 10:15:02, 5/8/2016 http://esports.vn/giai-tri/bong-mat-voi-cosplay-attack-on-titan-cuc-goi-cam-va-khac-biet-23220-17
+esports.vn###abdf > .no-border.no-margin.no-padding > div:nth-of-type(7) > span:nth-of-type(2)
+
+! 10:15:08, 5/8/2016 http://esports.vn/giai-tri/bong-mat-voi-cosplay-attack-on-titan-cuc-goi-cam-va-khac-biet-23220-17
+esports.vn###abdf > .no-border.no-margin.no-padding > div:nth-of-type(7) > span:nth-of-type(3)
+
+! 10:17:05, 5/8/2016 http://dongnaigsm.vn/
+dongnaigsm.vn###content > .pageWidth > .pageContent > .sidebar.act-as-sidebar.widgets-c51ce.widget-container.sectionMain.section
+
+! 10:20:43, 5/8/2016 http://www.mpgh.net/
+www.mpgh.net###aps_1
+
+! 10:20:47, 5/8/2016 http://www.mpgh.net/
+www.mpgh.net###aps_2
+
+! 10:20:51, 5/8/2016 http://www.mpgh.net/
+www.mpgh.net###aps_3
+
+! 10:23:13, 5/8/2016 http://thethaovanhoa.vn/
+thethaovanhoa.vn###ktc_banner > ul > li:nth-of-type(2)
+
+! 10:23:19, 5/8/2016 http://thethaovanhoa.vn/
+thethaovanhoa.vn###ktc_banner
+
+! 10:27:13, 5/8/2016 http://danhba.diachivang.com/truong-thpt-hoang-le-kha/
+danhba.diachivang.com###vnds_ad2
+
+! 10:27:32, 5/8/2016 http://danhba.diachivang.com/truong-thpt-hoang-le-kha/
+danhba.diachivang.com###post-302239 > .clearfix.entry > div:nth-of-type(1) > a[href="http://www.muabantenmien.com/"]
+
+! 10:27:50, 5/8/2016 http://danhba.diachivang.com/truong-thpt-hoang-le-kha/
+danhba.diachivang.com###black-studio-tinymce-2 > .textwidget > div
+
+! 10:28:03, 5/8/2016 http://danhba.diachivang.com/truong-thpt-hoang-le-kha/
+danhba.diachivang.com###sidebar-primary > div
+
+! 10:28:14, 5/8/2016 http://danhba.diachivang.com/truong-thpt-hoang-le-kha/
+danhba.diachivang.com###post-302239 > div:nth-of-type(2) > a[href="http://thegioidecal.com/dich-vu/in-decal/"]
+
+! 10:29:20, 5/8/2016 http://www.techrum.vn/
+www.techrum.vn###content > .pageWidth > .pageContent > .mainContainer > .mainContent > a[href="http://goo.gl/RFcGRJ"]:nth-of-type(1)
+
+! 10:29:32, 5/8/2016 http://www.techrum.vn/
+www.techrum.vn###content > .pageWidth > .pageContent > .mainContainer > .mainContent > a[href="http://goo.gl/RFcGRJ"]:nth-of-type(2)
+
+! 10:30:16, 5/8/2016 http://www.techrum.vn/threads/blackberry-messenger-cap-nhat-ban-chinh-thuc-bo-sung-goi-video-va-tao-account-bang-so-dien-thoai.57476/
+www.techrum.vn###content > .pageWidth > .pageContent > .mainContainer > .mainContent > .vip_ad_div:nth-of-type(8)
+
+! 10:30:23, 5/8/2016 http://www.techrum.vn/threads/blackberry-messenger-cap-nhat-ban-chinh-thuc-bo-sung-goi-video-va-tao-account-bang-so-dien-thoai.57476/
+www.techrum.vn###content > .pageWidth > .pageContent > .mainContainer > .mainContent > .vip_ad_div:nth-of-type(11)
+
+! 10:30:29, 5/8/2016 http://www.techrum.vn/threads/blackberry-messenger-cap-nhat-ban-chinh-thuc-bo-sung-goi-video-va-tao-account-bang-so-dien-thoai.57476/
+www.techrum.vn###post-277745 > .primaryContent.messageInfo > .k_ads_vip_2
+
+! 10:31:55, 5/8/2016 http://phimtorrent.com/
+phimtorrent.com###topnavbar > .topnavbarleft > .toplamfilm > marquee
+
+! 10:32:45, 5/8/2016 http://vozfozum.com/
+vozfozum.com###ad_global_below_navbar > center > table > tbody > tr > td > a[href="http://banvinhomesgardenia.com"]
+
+! 10:35:01, 5/8/2016 http://k2nblog.com/tag/tara/
+k2nblog.com###td-outer-wrap > .td-header-style-3.td-header-wrap > .td-banner-wrap-full > .td-header-header.td-header-row.td-container > .td-header-sp-recs > .td-header-rec-wrap > .td-a-rec-id-header.td-a-rec > a[href="http://kpopask.com/goto/http://bit.ly/2016-back-to-school-sale"]
+
+! 10:44:19, 5/8/2016 http://phimnhanh.net/watch/15451-linh-ban-tia-truy-tim-noi-gian.html
+phimnhanh.net##.main-wrapper.container > .movies.watch-page > .list-item.row:nth-of-type(8)
+
+! 10:44:48, 5/8/2016 http://phimnhanh.net/watch/15451-linh-ban-tia-truy-tim-noi-gian.html
+phimnhanh.net##.main-wrapper.container > .movies.watch-page > .list-item.row:nth-of-type(6)
+
+! 10:48:06, 5/8/2016 http://thachpham.com/
+thachpham.com###footer > .wrapper > .lets-do-4.footer-widgets > .item.widget-split:nth-of-type(3) > .widget_text.widget.first.widget-1 > .textwidget > div
+
+! 12:13:11, 5/8/2016 http://www.piratecity.net/bb-flashback-pro-crack/
+www.piratecity.net##.site-container > .site-inner > .wrap > .content-sidebar-wrap > .content > .entry.tag-full-version-cracked-pc-softwares.tag-bb-flashback-pro-universal-activator.tag-bb-flashback-pro-key-generator.tag-bb-flashback-pro-5-x-patch.tag-bb-flashback-pro-5-10-0-crack.category-video-recording-softwares.category-softwares.has-post-thumbnail.format-standard.status-publish.type-post.post.post-4903 > .entry-content > .code-block-1.code-block
+
+! 12:13:50, 5/8/2016 http://www.piratecity.net/bb-flashback-pro-crack/
+www.piratecity.net##.site-container > .site-inner > .wrap > .content-sidebar-wrap > .content > .entry.tag-full-version-cracked-pc-softwares.tag-bb-flashback-pro-universal-activator.tag-bb-flashback-pro-key-generator.tag-bb-flashback-pro-5-x-patch.tag-bb-flashback-pro-5-10-0-crack.category-video-recording-softwares.category-softwares.has-post-thumbnail.format-standard.status-publish.type-post.post.post-4903 > .entry-content > blockquote > .code-block-3.code-block
+
+! 12:14:02, 5/8/2016 http://www.piratecity.net/bb-flashback-pro-crack/
+www.piratecity.net##.site-container > .site-inner > .wrap > .content-sidebar-wrap > .content > .entry.tag-full-version-cracked-pc-softwares.tag-bb-flashback-pro-universal-activator.tag-bb-flashback-pro-key-generator.tag-bb-flashback-pro-5-x-patch.tag-bb-flashback-pro-5-10-0-crack.category-video-recording-softwares.category-softwares.has-post-thumbnail.format-standard.status-publish.type-post.post.post-4903 > .entry-content > .code-block-2.code-block
+
+! 12:21:15, 5/8/2016 http://kickasstorrentsan.com/x-men-apocalypse-2016-720p-hdrip-korsub-x264-aac2-0-stuttershit-t12968943.html
+kickasstorrentsan.com###tab-main > .dssdffds
+
+
+
+! 21:03:22, 5/8/2016 http://vaphim.com/2013/08/15/tay-dua-sieu-toc-turbo-2013/
+vaphim.com###text-7 > .textwidget > a[href^="https://www.fshare.vn/partnerlink"]:nth-of-type(1)
+
+! 21:19:44, 5/8/2016 http://vaphim.com/
+vaphim.com###text-6 > .textwidget > a[href^="https://www.fshare.vn/partnerlink"]
+
+! 21:19:50, 5/8/2016 http://vaphim.com/
+vaphim.com###text-5 > .textwidget > a[href^="https://www.fshare.vn/partnerlink"]
+
+! 21:50:33, 5/8/2016 http://iphim.vn/
+iphim.vn###container > .Main > .right_Main > .banner_right:nth-of-type(7)
+
+! 21:50:39, 5/8/2016 http://iphim.vn/
+iphim.vn###container > .Main > .right_Main > .banner_right:nth-of-type(8)
+
+! 21:51:05, 5/8/2016 http://iphim.vn/xem-phim-ngay-doc-lap-tai-chien-independence-day-resurgence-1790.html
+iphim.vn###container > div:nth-of-type(5) > .Main > .right_Main > .banner_right:nth-of-type(7)
+
+! 21:51:10, 5/8/2016 http://iphim.vn/xem-phim-ngay-doc-lap-tai-chien-independence-day-resurgence-1790.html
+iphim.vn###container > div:nth-of-type(5) > .Main > .right_Main > .banner_right:nth-of-type(8)
+
+! 21:51:15, 5/8/2016 http://iphim.vn/xem-phim-ngay-doc-lap-tai-chien-independence-day-resurgence-1790.html
+iphim.vn###container > div:nth-of-type(5) > .Main > .right_Main > .banner_right:nth-of-type(11)
+
+! 21:55:06, 5/8/2016 http://www.xemphimonline247.com/phim-viet-nam_cat
+www.xemphimonline247.com###hoctienganh123
+
+! 21:55:14, 5/8/2016 http://www.xemphimonline247.com/phim-viet-nam_cat
+www.xemphimonline247.com###dulichbook
+
+! 22:12:06, 5/8/2016 http://www.tvmienphi.biz/2014/06/kenh-discovery-online.html
+www.tvmienphi.biz###HTML2 > .widget-content > .quangcaos:nth-of-type(2)
+
+! 23:19:47, 5/8/2016 http://www.redflava.com/
+www.redflava.com###feed-panel-wrapper > .feed-vertical-wrapper > .alt.sidebar.right-panel > .inner > .unwrapped:nth-of-type(8) > div > a[href^="https://play.google.com/store/apps/details"]
+
+! 23:19:53, 5/8/2016 http://www.redflava.com/
+www.redflava.com###feed-panel-wrapper > .feed-vertical-wrapper > .alt.sidebar.right-panel > .inner > .unwrapped:nth-of-type(7) > div > a[href="http://join.mrskin.com/track/NTU2NzQ6Mzox/tour/n/asian-celebs"]
+
+! 23:20:15, 5/8/2016 http://www.redflava.com/
+www.redflava.com###feed-panel-wrapper > .feed-vertical-wrapper > .alt.sidebar.right-panel > .inner > .unwrapped:nth-of-type(3) > div > a[href^="http://www.qpidaffiliate.com/index.php/promote/click"]
+
+! 23:20:30, 5/8/2016 http://www.redflava.com/2016/kgirls/han-min-young-kgc/
+www.redflava.com###page-content > .sidebar.right-panel > .inner > .unwrapped:nth-of-type(1) > div
+
+! 23:20:39, 5/8/2016 http://www.redflava.com/2016/kgirls/han-min-young-kgc/
+www.redflava.com###page-content > .sidebar.right-panel > .inner > .unwrapped:nth-of-type(3) > div
+
+! 23:20:57, 5/8/2016 http://www.redflava.com/2016/kgirls/han-min-young-kgc/
+www.redflava.com###page-content > .sidebar.right-panel > .inner > .unwrapped:nth-of-type(10) > div
+
+! 23:21:01, 5/8/2016 http://www.redflava.com/2016/kgirls/han-min-young-kgc/
+www.redflava.com###page-content > .sidebar.right-panel > .inner > .unwrapped:nth-of-type(11) > div
+
+! 23:21:28, 5/8/2016 http://www.redflava.com/2010/interesting/before-and-after/
+www.redflava.com###page-content > .sidebar.right-panel > .inner > .unwrapped:nth-of-type(6) > div
+
+! 00:13:22, 6/8/2016 http://www.phimsk.com/
+www.phimsk.com###body-wrapper > .content-wrapper > .fit.container > .col-sm-5.col-md-4.col-lg-4.sidebar > .ad_location.block:nth-of-type(2)
+
+! 00:30:59, 6/8/2016 http://xonline.tv/watch-venu-621-mother-and-son-of-sex-education-kaori-to-continue-even-if-carefully-goes-wrong-at-a-slow-pleasure-2372.html
+xonline.tv##.tn-wrapper > .tn-main-full > .clearfix.tn-main2 > .tn-main-r
+
+! 00:31:22, 6/8/2016 http://xonline.tv/watch-venu-621-mother-and-son-of-sex-education-kaori-to-continue-even-if-carefully-goes-wrong-at-a-slow-pleasure-2372.html#
+xonline.tv##.tn-wrapper > .tn-main-full > center
+
+! 22:22:59, 6/8/2016 http://www.youporn.com/
+www.youporn.com##.site-wrapper > .container > .row:nth-of-type(2) > .iMeFOciwLTxI.eight-column > .nk9x1FCe43a
+
+! 22:25:15, 6/8/2016 http://www.youporn.com/watch/8383143/blonde-oiled-massage/
+www.youporn.com##.site-wrapper > .container > .row.watchContent.watchVideo > .four-column > .ajcrqo3DhXM:nth-of-type(1) > .zone_a
+
+! 22:25:34, 6/8/2016 http://www.youporn.com/watch/8383143/blonde-oiled-massage/
+www.youporn.com##.site-wrapper > .container > .row.watchContent.watchVideo > .four-column > .ajcrqo3DhXM:nth-of-type(2)
+
+! 22:25:41, 6/8/2016 http://www.youporn.com/watch/8383143/blonde-oiled-massage/
+www.youporn.com##.site-wrapper > .container > .row.watchContent.watchVideo > .four-column > .ajcrqo3DhXM:nth-of-type(1) > .callBox.ad-remove
+
+! 22:25:59, 6/8/2016 http://www.youporn.com/watch/8383143/blonde-oiled-massage/
+www.youporn.com##.site-wrapper > .container > .row.watchContent.watchVideo > .playWrapper.twelve-column > .clearfix.legacy.iYF3ixSKk2V
+
+! 22:26:14, 6/8/2016 http://www.youporn.com/watch/8383143/blonde-oiled-massage/
+www.youporn.com##.site-wrapper > footer > .aueDaJnVwmc
+
+! 14:23:58, 7/8/2016 http://watchparasyte.com/kiseiju-sei-no-kakuritsu-original-soundtrack-ost-download/
+watchparasyte.com###post-149 > .inside-article > .entry-header > center:nth-of-type(1) > a[href="http://watchberserk.com"]
+
+! 14:24:04, 7/8/2016 http://watchparasyte.com/kiseiju-sei-no-kakuritsu-original-soundtrack-ost-download/
+watchparasyte.com###post-149 > .inside-article > .entry-header > center:nth-of-type(2) > a[href="http://watchshokugeki.com"]
+
+! 14:24:09, 7/8/2016 http://watchparasyte.com/kiseiju-sei-no-kakuritsu-original-soundtrack-ost-download/
+watchparasyte.com###post-149 > .inside-article > center > a[href="http://dgrayman.tv"]
+
+! 14:31:10, 7/8/2016 http://www.achanime.net/?s=Kiseijuu&post_type=post
+www.achanime.net###btm_banner
+
+! 06:34:07, 8/8/2016 https://postimg.org/image/xp06g1ijn/
+postimg.org###content > .show-image.container > .td-ad
+
+
+! 11:36:35, 8/8/2016 http://webtinhoc.net/threads/phan-mem-download-idm-full-crack.31277
+webtinhoc.net###post-39423 > .primaryContent.messageInfo > .messageContent > center > aside
+
+! 13:45:23, 8/8/2016 http://tocbien.com/threads/hinh-anh-va-gia-ban-xe-honda-winner-150-moi-nhat-2016.2094/
+tocbien.com###content > .pageWidth > .pageContent > aside
+
+! 13:45:48, 8/8/2016 http://tocbien.com/threads/hinh-anh-va-gia-ban-xe-honda-winner-150-moi-nhat-2016.2094/
+tocbien.com###post-2654 > .primaryContent.messageInfo > a[href^="http://downloadnow6.xyz/direct/download.php"]
+
+
+! 14:04:58, 8/8/2016 http://tocbien.com/threads/download-tai-phan-mem-cat-nhac-tieng-viet-mien-phi.1959/
+||tocbien.com/anh/images/2016/08/02/downloadnow.png$image
+
+! 14:19:20, 8/8/2016 http://www.techrum.vn/threads/hack-ap-trung-pokemon-go-sieu-nhanh-ngay-tai-nha-rat-ba-dao.57206/
+www.techrum.vn###post-276736 > .primaryContent.messageInfo > .k_ads_vip_2
+
+! 14:24:41, 8/8/2016 http://www.techrum.vn/threads/oppo-f1s-chay-hang-chi-trong-3-ngay-tgdd-mo-them-5000-suat-nua.57688/
+www.techrum.vn###post-278505 > .primaryContent.messageInfo > .k_ads_vip_2 > p:nth-of-type(1)
+
+! 14:25:22, 8/8/2016 http://www.techrum.vn/threads/dut-cap-quang-aag-du-kien-hoan-tat-sua-chua-vao-21-8.57676/
+www.techrum.vn###post-278465 > .primaryContent.messageInfo > .k_ads_vip_2 > p:nth-of-type(1) > a[href="http://goo.gl/86FtnE"]
+
+! 14:27:27, 8/8/2016 http://www.techrum.vn/threads/16-logo-noi-tieng-va-nhung-an-y-ben-trong-ma-it-ai-biet-den.57679/
+||www.techrum.vn/chevereto/images/2016/05/02/BoVtG.jpg$image
+
+
+
+! 06/06/2016, 06:42:47 http://phimnhanh.com/xem-phim/di-nhan-khai-huyen-x-men-apocalypse-2016
+||yx-ads6.com/banner_show.php?section=General&pub=741822&format=300x250&ga=g$subdocument
+
+! 17/06/2016, 23:04:08 http://www.cartoonnetworkhq.com/games/ben-10-omniverse-alien-unlock-2
+www.cartoonnetworkhq.com###header_ad > .content
+
+! 17/06/2016, 23:04:17 http://www.cartoonnetworkhq.com/games/ben-10-omniverse-alien-unlock-2
+www.cartoonnetworkhq.com###header_ad
+
+! 17/06/2016, 23:04:31 http://www.cartoonnetworkhq.com/games/ben-10-omniverse-alien-unlock-2
+www.cartoonnetworkhq.com###ad300x250
+
+! 08/08/2016, 16:56:50 http://upornia.com/models/rui-saotome/
+upornia.com###bns
+
+! 08/08/2016, 17:00:18 http://sexvidx.com/watch/movie-9589/video/35448/full-dvd-annd-066-lovely-japanes-maids-lesbian-sex-oriental-lesbians-asian-dykes.html
+sexvidx.com###content > .span-620.left > .box > a[href="http://enter.javhd.com/track/383.2.2.2.0.15393.0.0.0/en"]
+
+! 08/08/2016, 17:05:27 http://avhay.com/phim-sex-chich-co-gai-xinh-dep-loi-cuon/
+avhay.com###text-4 > .textwidget > center:nth-of-type(2)
+
+! 17:11:31, 9/8/2016 http://www.eptich.com/moi-tuan-mot-bai-toan-full/
+www.eptich.com###td-outer-wrap > .td-main-content-wrap > .td-post-template-default.td-container > .td-pb-row > .td-main-sidebar.td-pb-span4 > .td-ss-main-sidebar > .td-a-rec-id-sidebar.td-a-rec
+
+! 17:12:10, 9/8/2016 http://www.eptich.com/moi-tuan-mot-bai-toan-full/
+www.eptich.com###td-outer-wrap > .td-header-style-7.td-header-wrap > .td-banner-wrap-full > .td-header-header.td-header-row.td-container-header > .td-header-sp-recs > .td-header-rec-wrap > .td-a-rec-id-header.td-a-rec > .td-all-devices
+
+! 23:16:56, 9/8/2016 https://junookyo.blogspot.com/2016/07/hack-sinhvienit-net-xss-csrf.html
+junookyo.blogspot.com###Blog1 > .well-sm.well
+
+! 13:55:43, 10/8/2016 http://rappersvn.net/music/
+rappersvn.net##div > div > table:nth-of-type(1) > tbody > tr > td:nth-of-type(2) > div:nth-of-type(2)
+
+! 06/06/2016, 06:42:47 http://phimnhanh.com/xem-phim/di-nhan-khai-huyen-x-men-apocalypse-2016
+||yx-ads6.com/banner_show.php?section=General&pub=741822&format=300x250&ga=g$subdocument
+
+! 17/06/2016, 23:04:08 http://www.cartoonnetworkhq.com/games/ben-10-omniverse-alien-unlock-2
+www.cartoonnetworkhq.com###header_ad > .content
+
+! 17/06/2016, 23:04:17 http://www.cartoonnetworkhq.com/games/ben-10-omniverse-alien-unlock-2
+www.cartoonnetworkhq.com###header_ad
+
+! 17/06/2016, 23:04:31 http://www.cartoonnetworkhq.com/games/ben-10-omniverse-alien-unlock-2
+www.cartoonnetworkhq.com###ad300x250
+
+! 08/08/2016, 16:56:50 http://upornia.com/models/rui-saotome/
+upornia.com###bns
+
+! 08/08/2016, 17:00:18 http://sexvidx.com/watch/movie-9589/video/35448/full-dvd-annd-066-lovely-japanes-maids-lesbian-sex-oriental-lesbians-asian-dykes.html
+sexvidx.com###content > .span-620.left > .box > a[href="http://enter.javhd.com/track/383.2.2.2.0.15393.0.0.0/en"]
+
+! 08/08/2016, 17:05:27 http://avhay.com/phim-sex-chich-co-gai-xinh-dep-loi-cuon/
+avhay.com###text-4 > .textwidget > center:nth-of-type(2)
+
+! 12/08/2016, 01:22:17 http://javstreams.tv/
+javstreams.tv###adsborder
+
+! 12/08/2016, 01:41:14 http://thuatngu.org/canh-bao-fbi-warning-la-gi/
+thuatngu.org###post-1774 > .entry-content > div:nth-of-type(4)
+
+! 12/08/2016, 01:43:16 http://thuatngu.org/canh-bao-fbi-warning-la-gi/
+thuatngu.org###text-17
+
+! 12/08/2016, 01:43:24 http://thuatngu.org/canh-bao-fbi-warning-la-gi/
+thuatngu.org###text-16
+
+! 12/08/2016, 01:43:35 http://thuatngu.org/canh-bao-fbi-warning-la-gi/
+thuatngu.org###text-13
+
+! 12/08/2016, 01:43:50 http://thuatngu.org/canh-bao-fbi-warning-la-gi/
+thuatngu.org###post-1774 > .entry-content > blockquote:nth-of-type(2) > div
+
+! 12/08/2016, 01:44:46 http://thuatngu.org/canh-bao-fbi-warning-la-gi/#
+thuatngu.org###text-10
+
+! 20:07:09, 12/8/2016 http://www.taifile.net/search.php?q=Shrek+Forever+After+
+www.taifile.net###good
+
+! 09:52:55, 13/8/2016 http://phimnhanh.net/genres/4-phim-hoat-hinh.html
+phimnhanh.net##.main-wrapper.container > .listing-wrapper > .container.row:nth-of-type(3)
+
+! 03:35:55, 14/8/2016 http://thisinh.thithptquocgia.edu.vn/ChiTietPhieuDangKyArea/ChiTietPhieuDangKy
+thisinh.thithptquocgia.edu.vn###bottombar
+
+! 03:44:02, 14/8/2016 https://hitomi.la/galleries/766192.html
+hitomi.la##.container > .content > .hitomi-horizontal
+
+! 14:47:06, 14/8/2016 http://tailieuhocsinh.xtgem.com/
+tailieuhocsinh.xtgem.com###st1471160772
+
+! 14:54:41, 14/8/2016 http://tailieuhocsinh.xtgem.com/
+tailieuhocsinh.xtgem.com###a1471161038
+
+! 06:36:45, 15/8/2016 http://www.eptich.com/
+www.eptich.com###td-outer-wrap > .td-header-style-8.td-header-wrap > .td-banner-wrap-full > .td-header-header.td-header-row.td-container-header > .td-header-sp-recs > .td-header-rec-wrap > .td-a-rec-id-header.td-a-rec > .td-all-devices
+
+! 06:36:56, 15/8/2016 http://www.eptich.com/
+www.eptich.com###td-outer-wrap > .td-main-page-wrap.td-main-content-wrap > .td-container:nth-of-type(1) > .td-pb-row.wpb_row.vc_row:nth-of-type(2) > .td-pb-span4.vc_column_container.wpb_column > .wpb_wrapper > .td-a-rec-id-sidebar.td-a-rec > .td-all-devices
+
+! 06:37:03, 15/8/2016 http://www.eptich.com/
+www.eptich.com###td-outer-wrap > .td-main-page-wrap.td-main-content-wrap > .td-pb-article-list.td-container > .td-pb-row > .td-main-sidebar.td-pb-span4 > .td-ss-main-sidebar > .td-a-rec-id-sidebar.td-a-rec > .td-all-devices
+
+! 06:41:57, 15/8/2016 http://www.eptich.com/tailieu/sach-tham-khao/
+www.eptich.com###td-outer-wrap > .td-main-content-wrap > .td-container > .td-pb-row > .td-main-sidebar.td-pb-span4 > .td-ss-main-sidebar > .td-a-rec-id-sidebar.td-a-rec
+
+! 08:13:31, 15/8/2016 http://bka.vn/forum/threads/tron-bo-giao-trinh-dhbk-5-nam-cntt-tieng-viet.9689/
+bka.vn###content > .pageWidth > .pageContent > center
+
+! 14:47:51, 15/8/2016 http://esports.vn/dota2/tro-thanh-game-thu-trieu-do-lieu-wings-co-bi-kim-tien-bao-mon-y-chi-nhu-cac-bac-dan-anh-23450-5
+esports.vn###banner300x250_1
+
+! 14:48:25, 15/8/2016 http://esports.vn/dota2/tro-thanh-game-thu-trieu-do-lieu-wings-co-bi-kim-tien-bao-mon-y-chi-nhu-cac-bac-dan-anh-23450-5
+esports.vn###banner300x600
+
+! 11:22:26, 17/8/2016 http://pubfilm.com/kung-fu-panda-secrets-of-the-scroll-2016-pubfilm-free.html
+pubfilm.com###the-post > .post-inner > .entry > div:nth-of-type(1)
+
+! 11:23:37, 17/8/2016 http://esports.vn/dota2/tro-thanh-game-thu-trieu-do-lieu-wings-co-bi-kim-tien-bao-mon-y-chi-nhu-cac-bac-dan-anh-23450-5
+esports.vn###banner300x250_2
+
+! 13:32:36, 17/8/2016 http://www.xemtruyenhinh.net/kenh-cartoon-network-online.htm
+www.xemtruyenhinh.net###table1 > tbody > tr > td:nth-of-type(1)
+
+! 13:32:58, 17/8/2016 http://www.xemtruyenhinh.net/kenh-cartoon-network-online.htm
+www.xemtruyenhinh.net###module_75105 > .advfooter-bound > div:nth-of-type(2)
+
+! 13:33:23, 17/8/2016 http://www.xemtruyenhinh.net/kenh-cartoon-network-online.htm
+www.xemtruyenhinh.net###HTML22
+
+! 13:34:31, 17/8/2016 http://www.xemtruyenhinh.net/vtv1.htm
+www.xemtruyenhinh.net###HTML4 > center
+
+! 00:05:59, 19/8/2016 http://blogtruyen.com/c127334/sora-yori-takaku-miyashita-akira-chap-1
+blogtruyen.com###\36 36070832760552003
+
+! 00:22:57, 19/8/2016 http://truyentranh8.net/sora-yori-takaku-chap-2
+truyentranh8.net##.container > .xemtruyen > .hideTablet.tt8quangcao
+
+! 15:25:43, 20/8/2016 http://truyentranh8.net/Kiseijuu/
+truyentranh8.net##.container > .main-page.row > .col-md-8 > a[href="http://mangaway.net/"]
+
+
+! 02:25:10, 19/8/2016 http://www.wallpapervortex.com/anime-blame-wallpapers.html
+www.wallpapervortex.com###topb > a[href="http://www.kqzyfj.com/click-5099371-11810011-1433436940000"]
+
+! 00:25:59, 21/8/2016 http://www.myfontfree.com/raleighltstdbold-myfontfreecom126f133725.htm
+www.myfontfree.com##.wrappage > .mainContent.line-fontlist > .w1000 > .wrap > .columnRight
+
+! 14:48:27, 22/8/2016 http://ket-noi.com/forum/viewtopic.php?f=73&t=105164
+ket-noi.com##.mastbottom > .container > .text-center.row > .tablecontainer > .tablecontainerrow > a[href="http://www.radionhac.com"]
+
+! 15:32:21, 22/8/2016 http://forum.4rgameprivate.com/threads/huong-dan-tao-usb-boot-da-nang-cap-do-newbie-ke-ca-foxconn-g31-mv.1542.html
+forum.4rgameprivate.com###content > .pageWidth > .pageContent > div:nth-of-type(1)
+
+! 15:32:58, 22/8/2016 http://forum.4rgameprivate.com/threads/huong-dan-tao-usb-boot-da-nang-cap-do-newbie-ke-ca-foxconn-g31-mv.1542.html
+forum.4rgameprivate.com###content > .pageWidth > .pageContent > aside
+
+! 19:07:45, 22/8/2016 http://www.linkneverdie.com/GameDetail/?gameseriesId=48&gameallId=2246&ten=No+Man%27s+Sky+2016
+www.linkneverdie.com###body_FormView1_baiviet > .t_align_c:nth-of-type(2) > p:nth-of-type(1)
+
+! 19:08:02, 22/8/2016 http://www.linkneverdie.com/GameDetail/?gameseriesId=48&gameallId=2246&ten=No+Man%27s+Sky+2016
+www.linkneverdie.com###linkdownload > .section_offset > .t_align_c.container > p:nth-of-type(1)
+
+! 19:25:01, 22/8/2016 http://www.linkneverdie.com/GameDetail/?gameseriesId=48&gameallId=2246&ten=No+Man%27s+Sky+2016
+www.linkneverdie.com###ado-68474876
+
+! 19:25:12, 22/8/2016 http://www.linkneverdie.com/GameDetail/?gameseriesId=48&gameallId=2246&ten=No+Man%27s+Sky+2016
+www.linkneverdie.com###form1 > .bg_light.wide_layout > .section_offset > center:nth-of-type(1)
+
+! 17:22:32, 23/8/2016 http://truongton.net/forum/forumdisplay.php?f=563
+truongton.net##.minisite.body-wrapper > .main-content > div:nth-of-type(1) > .page > div > .first-heart-banner > div > a[href="https://www.fastsell.vn/"]
+
+! 09:03:51, 25/8/2016 https://www.giveawayoftheday.com/vpn-unlimited-3-3/get-key/
+www.giveawayoftheday.com##.st-container > .st-pusher > .width.wrapper > .cf.middle > .wrapper_promo > div > .aa-728.center_ab
+
+! 17:02:46, 25/8/2016 http://www.techrum.vn/threads/keepsolid-mien-phi-vpn-unlimited-3-3-17-98-cho-moi-nen-tang-khong-gioi-han-bang-thong-va-toc-do.59569/
+www.techrum.vn###content > .pageWidth > .pageContent > aside > .sidebar > .widget-single.section:nth-of-type(5)
+
+! 17:02:55, 25/8/2016 http://www.techrum.vn/threads/keepsolid-mien-phi-vpn-unlimited-3-3-17-98-cho-moi-nen-tang-khong-gioi-han-bang-thong-va-toc-do.59569/
+www.techrum.vn###content > .pageWidth > .pageContent > aside > .sidebar > .widget-single.section:nth-of-type(6)
+
+! 17:04:55, 25/8/2016 https://www.giveawayoftheday.com/
+www.giveawayoftheday.com##.st-container > .st-pusher > .width.wrapper > .cf.middle > .ads_wrap.col2-1
+
+! 17:05:24, 25/8/2016 https://www.giveawayoftheday.com/raise-data-recovery-6-7-1/
+www.giveawayoftheday.com##.st-container > .st-pusher > .width.wrapper > .cf.middle > .cf.middle > .giveaway_day.col1 > .cf.giveaway_wrap > .aa-728.top_ab
+
+! 17:06:00, 25/8/2016 https://www.giveawayoftheday.com/raise-data-recovery-6-7-1/
+www.giveawayoftheday.com##.st-container > .st-pusher > .width.wrapper > .cf.middle > .cf.middle > .wrap_content.col1 > .left_col > .prog_descr.col1 > .aa-300.center_ab
+
+! 17:08:05, 25/8/2016 https://www.giveawayoftheday.com/raise-data-recovery-6-7-1/
+www.giveawayoftheday.com###comments > .aa-728.bottom_ab
+
+! 17:56:14, 25/8/2016 http://www.iobit.com/en/recommend/ascfree.php?name=iobit_uninstaller
+www.iobit.com###container > .wrapper > .ascfree.recommend > div:nth-of-type(1)
+
+! 11:15:48, 29/8/2016 http://esports.vn/dota2/tuyen-dung-esv-tuyen-cong-tac-vien-viet-bai-chuyen-vien-seo-phat-trien-cong-dong-23316-5
+esports.vn##.cover > .header-color > .header > .container > .pull-left.advertisement-sm.advertisement
+
+! 11:16:08, 29/8/2016 http://esports.vn/dota2/tuyen-dung-esv-tuyen-cong-tac-vien-viet-bai-chuyen-vien-seo-phat-trien-cong-dong-23316-5
+esports.vn###abdf > .no-border.no-margin.no-padding > div:nth-of-type(37) > div:nth-of-type(7) > div
+
+! 11:16:48, 29/8/2016 http://esports.vn/lmht/hi-vong-nang-cao-chiec-cup-vo-dich-cua-team-edg-tai-cktg-2016-23717-6
+esports.vn###abdf > .no-border.no-margin.no-padding > div:nth-of-type(6)
+
+! 21:22:45, 30/8/2016 http://motsachit.com/2016/03/khac-phu%CC%A3c-lo%CC%83i-windows-10-khong-nha%CC%A3n-du%CC%89-ram.html/
+motsachit.com###post-901 > .entry-content > .post-ads.post-ads-after
+
+! 00:16:42, 3/9/2016 http://blogtruyen.com/c71106/pokemon-special-new-new-chap-16
+blogtruyen.com###\36 36076524902463305
+
+! 22:49:12, 6/9/2016 http://blogtruyen.com/c71106/pokemon-special-new-new-chap-16
+blogtruyen.com###\36 36085479208834713
+
+! 22:49:21, 6/9/2016 http://blogtruyen.com/c71106/pokemon-special-new-new-chap-16
+blogtruyen.com###\36 36076525257051928
+
+! 20:42:09, 8/9/2016 http://news.zing.vn/mc-lai-van-sam-noi-ve-cach-xu-ly-sai-pham-o-vtv-post680007.html
+news.zing.vn###advR3-680007
+
+! 20:42:25, 8/9/2016 http://news.zing.vn/mc-lai-van-sam-noi-ve-cach-xu-ly-sai-pham-o-vtv-post680007.html
+news.zing.vn##.page-wrapper > .loaded.read.zing.type-text.the-article > .main > .sidebar
+
+! 26/08/2016, 13:16:03 http://quocbb.com/huong-dan-thay-doi-ngon-ngu-mac-dinh-tren-firefox/
+quocbb.com###text-8
+
+! 30/08/2016, 00:21:53 http://vlxx.org/2016/03/phim-sex-satomi-suzuki-tiep-hai-anh-to-khoe/
+vlxx.org###text-3
+
+! 08/09/2016, 00:51:55 http://www.pixhost.org/show/113/33675029_ruslana_flaminghot_1280x720_30fps-mp4.jpg
+www.pixhost.org###js > iframe[src="about:blank"]
+
+! 08/09/2016, 00:52:17 http://www.pixhost.org/show/113/33675029_ruslana_flaminghot_1280x720_30fps-mp4.jpg
+www.pixhost.org###text > div:nth-of-type(3) > div > iframe[src="about:blank"]:nth-of-type(1)
+
+! 08/09/2016, 00:52:26 http://www.pixhost.org/show/113/33675029_ruslana_flaminghot_1280x720_30fps-mp4.jpg
+www.pixhost.org###text > div:nth-of-type(3) > div > iframe[src="about:blank"]:nth-of-type(2)
+
+! 08/09/2016, 00:52:32 http://www.pixhost.org/show/113/33675029_ruslana_flaminghot_1280x720_30fps-mp4.jpg
+www.pixhost.org###text > div:nth-of-type(3) > div > iframe[src="about:blank"]:nth-of-type(3)
+
+! 08/09/2016, 01:01:09 http://www.planetsuzy.org/t841547-brianna-briana-milla-lukoshkina-ruslanda-sandra-redly.html
+www.planetsuzy.org##body > div:nth-of-type(2) > .page > div > div:nth-of-type(1)
+
+! 13/09/2016, 23:23:19 https://upload.so/pygxe4en536k
+upload.so###container1 > a[href^="http://apploading.mobi/mobi"]
+
+
+! 17/09/2016, 16:29:00 http://www.kuwo.cn/yinyue/5237384
+www.kuwo.cn###musicCon > .tuiguang
+
+! 17/09/2016, 16:36:46 http://www.xiuren.org/
+www.xiuren.org###enetMeng_70e
+
+! 20:33:55, 10/9/2016 http://phim47.com/xem-online/cuoc-chien-cho-va-meo-2/cats--dogs-the-revenge-of-kitty-galore/58955.html
+phim47.com##.w_menutop > .box_right.right > div:nth-of-type(1) > a[href="http://meovat47.com/"]
+
+! 15:49:39, 12/9/2016 http://4share.vn/f/487c7c7f787c7979/[Clip-sub]%20Angel%20Beats!%20-%2001%20MQ%20(1280x720%20H264)%20[F19D34A0].mkv
+4share.vn###main_content_t > center > table > tbody > tr > td:nth-of-type(2) > center:nth-of-type(4) > a[href="http://sonthaohoan.com/"]
+
+! 21:59:26, 12/9/2016 http://itzone.vn/
+itzone.vn###content > .pageWidth > .pageContent > .mainContainer > .mainContent > a[href^="https://www.fshare.vn/partnerlink"]
+
+! 14:05:59, 13/9/2016 http://4share.vn/f/3d080d04080f0a0d
+4share.vn###main_content_t > center > table > tbody > tr > td:nth-of-type(2) > center:nth-of-type(6) > a[href="http://sonthaohoan.com/"]
+
+! 12:36:36, 14/9/2016 https://www.sadeempc.com/hide-all-ip-crack/
+www.sadeempc.com###page > .container-inner > .main > .group.main-inner > .content > .group.pad:nth-of-type(2) > .tag-working-serial-keys.tag-serial-keys-for-hide-all-ip-2016-07-18-160718.tag-serial-keys-for-hide-all-ip.tag-registered-hide-all-ip-2016-07-18-160718.tag-registered-hide-all-ip.tag-register-software.tag-reg-keys-for-hide-all-ip-2016-07-18-160718.tag-reg-keys-for-hide-all-ip.tag-patch-for-hide-all-ip-2016-07-18-160718.tag-patch-for-hide-all-ip.tag-new-version-crack-for-hide-all-ip-2016-07-18-160718.tag-new-version-crack-for-hide-all-ip.tag-new-hide-all-ip-registered.tag-new-hide-all-ip-2016-07-18-160718-registered.tag-latest-hide-all-ip-registered.tag-latest-hide-all-ip-2016-07-18-160718-registered.tag-latest-crack-of-hide-all-ip-2016-07-18-160718.tag-latest-crack-of-hide-all-ip.tag-keygen-for-hide-all-ip-2016-07-18-160718.tag-keygen-for-hide-all-ip.tag-hide-all-ip-with-serial-keys.tag-hide-all-ip-with-keygen.tag-hide-all-ip-with-crack.tag-hide-all-ip-serials.tag-hide-all-ip-serial-keys.tag-hide-all-ip-registration-keys.tag-hide-all-ip-registered.tag-hide-all-ip-registeration-keys.tag-hide-all-ip-reg-keys.tag-hide-all-ip-product-keys.tag-hide-all-ip-pro-setup.tag-hide-all-ip-premium.tag-hide-all-ip-precracked.tag-hide-all-ip-preactivated.tag-hide-all-ip-pin.tag-hide-all-ip-patched.tag-hide-all-ip-patch.tag-hide-all-ip-keys.tag-hide-all-ip-keygen.tag-hide-all-ip-full-version-with-keygen-download-free.tag-hide-all-ip-full-version-with-keygen-download.tag-hide-all-ip-full-version-with-crack-and-keygen.tag-hide-all-ip-full-version-with-crack.tag-hide-all-ip-full-version-setup.tag-hide-all-ip-full-version-serial-keys.tag-hide-all-ip-full-version-patch.tag-hide-all-ip-full-version-free.tag-hide-all-ip-full-version-crack.tag-hide-all-ip-full-version.tag-hide-all-ip-full-setup.tag-hide-all-ip-full-download.tag-hide-all-ip-full.tag-hide-all-ip-free-full-download.tag-hide-all-ip-free-download.tag-hide-all-ip-free.tag-hide-all-ip-cracked.tag-hide-all-ip-crack.tag-hide-all-ip-codes.tag-hide-all-ip-activator.tag-hide-all-ip-activated.tag-hide-all-ip-2016-07-18-160718-with-serial-keys.tag-hide-all-ip-2016-07-18-160718-with-keygen.tag-hide-all-ip-2016-07-18-160718-with-crack.tag-hide-all-ip-2016-07-18-160718-serials.tag-hide-all-ip-2016-07-18-160718-serial-keys.tag-hide-all-ip-2016-07-18-160718-registration-keys.tag-hide-all-ip-2016-07-18-160718-registered.tag-hide-all-ip-2016-07-18-160718-registeration-keys.tag-hide-all-ip-2016-07-18-160718-reg-keys.tag-hide-all-ip-2016-07-18-160718-product-keys.tag-hide-all-ip-2016-07-18-160718-pro-setup.tag-hide-all-ip-2016-07-18-160718-pro.tag-hide-all-ip-2016-07-18-160718-premium.tag-hide-all-ip-2016-07-18-160718-precracked.tag-hide-all-ip-2016-07-18-160718-preactivated.tag-hide-all-ip-2016-07-18-160718-pin.tag-hide-all-ip-2016-07-18-160718-patched.tag-hide-all-ip-2016-07-18-160718-patch.tag-hide-all-ip-2016-07-18-160718-keys.tag-hide-all-ip-2016-07-18-160718-keygen-is-here.tag-hide-all-ip-2016-07-18-160718-keygen-download.tag-hide-all-ip-2016-07-18-160718-keygen.tag-hide-all-ip-2016-07-18-160718-full-version-with-crack-and-keygen.tag-hide-all-ip-2016-07-18-160718-full-version-with-crack.tag-hide-all-ip-2016-07-18-160718-full-version-setup.tag-hide-all-ip-2016-07-18-160718-full-version-serial-keys.tag-hide-all-ip-2016-07-18-160718-full-version-patch.tag-hide-all-ip-2016-07-18-160718-full-version-free.tag-hide-all-ip-2016-07-18-160718-full-version-crack.tag-hide-all-ip-2016-07-18-160718-full-version.tag-hide-all-ip-2016-07-18-160718-full-setup.tag-hide-all-ip-2016-07-18-160718-full-download.tag-hide-all-ip-2016-07-18-160718-full.tag-hide-all-ip-2016-07-18-160718-free-full-download.tag-hide-all-ip-2016-07-18-160718-free-download.tag-hide-all-ip-2016-07-18-160718-free.tag-hide-all-ip-2016-07-18-160718-cracked.tag-hide-all-ip-2016-07-18-160718-crack.tag-hide-all-ip-2016-07-18-160718-codes.tag-hide-all-ip-2016-07-18-160718-activator.tag-hide-all-ip-2016-07-18-160718-activated.tag-hide-all-ip-2016-07-18-160718.tag-hide-all-ip.tag-full-version-free.tag-full-version.tag-free-full-version-of-hide-all-ip-2016-07-18-160718.tag-free-full-version-of-hide-all-ip.tag-free-download.tag-cracks.tag-crack-for-hide-all-ip-2016-07-18-160718.tag-crack-for-hide-all-ip.category-internet-tools.category-hide-ip-address.hentry.has-post-thumbnail.format-standard.status-publish.type-post.post.post-3775 > .group.post-inner > .share.themeform.entry > .entry-inner > div:nth-of-type(6)
+
+! 12:42:51, 14/9/2016 https://www.sadeempc.com/driver-easy-professional-latest/
+www.sadeempc.com###page > .container-inner > .main > .group.main-inner > .content > .group.pad:nth-of-type(2) > .tag-working-serial-keys.tag-serial-keys-for-driver-easy-professional-5-0-9-40298.tag-serial-keys-for-driver-easy-professional.tag-registered-driver-easy-professional-5-0-9-40298.tag-registered-driver-easy-professional.tag-register-software.tag-reg-keys-for-driver-easy-professional-5-0-9-40298.tag-reg-keys-for-driver-easy-professional.tag-patch-for-driver-easy-professional-5-0-9-40298.tag-patch-for-driver-easy-professional.tag-new-version-crack-for-driver-easy-professional-5-0-9-40298.tag-new-version-crack-for-driver-easy-professional.tag-new-driver-easy-professional-registered.tag-new-driver-easy-professional-5-0-9-40298-registered.tag-latest-driver-easy-professional-registered.tag-latest-driver-easy-professional-5-0-9-40298-registered.tag-latest-crack-of-driver-easy-professional-5-0-9-40298.tag-latest-crack-of-driver-easy-professional.tag-keygen-for-driver-easy-professional-5-0-9-40298.tag-keygen-for-driver-easy-professional.tag-full-version-free.tag-full-version.tag-free-full-version-of-driver-easy-professional-5-0-9-40298.tag-free-full-version-of-driver-easy-professional.tag-free-download.tag-driver-easy-professional-with-serial-keys.tag-driver-easy-professional-with-keygen.tag-driver-easy-professional-with-crack.tag-driver-easy-professional-serials.tag-driver-easy-professional-serial-keys.tag-driver-easy-professional-registration-keys.tag-driver-easy-professional-registered.tag-driver-easy-professional-registeration-keys.tag-driver-easy-professional-reg-keys.tag-driver-easy-professional-product-keys.tag-driver-easy-professional-pro-setup.tag-driver-easy-professional-premium.tag-driver-easy-professional-precracked.tag-driver-easy-professional-preactivated.tag-driver-easy-professional-pin.tag-driver-easy-professional-patched.tag-driver-easy-professional-patch.tag-driver-easy-professional-keys.tag-driver-easy-professional-keygen.tag-driver-easy-professional-full-version-with-keygen-download-free.tag-driver-easy-professional-full-version-with-keygen-download.tag-driver-easy-professional-full-version-with-crack-and-keygen.tag-driver-easy-professional-full-version-with-crack.tag-driver-easy-professional-full-version-setup.tag-driver-easy-professional-full-version-serial-keys.tag-driver-easy-professional-full-version-patch.tag-driver-easy-professional-full-version-free.tag-driver-easy-professional-full-version-crack.tag-driver-easy-professional-full-version.tag-driver-easy-professional-full-setup.tag-driver-easy-professional-full-download.tag-driver-easy-professional-full.tag-driver-easy-professional-free-full-download.tag-driver-easy-professional-free-download.tag-driver-easy-professional-free.tag-driver-easy-professional-cracked.tag-driver-easy-professional-crack.tag-driver-easy-professional-codes.tag-driver-easy-professional-activator.tag-driver-easy-professional-activated.tag-driver-easy-professional-5-0-9-40298-with-serial-keys.tag-driver-easy-professional-5-0-9-40298-with-keygen.tag-driver-easy-professional-5-0-9-40298-with-crack.tag-driver-easy-professional-5-0-9-40298-serials.tag-driver-easy-professional-5-0-9-40298-serial-keys.tag-driver-easy-professional-5-0-9-40298-registration-keys.tag-driver-easy-professional-5-0-9-40298-registered.tag-driver-easy-professional-5-0-9-40298-registeration-keys.tag-driver-easy-professional-5-0-9-40298-reg-keys.tag-driver-easy-professional-5-0-9-40298-product-keys.tag-driver-easy-professional-5-0-9-40298-pro-setup.tag-driver-easy-professional-5-0-9-40298-pro.tag-driver-easy-professional-5-0-9-40298-premium.tag-driver-easy-professional-5-0-9-40298-precracked.tag-driver-easy-professional-5-0-9-40298-preactivated.tag-driver-easy-professional-5-0-9-40298-pin.tag-driver-easy-professional-5-0-9-40298-patched.tag-driver-easy-professional-5-0-9-40298-patch.tag-driver-easy-professional-5-0-9-40298-keys.tag-driver-easy-professional-5-0-9-40298-keygen-is-here.tag-driver-easy-professional-5-0-9-40298-keygen-download.tag-driver-easy-professional-5-0-9-40298-keygen.tag-driver-easy-professional-5-0-9-40298-full-version-with-crack-and-keygen.tag-driver-easy-professional-5-0-9-40298-full-version-with-crack.tag-driver-easy-professional-5-0-9-40298-full-version-setup.tag-driver-easy-professional-5-0-9-40298-full-version-serial-keys.tag-driver-easy-professional-5-0-9-40298-full-version-patch.tag-driver-easy-professional-5-0-9-40298-full-version-free.tag-driver-easy-professional-5-0-9-40298-full-version-crack.tag-driver-easy-professional-5-0-9-40298-full-version.tag-driver-easy-professional-5-0-9-40298-full-setup.tag-driver-easy-professional-5-0-9-40298-full-download.tag-driver-easy-professional-5-0-9-40298-full.tag-driver-easy-professional-5-0-9-40298-free-full-download.tag-driver-easy-professional-5-0-9-40298-free-download.tag-driver-easy-professional-5-0-9-40298-free.tag-driver-easy-professional-5-0-9-40298-cracked.tag-driver-easy-professional-5-0-9-40298-crack.tag-driver-easy-professional-5-0-9-40298-codes.tag-driver-easy-professional-5-0-9-40298-activator.tag-driver-easy-professional-5-0-9-40298-activated.tag-driver-easy-professional-5-0-9-40298.tag-driver-easy-professional.tag-cracks.tag-crack-for-driver-easy-professional-5-0-9-40298.tag-crack-for-driver-easy-professional.category-pc-softwares.category-drivers.hentry.has-post-thumbnail.format-standard.status-publish.type-post.post.post-3740 > .group.post-inner > .share.themeform.entry > .entry-inner > div:nth-of-type(8) > center
+
+! 12:09:02, 18/9/2016 http://pcgames-download.net/2016/07/kingdom-rush-frontiers-gog-torrent-mega-uploaded-uptobox/
+pcgames-download.net##.medium-padding.section.wrapper > .section-inner > .fright.sidebar > .widget_text.widget:nth-of-type(3)
+
+! 15:37:33, 18/9/2016 http://www.gamecopyworld.eu/games/pc_kingdom_rush.shtml
+www.gamecopyworld.eu##center > .t0 > div > table:nth-of-type(1) > tbody > tr:nth-of-type(2)
+
+! 15:38:12, 18/9/2016 http://www.gamecopyworld.eu/games/pc_kingdom_rush.shtml
+www.gamecopyworld.eu##center > .t0 > div > table:nth-of-type(2) > tbody > tr > td:nth-of-type(2) > .ti2:nth-of-type(2)
+
+! 21:07:15, 18/9/2016 http://vtvso.com/info/luu-hai-dau-kim-thiem-vtv3
+vtvso.com###wrap > .wrap.middle > .group.cols > .colright > div:nth-of-type(4)
+
+! 22:59:52, 19/9/2016 http://bam.vn/threads/download-game-de-che-14-doi-1-2-3-empire-earth-full-crack.24362/
+bam.vn###sticky
+
+! 23:00:39, 19/9/2016 http://bam.vn/threads/download-game-de-che-14-doi-1-2-3-empire-earth-full-crack.24362/
+bam.vn###sticky
+
+! 23:00:53, 19/9/2016 http://bam.vn/threads/download-game-de-che-14-doi-1-2-3-empire-earth-full-crack.24362/
+bam.vn###sticky
+
+! 23:00:58, 19/9/2016 http://bam.vn/threads/download-game-de-che-14-doi-1-2-3-empire-earth-full-crack.24362/
+bam.vn###sticky > a[href^="http://get.ssgutsysponge.bid/"]
+
+! 23:01:10, 19/9/2016 http://bam.vn/threads/download-game-de-che-14-doi-1-2-3-empire-earth-full-crack.24362/
+bam.vn###post-58157 > .messageUserInfo > .primaryContent.messageInfo > center
+
+! 23:03:54, 19/9/2016 http://thuthuattienich.com/game-hay/phim-tat-trong-game-aoe-1-game-de-che-xanh-1/
+thuthuattienich.com###text-html-widget-7 > .widget-container
+
+! 01:18:07, 20/9/2016 http://g1.gamecopyworld.click/?y=4499d075&x=rIr5yD0%2FmxbOCyFO6YbgybDK1fIw%2F03ZmMXLqVykQOPd6vqZ5rrbLlKxnENw58V4%2FkwoX4nX4sP1kC7PR1AQnB66z4r1ChS2YLtes5mEcRv90AgbAgGYqaQUfD5DGdb06LiVq5%2B9qp6Neqc5MhLN%2Fr5wMgEgOAyAta9jwN3iWA0%3D
+g1.gamecopyworld.click##center > .t2 > tbody > tr:nth-of-type(5)
+
+
+
+! 01:18:48, 20/9/2016 http://g1.gamecopyworld.click/?y=4499d075&x=rIr5yD0%2FmxbOCyFO6YbgybDK1fIw%2F03ZmMXLqVykQOPd6vqZ5rrbLlKxnENw58V4%2FkwoX4nX4sP1kC7PR1AQnB66z4r1ChS2YLtes5mEcRv90AgbAgGYqaQUfD5DGdb06LiVq5%2B9qp6Neqc5MhLN%2Fr5wMgEgOAyAta9jwN3iWA0%3D
+g1.gamecopyworld.click##center > .t2 > tbody > tr:nth-of-type(1)
+
+! 01:19:51, 20/9/2016 http://g1.gamecopyworld.click/?y=4499d075&x=rIr5yD0%2FmxbOCyFO6YbgybDK1fIw%2F03ZmMXLqVykQOPd6vqZ5rrbLlKxnENw58V4%2FkwoX4nX4sP1kC7PR1AQnB66z4r1ChS2YLtes5mEcRv90AgbAgGYqaQUfD5DGdb06LiVq5%2B9qp6Neqc5MhLN%2Fr5wMgEgOAyAta9jwN3iWA0%3D
+g1.gamecopyworld.click##center > .t2 > tbody > tr:nth-of-type(3) > td:nth-of-type(2) > div > iframe
+
+! 01:57:44, 20/9/2016 http://lnkworld.com/
+lnkworld.com##center > table:nth-of-type(1) > tbody > tr > td > .t2 > tbody > tr > td:nth-of-type(2) > table > tbody > tr:nth-of-type(1)
+
+! 01:58:09, 20/9/2016 http://lnkworld.com/
+lnkworld.com##center > table:nth-of-type(4) > tbody > tr > td:nth-of-type(4) > table > tbody > tr > td:nth-of-type(2)
+
+! 01:58:43, 20/9/2016 http://lnkworld.com/
+lnkworld.com##center > table:nth-of-type(6)
+
+! 02:00:05, 20/9/2016 http://gf.wiretarget.com/aoe.htm
+gf.wiretarget.com##body > center:nth-of-type(1) > table:nth-of-type(2)
+
+! 02:00:18, 20/9/2016 http://gf.wiretarget.com/aoe.htm
+gf.wiretarget.com##body > center:nth-of-type(1)
+
+! 12:12:16, 21/9/2016 http://taimienphi.vn/download-your-uninstaller-223
+taimienphi.vn###cph1_ga3
+
+! 13:47:03, 21/9/2016 http://girlssexxxx.com/vi/tag/publicagent.com/
+girlssexxxx.com###advobj
+
+! 13:47:22, 21/9/2016 http://girlssexxxx.com/vi/tag/publicagent.com/
+girlssexxxx.com###advobj > iframe[src="/content2/lib/wAY6RuE7?id=56"]
+
+! 13:47:27, 21/9/2016 http://girlssexxxx.com/vi/tag/publicagent.com/
+girlssexxxx.com###advobj
+
+! 13:47:55, 21/9/2016 http://girlssexxxx.com/vi/tag/publicagent.com/
+girlssexxxx.com###wrapper > .section-wrapper.content-section > .thumbs-content > .thumbs-gallery > dd:nth-of-type(4) > .movie-banners-block
