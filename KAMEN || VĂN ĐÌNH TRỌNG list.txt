@@ -1,6 +1,6 @@
 [Adblock]
 ! Homepage: 
-! Title: KAMEN || VĂN ĐÌNH TRỌNG list [ads blocking || 03/10/2016, 06:55 PM GMT+7]
+! Title: KAMEN || VĂN ĐÌNH TRỌNG list [ads blocking || 04/10/2016, 08:31 PM GMT+7]
 ! Expires: 1 day
 ! Version: 1.0
 ! Last modified:  
@@ -2057,3 +2057,58 @@ girlssexxxx.com###advobj
 
 ! 13:47:55, 21/9/2016 http://girlssexxxx.com/vi/tag/publicagent.com/
 girlssexxxx.com###wrapper > .section-wrapper.content-section > .thumbs-content > .thumbs-gallery > dd:nth-of-type(4) > .movie-banners-block
+
+
+! 12:01:07, 22/9/2016 http://chiasephanmem.org/wp-content/plugins/tm-wordpress-redirection/l.php?https://drive.google.com/file/d/0B4sKhYMtlr6XRUlXOERvZXp0b2c/view
+chiasephanmem.org##center
+
+! 12:01:20, 22/9/2016 http://chiasephanmem.org/iobit-driver-booster-pro/
+chiasephanmem.org###ado-91255809 > iframe
+
+! 12:01:25, 22/9/2016 http://chiasephanmem.org/iobit-driver-booster-pro/
+chiasephanmem.org###ado-61110210 > iframe
+
+! 12:01:33, 22/9/2016 http://chiasephanmem.org/iobit-driver-booster-pro/
+chiasephanmem.org###ado-91255809
+
+! 12:01:38, 22/9/2016 http://chiasephanmem.org/iobit-driver-booster-pro/
+chiasephanmem.org###ado-61110210
+
+! 17:34:02, 22/9/2016 https://filescloud.co/60d40cf51d6d8c0c
+||filescloud.co/60d40cf51d6d8c0c$subdocument
+
+! 23:10:13, 22/9/2016 http://blogtamsu.vn/nhom-ban-chup-anh-deu-dan-5-namlan-khi-hop-lop-buc-anh-cuoi-cung-se-khien-ban-bat-khoc.html
+blogtamsu.vn###Banner_balloon
+
+! 16:19:58, 27/9/2016 http://thiendia.com/diendan/
+thiendia.com###content > .pageWidth > .pageContent > .my_responsive_ads
+
+! 16:29:19, 27/9/2016 https://www.fshare.vn/file/5D46ALWG8LXP
+www.fshare.vn##.topbg > .wrap.container > .padding-v-15 > .dl_6
+
+! 20:47:37, 28/9/2016 http://news.zing.vn/nhung-bo-phim-co-ky-xao-hinh-anh-dep-nhat-2015-post608533.html
+news.zing.vn###advR3-608533
+
+! 21:06:30, 1/10/2016 http://news.zing.vn/su-that-kinh-di-dang-sau-cac-phim-hoat-hinh-lung-danh-post602294.html
+news.zing.vn###advR3-602294
+
+! 08:36:45, 3/10/2016 http://phimbathu.com/xem-phim/phim-one-piece-vua-hai-tac-dao-hai-tac-hai-tac-mu-rom-2000-1451
+phimbathu.com###ads_zone26545
+
+! 08:36:50, 3/10/2016 http://phimbathu.com/xem-phim/phim-one-piece-vua-hai-tac-dao-hai-tac-hai-tac-mu-rom-2000-1451
+phimbathu.com###ads_zone26539
+
+! 08:36:57, 3/10/2016 http://phimbathu.com/xem-phim/phim-one-piece-vua-hai-tac-dao-hai-tac-hai-tac-mu-rom-2000-1451
+phimbathu.com##.float-ads-left.float-ads
+
+! 10:35:18, 3/10/2016 http://vuighe.net/vua-hai-tac/tap-758-nhat-vuong-cong-tuoc-inuarashi-xuat-hien
+vuighe.net###videoPlayer > .pause-banner > .pause-banner-content
+
+! 20:12:25, 3/10/2016 http://kenh76.vn/
+kenh76.vn###theme-header > .header-content > .e3lan-top.e3lan
+
+! 20:31:09, 3/10/2016 http://123link.top/VW0emPL
+||youtubephim.top/$subdocument
+
+! 12:39:56, 4/10/2016 https://www.fshare.vn/file/T1RVWW5SCT
+www.fshare.vn###download-index > .dl_6
