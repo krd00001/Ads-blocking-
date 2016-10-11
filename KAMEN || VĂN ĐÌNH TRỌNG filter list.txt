@@ -1,6 +1,6 @@
 [Adblock]
 ! Homepage: 
-! Title: KAMEN || VĂN ĐÌNH TRỌNG list [ads blocking || 11/10/2016, 09:10 AM GMT+7]
+! Title: KAMEN || VĂN ĐÌNH TRỌNG list [ads blocking || 11/10/2016, 10:08 AM GMT+7]
 ! Expires: 1 day
 ! Version: 1.0
 ! Last modified:  
@@ -554,26 +554,15 @@ xemtvhd.com###hide_rightpopup_right > a[href="javascript:hide_rightpopup_right()
 ! 12:05:27 25/9/2015 http://vkool.net/watch/co-be-charlotte-503578.html
 ||phimkp.com/2015/vkool.html
 
-! 21:01:17 26/9/2015 http://www.tivi24h.com/2011/08/kenh-vtc7-hd-today-giai-tri-tong-hop.html
-||lh6.googleusercontent.com/-n-wdYx7AM2k/U-dGHY1myTI/AAAAAAAAAJo/fHRLBgF7qlA/w640-h80-no/m88.gif
 
-! 21:01:33 26/9/2015 http://www.tivi24h.com/2011/06/vtc7-online-kenh-vtc7-truc-tuyen-truyen.html
-||lh4.googleusercontent.com/WqdIEeOhSorfzjjXlq-xWEVjZNoJqyMZgTL93k5M52w=w743-h281-no
 
-! 21:01:37 26/9/2015 http://www.tivi24h.com/2011/06/vtc7-online-kenh-vtc7-truc-tuyen-truyen.html
-||i.imgur.com/Mtm16T5.gif
 
-! 23:58:24 26/9/2015 https://share.dmhy.org/topics/view/404677_-11_Grisaia_no_Kajitsu_BDrip_720P_X264-10bit_AAC.html
-||share.dmhy.org/UNY1.jpg?6
 
 ! 19:28:43 27/9/2015 http://xemtvhd.com/animal-planet-online-kenh-animal-planet-truc-tuyen.html
 ||xemtvhd.com/logo/menu2-3.php
 
 ! 19:28:49 27/9/2015 http://xemtvhd.com/animal-planet-online-kenh-animal-planet-truc-tuyen.html
 ||xemtvhd.com/logo/menu2-4.php
-
-! 7:08:40 28/9/2015 http://q.gs/5gbiI
-||q.gs/1market.php?p=iOJixULWmbdhz5IGidwzi9aGGa9izwdiCIIi6oIjnIE0uJZ33bMwiJLCCLJiwkcUma9i0dbW2NNvvIbiCOIi6UIWmbhh05dGHaA06FIGicwiiwbi3IJipoZj2IlouNImjcohiVa2HcRi0wciDIoivoLj3IEouNZX3YMoiJLyCeJ6oIcCmbVymVInjIosiQaDHNR40gcDDMo4voLj3IEuuJZC3LM0vINTWOd0iEaTUOk6iILCCZJihwbimINilBcT3MR1vAcTkM9xyYazWMd3pMbmnNMjiBODnOtj9BfTSYwjiRZWmZxjhRcT2YgxiIOGjMElshIzmY14vYYjmIl6sIZCSdIi6wMiCIwxiIbiWO9iiMa2WcxilwXi2I9tzNIjjIo6iITimY8jiJfyQe==
 
 
 ! 14:18:03 28/9/2015 http://thiendia.com/diendan/forumdisplay.php?f=18
@@ -603,17 +592,6 @@ xemtvhd.com###hide_rightpopup_right > a[href="javascript:hide_rightpopup_right()
 ! 14:44:56 28/9/2015 http://thiendia.com/diendan/showthread.php?t=949314
 ||img.thiendia.com/server6/images/46753077179055236421.gif
 
-! 13:19:25 30/9/2015 http://www.bdsola.com/search.php?kw=%E5%AE%AB%E5%B4%8E%E9%AA%8F.1984-2008.BluRay.iPad.720p-CHDPAD
-||vip4.rwjfs.com/cpv/v2.ashx?jxu=703745&jxs=0&jxo=7&jxt=7&jxw=0&jxh=0&jxtk=63579219574&jxd=807439&jxdm=d3d3LmJkc29sYS5jb201&jxoby=0&jxlp=1&jxcf=LAEAAGEAAABodHRwOi8vd3d3LmJkc29sYS5jb20vc2VhcmNoLnBocD9rdz0lRTUlQUUlQUIlRTUlQjQlOEUlRTklQUElOEYuMTk4NC0yMDA4LkJsdVJheS5pUGFkLjcyMHAtQ0hEUEFEFwAAAGh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vUAUAAxgAAQEBAAAAAGYAAABNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjEpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS80NS4wLjI0NTQuMTAxIFNhZmFyaS81MzcuMzYCAA0ABgAAADE5LjAuMA0AAAAxMTMuMTY4LjcyLjQwKEiocQwAAADlm73lpJblhbbku5ZMAA2&jxst=0&jxtm=80&jxtw=0&jxnm=1&jxln=1
-
-! 13:24:31 30/9/2015 http://www.bdsola.com/search.php?kw=STUDIO.GHIBLI.Hayao.Miyazaki.Animation.Film.Collection.1984-2008.BluRay.iPad.720p.AAC.4Audio.x264-CHDPAD
-||vip4.rwjfs.com/cpv/v2.ashx?jxu=703745&jxs=0&jxo=7&jxt=7&jxw=0&jxh=0&jxtk=63579219628&jxd=807439&jxdm=d3d3LmJkc29sYS5jb201&jxoby=0&jxlp=3&jxcf=bQEAAIwAAABodHRwOi8vd3d3LmJkc29sYS5jb20vc2VhcmNoLnBocD9rdz1TVFVESU8uR0hJQkxJLkhheWFvLk1peWF6YWtpLkFuaW1hdGlvbi5GaWxtLkNvbGxlY3Rpb24uMTk4NC0yMDA4LkJsdVJheS5pUGFkLjcyMHAuQUFDLjRBdWRpby54MjY0LUNIRFBBRC0AAABodHRwOi8vd3d3LmJkc29sYS5jb20vdmlld2ZpbGUucGhwP2ZpZD13TVdGYWJQBQADGAABAQEAAAAAZgAAAE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDYuMSkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzQ1LjAuMjQ1NC4xMDEgU2FmYXJpLzUzNy4zNgIADQAGAAAAMTkuMC4wDQAAADExMy4xNjguNzIuNDAoSKhxDAAAAOWbveWkluWFtuS7lkwA0&jxst=0&jxtm=80&jxtw=0&jxnm=1&jxln=1
-
-! 13:24:37 30/9/2015 http://www.bdsola.com/search.php?kw=STUDIO.GHIBLI.Hayao.Miyazaki.Animation.Film.Collection.1984-2008.BluRay.iPad.720p.AAC.4Audio.x264-CHDPAD
-||vip4.rwjfs.com/cpv/images/close.png
-
-! 13:25:03 30/9/2015 http://www.bdsola.com/viewfile.php?fid=aMbLab
-||vip4.rwjfs.com/cpv/v2.ashx
 
 ! 22:45:02 30/9/2015 http://tapcuoi.net/co-dau-8-tuoi/
 ||biblicaleating.org/wp-ad/336moira-tapcuoi.html
@@ -630,11 +608,8 @@ tapcuoi.net###hide_balloons_left
 ! 22:57:13 30/9/2015 http://phimck.com/xem-phim/7227/co-dau-8-tuoi.html
 ||dulichdatviet.info/du-lich-dien-bien-phu.html
 
-! 12:03:45 3/10/2015 http://hayxemphim.com/phim-my/khach-san-huyen-bi-2-full-vietsub.html
-||hayxemphim.com/assets/images/no-banner-300x250.jpg
 
-! 12:59:26 3/10/2015 http://share.dmhy.org/topics/view/373788_2004.html
-||share.dmhy.org/ZDS1.jpg?14
+
 
 ! 21:19:55 4/10/2015 http://keonhacai.com/xem-bong-da-truc-tuyen
 ||s19.postimg.org/quetz51eb/300x90km_1.gif
@@ -771,8 +746,6 @@ ign.vn###pinnedBanner > center > embed
 ! 22:05:38 20/10/2015 http://torrent.cd/
 ||torrent.cd/images/bnr_main.gif
 
-! 6:37:15 21/10/2015 https://share.dmhy.org/topics/view/397951_Date_a_Live_BDrip_1920x1080_TV12_OAD_CM10_OPED11_info3_menu14_x264_m4a_10bit.html
-share.dmhy.org###qm_ad > a[href="https://chimon.taobao.com/"] > img
 
 
 
