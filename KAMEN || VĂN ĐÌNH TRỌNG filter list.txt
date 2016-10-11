@@ -2153,19 +2153,6 @@ gamecopyworld.eu##center > .t0 > div > table:nth-of-type(2) > tbody > tr > td:nt
 ! 08:32:56, 11/10/2016 http://gamecopyworld.eu/games/pc_grand_theft_auto_5.shtml
 gamecopyworld.eu##center > .t0 > div > table:nth-of-type(1) > tbody > tr:nth-of-type(2)
 
-||a96378.servehttp.com/!_bb.php?sn=AAAAAA&ns=1
-||a96378.servehttp.com/!_bb.php
-||a96378.servehttp.com/!_*.php?*ns=1
-
-||a96378.servehttp.com/!_bn.php?ns=1
-||a96378.servehttp.com/!_bn.php
-||a96378.servehttp.com/!_*.php?*ns=1
-
-||filetarget.net/!_fb.php?sz=fb&sn=gcw&bg=AAAAAA&ns=1&nf=1
-||filetarget.net/!_fb.php
-||filetarget.net/!_bn.php
-||filetarget.net/!_bn.php?sn=gcw&bg=gcw_dl&ns=1&nf=1
-
 
 ! 09:07:13, 11/10/2016 http://dl.gamecopyworld.eu/?c=59382993&a=0&d=2009&f=cod517promo-ch!zip
 dl.gamecopyworld.eu##center > .t2 > tbody > tr:nth-of-type(1)
@@ -2176,3 +2163,46 @@ dl.gamecopyworld.eu##center > .t2 > tbody > tr:nth-of-type(3) > td:nth-of-type(2
 ! 09:07:50, 11/10/2016 http://dl.gamecopyworld.eu/?c=59382993&a=0&d=2009&f=cod517promo-ch!zip
 dl.gamecopyworld.eu##center > .t2 > tbody > tr:nth-of-type(6)
 
+
+! 09:21:37, 11/10/2016 http://lnkworld.com/startpage.shtml
+lnkworld.com##center > table:nth-of-type(5)
+
+! 09:27:00, 11/10/2016 http://lnkworld.com/startpage.shtml
+lnkworld.com##center > table:nth-of-type(3) > tbody > tr > td:nth-of-type(2) > table > tbody > tr > td:nth-of-type(2)
+
+! 09:31:15, 11/10/2016 http://mediatarget.com/
+mediatarget.com##center > table:nth-of-type(3)
+
+! http://www.gamecopyworld.eu/
+
+||ih1.lnkworld.com
+
+||ih1.lnkworld.com/!_lb.php?sn=lw&bg=lw
+||ih1.lnkworld.com/!_lb.php
+||ih1.lnkworld.com/!_bs.php?sn=lw&bg=lw_body
+||ih1.lnkworld.com/!_bs.php
+||ih1.lnkworld.com/!_*.php?sn=lw&bg=lw
+
+
+||a96378.servehttp.com
+
+||a96378.servehttp.com/@_ezcd.php
+||a96378.servehttp.com/@_ezcd.php?sz=bn&sn=ct&bg=ct&ns=1
+||a96378.servehttp.com/!_games.php?sz=bn&sn=gt_top
+||a96378.servehttp.com/!_games.php
+||a96378.servehttp.com/!_bb.php?sn=AAAAAA&ns=1
+||a96378.servehttp.com/!_bb.php
+||a96378.servehttp.com/!_*.php?*ns=1
+||a96378.servehttp.com/!_bn.php?ns=1
+||a96378.servehttp.com/!_bn.php
+||a96378.servehttp.com/!_*.php?*ns=1
+
+
+||filetarget.net
+
+||filetarget.net/!_fb.php?sz=fb&sn=gcw&bg=AAAAAA&ns=1&nf=1
+||filetarget.net/!_fb.php
+||filetarget.net/!_bn.php
+||filetarget.net/!_bn.php?sn=gcw&bg=gcw_dl&ns=1&nf=1
+||filetarget.net/!_btm.php?ns=1
+||filetarget.net/!_btm.php
