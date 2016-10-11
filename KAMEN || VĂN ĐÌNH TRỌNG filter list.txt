@@ -1,6 +1,6 @@
 [Adblock]
 ! Homepage: 
-! Title: KAMEN || VĂN ĐÌNH TRỌNG list [ads blocking || 04/10/2016, 08:31 PM GMT+7]
+! Title: KAMEN || VĂN ĐÌNH TRỌNG list [ads blocking || 11/10/2016, 08:28 AM GMT+7]
 ! Expires: 1 day
 ! Version: 1.0
 ! Last modified:  
@@ -2017,16 +2017,6 @@ bam.vn###post-58157 > .messageUserInfo > .primaryContent.messageInfo > center
 ! 23:03:54, 19/9/2016 http://thuthuattienich.com/game-hay/phim-tat-trong-game-aoe-1-game-de-che-xanh-1/
 thuthuattienich.com###text-html-widget-7 > .widget-container
 
-! 01:18:07, 20/9/2016 http://g1.gamecopyworld.click/?y=4499d075&x=rIr5yD0%2FmxbOCyFO6YbgybDK1fIw%2F03ZmMXLqVykQOPd6vqZ5rrbLlKxnENw58V4%2FkwoX4nX4sP1kC7PR1AQnB66z4r1ChS2YLtes5mEcRv90AgbAgGYqaQUfD5DGdb06LiVq5%2B9qp6Neqc5MhLN%2Fr5wMgEgOAyAta9jwN3iWA0%3D
-g1.gamecopyworld.click##center > .t2 > tbody > tr:nth-of-type(5)
-
-
-
-! 01:18:48, 20/9/2016 http://g1.gamecopyworld.click/?y=4499d075&x=rIr5yD0%2FmxbOCyFO6YbgybDK1fIw%2F03ZmMXLqVykQOPd6vqZ5rrbLlKxnENw58V4%2FkwoX4nX4sP1kC7PR1AQnB66z4r1ChS2YLtes5mEcRv90AgbAgGYqaQUfD5DGdb06LiVq5%2B9qp6Neqc5MhLN%2Fr5wMgEgOAyAta9jwN3iWA0%3D
-g1.gamecopyworld.click##center > .t2 > tbody > tr:nth-of-type(1)
-
-! 01:19:51, 20/9/2016 http://g1.gamecopyworld.click/?y=4499d075&x=rIr5yD0%2FmxbOCyFO6YbgybDK1fIw%2F03ZmMXLqVykQOPd6vqZ5rrbLlKxnENw58V4%2FkwoX4nX4sP1kC7PR1AQnB66z4r1ChS2YLtes5mEcRv90AgbAgGYqaQUfD5DGdb06LiVq5%2B9qp6Neqc5MhLN%2Fr5wMgEgOAyAta9jwN3iWA0%3D
-g1.gamecopyworld.click##center > .t2 > tbody > tr:nth-of-type(3) > td:nth-of-type(2) > div > iframe
 
 ! 01:57:44, 20/9/2016 http://lnkworld.com/
 lnkworld.com##center > table:nth-of-type(1) > tbody > tr > td > .t2 > tbody > tr > td:nth-of-type(2) > table > tbody > tr:nth-of-type(1)
@@ -2058,21 +2048,6 @@ girlssexxxx.com###advobj
 ! 13:47:55, 21/9/2016 http://girlssexxxx.com/vi/tag/publicagent.com/
 girlssexxxx.com###wrapper > .section-wrapper.content-section > .thumbs-content > .thumbs-gallery > dd:nth-of-type(4) > .movie-banners-block
 
-
-! 12:01:07, 22/9/2016 http://chiasephanmem.org/wp-content/plugins/tm-wordpress-redirection/l.php?https://drive.google.com/file/d/0B4sKhYMtlr6XRUlXOERvZXp0b2c/view
-chiasephanmem.org##center
-
-! 12:01:20, 22/9/2016 http://chiasephanmem.org/iobit-driver-booster-pro/
-chiasephanmem.org###ado-91255809 > iframe
-
-! 12:01:25, 22/9/2016 http://chiasephanmem.org/iobit-driver-booster-pro/
-chiasephanmem.org###ado-61110210 > iframe
-
-! 12:01:33, 22/9/2016 http://chiasephanmem.org/iobit-driver-booster-pro/
-chiasephanmem.org###ado-91255809
-
-! 12:01:38, 22/9/2016 http://chiasephanmem.org/iobit-driver-booster-pro/
-chiasephanmem.org###ado-61110210
 
 ! 17:34:02, 22/9/2016 https://filescloud.co/60d40cf51d6d8c0c
 ||filescloud.co/60d40cf51d6d8c0c$subdocument
