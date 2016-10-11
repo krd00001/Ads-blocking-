@@ -2079,3 +2079,100 @@ kenh76.vn###theme-header > .header-content > .e3lan-top.e3lan
 
 ! 12:39:56, 4/10/2016 https://www.fshare.vn/file/T1RVWW5SCT
 www.fshare.vn###download-index > .dl_6
+
+! 17:34:02, 22/9/2016 https://filescloud.co/60d40cf51d6d8c0c
+||filescloud.co/60d40cf51d6d8c0c$subdocument
+
+! 23:10:13, 22/9/2016 http://blogtamsu.vn/nhom-ban-chup-anh-deu-dan-5-namlan-khi-hop-lop-buc-anh-cuoi-cung-se-khien-ban-bat-khoc.html
+blogtamsu.vn###Banner_balloon
+
+! 16:19:58, 27/9/2016 http://thiendia.com/diendan/
+thiendia.com###content > .pageWidth > .pageContent > .my_responsive_ads
+
+! 16:29:19, 27/9/2016 https://www.fshare.vn/file/5D46ALWG8LXP
+www.fshare.vn##.topbg > .wrap.container > .padding-v-15 > .dl_6
+
+! 20:47:37, 28/9/2016 http://news.zing.vn/nhung-bo-phim-co-ky-xao-hinh-anh-dep-nhat-2015-post608533.html
+news.zing.vn###advR3-608533
+
+! 21:06:30, 1/10/2016 http://news.zing.vn/su-that-kinh-di-dang-sau-cac-phim-hoat-hinh-lung-danh-post602294.html
+news.zing.vn###advR3-602294
+
+
+
+! 10:35:18, 3/10/2016 http://vuighe.net/vua-hai-tac/tap-758-nhat-vuong-cong-tuoc-inuarashi-xuat-hien
+vuighe.net###videoPlayer > .pause-banner > .pause-banner-content
+
+! 20:12:25, 3/10/2016 http://kenh76.vn/
+kenh76.vn###theme-header > .header-content > .e3lan-top.e3lan
+
+! 20:31:09, 3/10/2016 http://123link.top/VW0emPL
+||youtubephim.top/$subdocument
+
+! 12:39:56, 4/10/2016 https://www.fshare.vn/file/T1RVWW5SCT
+www.fshare.vn###download-index > .dl_6
+
+! 12:02:59, 5/10/2016 https://vutienit.com/tai-double-driver-full-phan-men-sao-luu-phuc-hoi-driver-cho-phan-cung-may-tinh/
+vutienit.com###text-10 > .textwidget
+
+! 18:12:23, 5/10/2016 http://news.zing.vn/10-dong-ngoai-te-dat-gia-nhat-the-gioi-post443091.html
+news.zing.vn##.page-wrapper > .loaded.read.zing.type-picture.the-article > .main > .sidebar
+
+! 13:59:44, 7/10/2016 http://forum.vietdesigner.net/threads/tong-hop-50-logo-thuong-hieu-noi-tieng-nhat-moi-thoi-dai.118469/
+forum.vietdesigner.net###content > .pageWidth > .pageContent > aside > .sidebar > a[href="http://keyframe.vn/khoa-hoc-ve-nhan-vat-va-storyboard/"]
+
+! 14:00:09, 7/10/2016 http://forum.vietdesigner.net/threads/tong-hop-50-logo-thuong-hieu-noi-tieng-nhat-moi-thoi-dai.118469/
+forum.vietdesigner.net###myFlashContent > object
+
+! 08:29:20, 11/10/2016 http://lnkworld.com/
+lnkworld.com##center > table:nth-of-type(6)
+
+! 08:29:58, 11/10/2016 http://lnkworld.com/
+lnkworld.com##center > table:nth-of-type(4) > tbody > tr > td:nth-of-type(4) > table > tbody
+
+! 08:30:25, 11/10/2016 http://lnkworld.com/
+lnkworld.com##center > table:nth-of-type(1) > tbody > tr > td > .t2 > tbody > tr > td:nth-of-type(2) > table > tbody > tr:nth-of-type(1)
+
+! 08:49:35, 11/10/2016 http://files.gametarget.net/?d=2011&f=pz-sd4120t!rar
+files.gametarget.net##center > .t2 > tbody > tr:nth-of-type(1)
+
+! 08:50:29, 11/10/2016 http://files.gametarget.net/?d=2011&f=pz-sd4120t!rar
+files.gametarget.net##center > .t2 > tbody > tr:nth-of-type(3)
+
+
+
+! 08:59:36, 11/10/2016 http://www.gamecopyworld.eu/
+www.gamecopyworld.eu##center > .t2:nth-of-type(4)
+
+! 08:31:20, 11/10/2016 http://gamecopyworld.com/
+gamecopyworld.com##center > .t2:nth-of-type(4)
+
+! 08:32:19, 11/10/2016 http://gamecopyworld.eu/games/pc_grand_theft_auto_5.shtml
+gamecopyworld.eu##center > .t0 > div > table:nth-of-type(2) > tbody > tr > td:nth-of-type(2) > .ti2:nth-of-type(2)
+
+! 08:32:56, 11/10/2016 http://gamecopyworld.eu/games/pc_grand_theft_auto_5.shtml
+gamecopyworld.eu##center > .t0 > div > table:nth-of-type(1) > tbody > tr:nth-of-type(2)
+
+||a96378.servehttp.com/!_bb.php?sn=AAAAAA&ns=1
+||a96378.servehttp.com/!_bb.php
+||a96378.servehttp.com/!_*.php?*ns=1
+
+||a96378.servehttp.com/!_bn.php?ns=1
+||a96378.servehttp.com/!_bn.php
+||a96378.servehttp.com/!_*.php?*ns=1
+
+||filetarget.net/!_fb.php?sz=fb&sn=gcw&bg=AAAAAA&ns=1&nf=1
+||filetarget.net/!_fb.php
+||filetarget.net/!_bn.php
+||filetarget.net/!_bn.php?sn=gcw&bg=gcw_dl&ns=1&nf=1
+
+
+! 09:07:13, 11/10/2016 http://dl.gamecopyworld.eu/?c=59382993&a=0&d=2009&f=cod517promo-ch!zip
+dl.gamecopyworld.eu##center > .t2 > tbody > tr:nth-of-type(1)
+
+! 09:07:23, 11/10/2016 http://dl.gamecopyworld.eu/?c=59382993&a=0&d=2009&f=cod517promo-ch!zip
+dl.gamecopyworld.eu##center > .t2 > tbody > tr:nth-of-type(3) > td:nth-of-type(2)
+
+! 09:07:50, 11/10/2016 http://dl.gamecopyworld.eu/?c=59382993&a=0&d=2009&f=cod517promo-ch!zip
+dl.gamecopyworld.eu##center > .t2 > tbody > tr:nth-of-type(6)
+
