@@ -1,6 +1,6 @@
 [Adblock]
 ! Homepage: 
-! Title: KAMEN || VĂN ĐÌNH TRỌNG list [ads blocking || 17/10/2016, 12:45 AM GMT+7]
+! Title: KAMEN || VĂN ĐÌNH TRỌNG list [ads blocking || 03/11/2016, 01:38 PM GMT+7]
 ! Expires: 1 day
 ! Version: 1.0
 ! Last modified:  
@@ -2215,3 +2215,36 @@ www.phim.media##.adv-300-right:nth-of-type(5)
 
 ! 03/11/2016, 13:24:16 http://www.phim.media/phim-vet-duoi-dai-2/
 www.phim.media##.adv-300-right:nth-of-type(6)
+
+! 17:23:55, 13/10/2016 http://tv.101vn.com/livetv-xem-tivi-kenh-cartoon-menu-hot.html
+tv.101vn.com##.page_bg > .header > .leaderboard_banner
+
+! 22:27:30, 19/10/2016 http://haynhucnhoi.vn/photo/127107/xep-hinh-qua-on-ao-o-khach-san-thanh-nien-bi-loi-ra-ngoai-dap-nhu-tu.hnn
+haynhucnhoi.vn###balloon-ads
+
+! 23:21:17, 19/10/2016 http://phimnhanh.com/the-loai/phim-18
+phimnhanh.com###bn_bottom_fixed_left
+
+! 08:23:48, 24/10/2016 http://www.downmienphi.com/windows/download-bluestacks.99/field?field=1
+www.downmienphi.com###index_middle > .dad.container > .mainContainer > .mainContent > .innerContent > .section.messageText.baseHtml.ugc > a[href="http://tuvandienlanh.vn"]
+
+! 14:50:33, 28/10/2016 https://www.roblox.com/library/144183348/Kevin-MacLeod-Spazzmatica-Polka
+www.roblox.com###Skyscraper-Adp-Right
+
+! 14:50:44, 28/10/2016 https://www.roblox.com/library/144183348/Kevin-MacLeod-Spazzmatica-Polka
+www.roblox.com###Leaderboard-Abp
+
+! 13:58:17, 29/10/2016 https://thuthuatmaytinh.vn/thu-thuat-windows/meo-sua-loi-program-has-stopped-working-tren-windows/
+thuthuatmaytinh.vn##.mark-links.box.post-single-content > div:nth-of-type(2)
+
+! 22:28:00, 31/10/2016 http://javonline18.com/
+javonline18.com##.textwidget
+
+! 21:00:05, 1/11/2016 http://phanmemaz.com/du-lieu-file/khoa-tap-tin-thu-muc.html
+phanmemaz.com##center:nth-of-type(1)
+
+! 21:00:18, 1/11/2016 http://phanmemaz.com/du-lieu-file/khoa-tap-tin-thu-muc.html
+phanmemaz.com##center:nth-of-type(2)
+
+! 00:48:26, 3/11/2016 http://phim4v.com/tag/1088/submarine-fshare.html
+phim4v.com###AbdPopupAd_left
