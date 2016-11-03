@@ -2203,3 +2203,15 @@ jpav.site###sidebar > .sidebar-widget:nth-of-type(6)
 
 ! 14/10/2016, 23:27:46 http://www.sexvtv.com/dien-vien/maki-koizumi.html
 www.sexvtv.com###ads_location
+
+! 31/10/2016, 23:02:35 http://jav4fun.com/star-711-mana-sakura-launch-unlimited-onsen-sensitive-este-night-two-days-constant-attendance-vip-full-course/
+jav4fun.com##section > .ad-box-widget
+
+! 31/10/2016, 23:16:12 http://xonline.vip/watch-heyzo-1307-dirty-naked-halloween-party-5681.html
+xonline.vip##.tn-boxright:nth-of-type(2)
+
+! 03/11/2016, 13:24:05 http://www.phim.media/phim-vet-duoi-dai-2/
+www.phim.media##.adv-300-right:nth-of-type(5)
+
+! 03/11/2016, 13:24:16 http://www.phim.media/phim-vet-duoi-dai-2/
+www.phim.media##.adv-300-right:nth-of-type(6)
