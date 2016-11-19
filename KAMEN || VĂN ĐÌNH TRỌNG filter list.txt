@@ -1,6 +1,6 @@
 [Adblock]
 ! Homepage: 
-! Title: KAMEN || VĂN ĐÌNH TRỌNG list [ads blocking || 03/11/2016, 01:38 PM GMT+7]
+! Title: KAMEN || VĂN ĐÌNH TRỌNG list [ads blocking || 19/11/2016, 09:35AM GMT+7]
 ! Expires: 1 day
 ! Version: 1.0
 ! Last modified:  
@@ -2248,3 +2248,91 @@ phanmemaz.com##center:nth-of-type(2)
 
 ! 00:48:26, 3/11/2016 http://phim4v.com/tag/1088/submarine-fshare.html
 phim4v.com###AbdPopupAd_left
+
+! 18:25:35, 5/11/2016 http://kenhphimbo.net/phim/ngay-mai-chien-thang
+kenhphimbo.net##tbody
+
+! 18:26:01, 5/11/2016 http://kenhphimbo.net/phim/ngay-mai-chien-thang
+kenhphimbo.net###bg_page > .container.above_of_content.ad_location
+
+! 08:30:24, 7/11/2016 http://phimkhoahochay.blogspot.com/search/label/Phim%20Thien%20Van
+phimkhoahochay.blogspot.com###HTML8 > .widget-content > div > iframe
+
+! 15:00:56, 7/11/2016 http://www.pornhub.com/pornstar/stella-cox
+www.pornhub.com##.psWrapper
+
+! 15:10:19, 11/11/2016 http://phimsexmoi.biz/co-chu-nha-dit-nhau-voi-nhan-vien-don-nha/
+phimsexmoi.biz##.textwidget
+
+! 15:10:42, 11/11/2016 http://tv3x.net/
+tv3x.net##.textwidget
+
+
+! 10:17:12, 14/11/2016 http://hamtruyen.com/
+||t.co/bRw41gEQbK$subdocument
+
+! 12:54:29, 14/11/2016 http://4share.vn/f/6054545254555951/[vietdl.net]%20SoThink.SWF.Decompiler.v7.4.build.5320%20full.zip.file
+4share.vn##a[href="http://hathuongduongnga.com/"]
+
+! 00:11:15, 16/11/2016 http://top1jav.net/
+top1jav.net###fbbanner
+
+! 00:11:36, 16/11/2016 http://top1jav.net/
+top1jav.net###fbanner
+
+! 00:12:04, 16/11/2016 http://top1jav.net/
+top1jav.net###hbanner:nth-of-type(1)
+
+! 00:12:12, 16/11/2016 http://top1jav.net/
+top1jav.net###hbanner:nth-of-type(2)
+
+! 00:12:17, 16/11/2016 http://top1jav.net/
+top1jav.net###hbanner:nth-of-type(3)
+
+! 00:12:22, 16/11/2016 http://top1jav.net/
+top1jav.net###hbanner:nth-of-type(4)
+
+! 00:12:28, 16/11/2016 http://top1jav.net/
+top1jav.net###hbanner:nth-of-type(5)
+
+! 00:12:47, 16/11/2016 http://top1jav.net/
+top1jav.net###pbanner
+
+! 00:14:29, 16/11/2016 http://top1jav.net/heyzo-0376-the-secret-garden-since/
+top1jav.net###pr1
+
+! 00:14:38, 16/11/2016 http://top1jav.net/heyzo-0376-the-secret-garden-since/
+top1jav.net###pl1
+
+! 15:40:40, 16/11/2016 https://www.jav18online.com/hd1080tek-076-mikami-yua-service-5-star-soapland/
+www.jav18online.com##center:nth-of-type(2)
+
+! 15:40:48, 16/11/2016 https://www.jav18online.com/hd1080tek-076-mikami-yua-service-5-star-soapland/
+www.jav18online.com##center:nth-of-type(3)
+
+! 15:41:06, 16/11/2016 https://www.jav18online.com/hd1080tek-076-mikami-yua-service-5-star-soapland/
+www.jav18online.com###text-4
+
+! 16:01:35, 16/11/2016 http://youpornbook.com/forums/topic/13884-tek-077-%E3%82%B0%E3%83%A9%E3%83%93%E3%82%A2%E5%9B%9B%E5%A4%A9%E7%8E%8B%E3%81%9F%E3%81%8B%E3%81%97%E3%82%87%E3%83%BCmuteki-debut-%E9%AB%98%E6%A9%8B%E3%81%97%E3%82%87%E3%81%86%E5%AD%90/
+youpornbook.com###ipsLayout_mainArea > center:nth-of-type(2)
+
+! 16:01:51, 16/11/2016 http://youpornbook.com/forums/topic/13884-tek-077-%E3%82%B0%E3%83%A9%E3%83%93%E3%82%A2%E5%9B%9B%E5%A4%A9%E7%8E%8B%E3%81%9F%E3%81%8B%E3%81%97%E3%82%87%E3%83%BCmuteki-debut-%E9%AB%98%E6%A9%8B%E3%81%97%E3%82%87%E3%81%86%E5%AD%90/
+youpornbook.com##.ipsSpacer_top.ipsClear.cTopic > center:nth-of-type(2)
+
+! 16:02:07, 16/11/2016 http://youpornbook.com/forums/topic/13884-tek-077-%E3%82%B0%E3%83%A9%E3%83%93%E3%82%A2%E5%9B%9B%E5%A4%A9%E7%8E%8B%E3%81%9F%E3%81%8B%E3%81%97%E3%82%87%E3%83%BCmuteki-debut-%E9%AB%98%E6%A9%8B%E3%81%97%E3%82%87%E3%81%86%E5%AD%90/
+youpornbook.com##.ipsWidget_inner > p:nth-of-type(2)
+
+! 16:04:07, 16/11/2016 http://youpornbook.com/forums/topic/13884-tek-077-%E3%82%B0%E3%83%A9%E3%83%93%E3%82%A2%E5%9B%9B%E5%A4%A9%E7%8E%8B%E3%81%9F%E3%81%8B%E3%81%97%E3%82%87%E3%83%BCmuteki-debut-%E9%AB%98%E6%A9%8B%E3%81%97%E3%82%87%E3%81%86%E5%AD%90/
+youpornbook.com##.ipsWidget_inner > p:nth-of-type(1)
+
+! 16:33:51, 16/11/2016 http://leechporn.com/Actor/Tsukasa-Aoi-65
+leechporn.com##.container:nth-of-type(4) > iframe:nth-of-type(1)
+
+! 22:38:55, 16/11/2016 http://imgblank.com/img-582a7c205222c.html
+imgblank.com##span > div > div
+
+! 01:18:54, 17/11/2016 http://imagetwist.com/7evo688i7rym/29gwaz00079b_s.jpg#
+imagetwist.com##center > center
+
+http://imagetwist.com/bl.php
+imagetwist.com/bl.php
