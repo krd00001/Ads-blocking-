@@ -1,6 +1,6 @@
 [Adblock]
 ! Homepage: 
-! Title: KAMEN || VĂN ĐÌNH TRỌNG list [ads blocking || 19/11/2016, 09:35AM GMT+7]
+! Title: KAMEN || VĂN ĐÌNH TRỌNG list [ads blocking || 22/11/2016, 09:34 PM GMT+7]
 ! Expires: 1 day
 ! Version: 1.0
 ! Last modified:  
@@ -2336,3 +2336,46 @@ imagetwist.com##center > center
 
 http://imagetwist.com/bl.php
 imagetwist.com/bl.php
+
+! 11/11/2016, 21:36:32 http://www.xiuren.org/
+www.xiuren.org###menur
+
+! 11/11/2016, 21:37:25 http://www.xiuren.org/XiuRen-N00613.html
+www.xiuren.org###bannerIn
+
+! 19/11/2016, 00:28:09 http://cinemajavindo.com/watch/doks-294-niiyama-kaede-serizawa-tsumugi-raw
+cinemajavindo.com###adb
+
+! 19/11/2016, 00:28:21 http://cinemajavindo.com/watch/doks-294-niiyama-kaede-serizawa-tsumugi-raw
+cinemajavindo.com##.gen > ul
+
+! 19/11/2016, 00:28:28 http://cinemajavindo.com/watch/doks-294-niiyama-kaede-serizawa-tsumugi-raw
+cinemajavindo.com##.side:nth-of-type(4)
+
+! 19/11/2016, 02:43:20 http://mo666.net/
+mo666.net###footer
+
+! 19/11/2016, 02:43:30 http://mo666.net/
+mo666.net##.moneyarea > p
+
+! 19/11/2016, 02:43:37 http://mo666.net/
+mo666.net##.sidebar-right.sidebar > ul > .categories:nth-of-type(1)
+
+! 19/11/2016, 02:43:56 http://mo666.net/
+mo666.net##ul > p
+
+! 19/11/2016, 02:46:07 http://imgchili.net/show/95119/95119357_017.jpg
+imgchili.net##.bXl1YEul
+
+! 19/11/2016, 02:47:51 http://206.108.54.66/~avsppnet/viewthread.php?tid=595260&extra
+206.108.54.66##.ad_float_left:nth-of-type(11)
+
+! 19/11/2016, 02:48:45 http://206.108.54.66/~avsppnet/viewthread.php?tid=595260&extra
+206.108.54.66###ad_headerbanner
+
+! 19/11/2016, 02:49:43 http://206.108.54.66/~avsppnet/viewthread.php?tid=595260&extra
+206.108.54.66###ad_footerbanner1
+
+! 19/11/2016, 02:50:36 http://hkjav.info/forum.php
+hkjav.info##.a_h.wp
+
