@@ -1,6 +1,6 @@
 [Adblock]
 ! Homepage: 
-! Title: KAMEN || VĂN ĐÌNH TRỌNG list [ads blocking || 22/11/2016, 09:34 PM GMT+7]
+! Title: KAMEN || VĂN ĐÌNH TRỌNG list [ads blocking || 24/11/2016, 02:21 PM GMT+7]
 ! Expires: 1 day
 ! Version: 1.0
 ! Last modified:  
@@ -2378,4 +2378,101 @@ imgchili.net##.bXl1YEul
 
 ! 19/11/2016, 02:50:36 http://hkjav.info/forum.php
 hkjav.info##.a_h.wp
+
+! 14:21:28, 25/11/2016 https://torrentkim5.net/bbs/google.php?q=kamen+rider+decade&google=on
+torrentkim5.net###toto
+
+! 13:29:03, 26/11/2016 http://www.mirrorcreator.com/showurl.php?uid=SSM2WXXL&hostid=95&sess_id=a0a76b375d64b2ce1fe540636d474293
+www.mirrorcreator.com##center:nth-of-type(2)
+
+! 16:22:37, 26/11/2016 http://torrentking.eu/movie-2004/a-moment-to-remember-torrents/
+torrentking.eu##.acon5
+
+! 16:22:51, 26/11/2016 http://torrentking.eu/movie-2004/a-moment-to-remember-torrents/
+torrentking.eu###top_header
+
+! 16:37:33, 26/11/2016 http://share.dmhy.org/topics/view/392885_-11_The_Girl_Who_Leapt_Through_Time_Movie_BDRIP_720P_X264-10bit_AAC.html
+share.dmhy.org###jk_ad
+
+! 16:37:41, 26/11/2016 http://share.dmhy.org/topics/view/392885_-11_The_Girl_Who_Leapt_Through_Time_Movie_BDRIP_720P_X264-10bit_AAC.html
+share.dmhy.org###sms_ad
+
+! 21:10:16, 26/11/2016 http://puka.vn/forum/threads/tron-bo-cai-dat-microsoft-net-framework-1-1-4-5-3-final.4498/
+puka.vn##.banner_top
+
+! 21:15:58, 26/11/2016 http://puka.vn/forum/threads/tron-bo-cai-dat-microsoft-net-framework-1-1-4-5-3-final.4498/
+puka.vn##.notice_15.DismissParent.Notice.panel:nth-of-type(1) > .noticeContent.baseHtml > center > font > a[href="https://muathe247.net"]
+
+! 21:17:06, 26/11/2016 http://puka.vn/forum/threads/tron-bo-cai-dat-microsoft-net-framework-1-1-4-5-3-final.4498/
+puka.vn##.sidebar
+
+http://earth-111.com
+earth-111.com
+127.0.0.1  http://earth-111.com
+127.0.0.1  earth-111.com
+
+http://earth-111.com
+
+! 13:38:14, 28/11/2016 http://procracx.com/office-tab-enterprise-11-00/
+procracx.com##center:nth-of-type(2)
+procracx.com##a[href^="http://earth-111.com/ref"] > .appear.disappear
+procracx.com##center:nth-of-type(2) > a[href^="http://earth-111.com/ref"]
+
+! 13:51:48, 28/11/2016 http://www.xiuren.org/miitao-033.html
+www.xiuren.org###xcy_fmt_ads80 > table > tbody > tr > td
+
+! 13:53:03, 28/11/2016 http://www.xiuren.org/miitao-033.html
+www.xiuren.org###announcement:nth-of-type(2)
+
+https://ee.e7006.com
+
+||h1.crvtrk.com
+http://t.frtyj.com
+
+! 13:56:13, 28/11/2016 http://www.xiuren.org/miitao-033.html
+www.xiuren.org###bannerOut
+
+! 22:55:11, 28/11/2016 http://www.kuwo.cn/yinyue/9866151?catalog=yueku2016
+www.kuwo.cn##.qr_wrapper
+
+! 02:49:16, 29/11/2016 https://www.sadeempc.com/idm/
+www.sadeempc.com##a[href^="http://earth-111.com/ref"]
+
+! 21:05:20, 30/11/2016 http://coolrom.com/roms/psx/39719/Tekken_3.php
+coolrom.com##tr:nth-of-type(4) > td:nth-of-type(2) > table > tbody > tr:nth-of-type(1) > td
+
+! 21:05:24, 30/11/2016 http://coolrom.com/roms/psx/39719/Tekken_3.php
+coolrom.com##tr:nth-of-type(4) > td:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td:nth-of-type(1)
+
+! 21:05:36, 30/11/2016 http://coolrom.com/roms/psx/39719/Tekken_3.php
+coolrom.com##center > table > tbody > tr > td > table > tbody > tr:nth-of-type(3) > td
+
+http://www.360ads.click
+||360ads.click
+||www.360ads.click
+
+! 01:20:25, 3/12/2016 http://vietmon.com/diendan/showthread.php?19254-Huong-dan-tao-file-PDF-tu-1-loat-file-anh-co-san
+vietmon.com##center
+
+! 00:07:20, 9/12/2016 http://kuwo.cn/yinyue/7219275
+kuwo.cn##.qr_wrapper
+
+! 11:06:02, 16/12/2016 http://www.phimle.tv/phim/giac-mo-ky-la-10106/xem-phim.html
+www.phimle.tv###adtop-watch
+
+! 11:06:15, 16/12/2016 http://www.phimle.tv/phim/giac-mo-ky-la-10106/xem-phim.html
+www.phimle.tv##.ad-top-300-250.ad-container:nth-of-type(3)
+
+! 02:30:16, 22/12/2016 http://btlibrary.me/b/863U889J0XPOSSwuzk0sSQUA/1/0/0.html
+btlibrary.me###alm_left_couplet
+
+! 02:30:22, 22/12/2016 http://btlibrary.me/b/863U889J0XPOSSwuzk0sSQUA/1/0/0.html
+btlibrary.me###alm_right_couplet
+
+! 03:02:36, 22/12/2016 http://www.filmku.net/
+www.filmku.net##.act1
+
+! 03:02:54, 22/12/2016 http://www.filmku.net/
+www.filmku.net##.clearfix.act2-970x90
+
 
