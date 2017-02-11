@@ -19,6 +19,14 @@ facebook.com/ajax/mercury/change_read_status.php$xmlhttprequest
 
 
 
+||nyaa.se/be-
+
+||dmhy*.aewb.cn^*?$image
+||s.pacn.ws^*?$image,domain=dmhy.org
+||share.dmhy.*/*?$image
+share.dmhy.org##div[id$="_ad"]
+@@||dmhy.org/common/generate-captcha?
+@@||s.pacn.ws^*/generate-captcha?$domain=dmhy.org
 
 
 ! http://www.gamecopyworld.eu/
