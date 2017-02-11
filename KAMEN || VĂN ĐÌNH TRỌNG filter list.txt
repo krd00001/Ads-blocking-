@@ -1,7 +1,7 @@
 [Adblock]
 ! Homepage: 
 ! Title: KAMEN || VĂN ĐÌNH TRỌNG list 
-! [ads blocking ||11/02/2016, 01:19 PM GMT+7]
+! [ads blocking ||11/02/2016, 01:28 PM GMT+7]
 ! Expires: 7 day
 ! Version: 1.0
 ! Last modified:  
@@ -126,42 +126,6 @@ mphim.net###floatleft > .link-full
 
 ! 20:11:00 16/5/2016 http://mphim.net/phim/zootopia-phi-vu-dong-troi-zootopia-2016.html
 mphim.net###floatright > .link-full
-
-! 09:53:41, 30/5/2016 http://myanimelist.net/anime/6746/Durarara
-myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .pt24.clearfix.mauto
-
-! 09:53:57, 30/5/2016 http://myanimelist.net/anime/6746/Durarara
-myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(1) > td > .border_top > div:nth-of-type(2)
-
-! 09:54:01, 30/5/2016 http://myanimelist.net/anime/6746/Durarara
-myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(1) > td > .border_top > div:nth-of-type(1)
-
-! 09:54:14, 30/5/2016 http://myanimelist.net/anime/6746/Durarara
-myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(2) > .pb24 > div:nth-of-type(2)
-
-! 09:54:19, 30/5/2016 http://myanimelist.net/anime/6746/Durarara
-myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(2) > .pb24 > div:nth-of-type(3)
-
-! 09:54:27, 30/5/2016 http://myanimelist.net/anime/6746/Durarara
-myanimelist.net###content > table > tbody > tr > .borderClass > .js-scrollfix-bottom > .mt16.mauto.clearfix > ._unit > table > tbody > tr:nth-of-type(1) > td
-
-! 09:54:35, 30/5/2016 http://myanimelist.net/anime/6746/Durarara
-myanimelist.net###content > table > tbody > tr > .borderClass > .js-scrollfix-bottom > .mt16.mauto.clearfix > ._unit > table
-
-! 07:40:29, 6/6/2016 http://myanimelist.net/anime/1887/Lucky%E2%98%86Star/userrecs
-myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > .border_bottom
-
-! 08:51:15, 12/6/2016 http://myanimelist.net/manga/1929/Loose_Senki__Old_Boy
-myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(2) > .pb24 > div:nth-of-type(1)
-
-! 15:33:34, 16/6/2016 http://myanimelist.net/search/all?q=gundam
-myanimelist.net###content > .content-result > .content-right > .js-scrollfix-bottom > ._unit > table > tbody > tr:nth-of-type(1) > td
-
-! 15:33:38, 16/6/2016 http://myanimelist.net/search/all?q=gundam
-myanimelist.net###content > .content-result > .content-right > .js-scrollfix-bottom > ._unit > table > tbody > tr:nth-of-type(2) > td
-
-! 15:33:42, 16/6/2016 http://myanimelist.net/search/all?q=gundam
-myanimelist.net###content > .content-result > .content-right > .js-scrollfix-bottom > ._unit > table
 
 
 ! 09:47:53, 9/6/2016 http://rsload.net/soft/18831-msact.html
