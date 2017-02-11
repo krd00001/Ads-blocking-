@@ -187,18 +187,6 @@ www.nhaccuatui.com##body > .box-content:nth-of-type(4) > .wrap > .content-wrap >
 ! 20:24:25, 29/7/2016 http://kenhhd.tv
 kenhhd.tv##.body > .bg.container > .row-fluid > .hidden-sm.no-padding.sidebar.col-md-3.home-column-right > .panel-default.panel:nth-of-type(4)
 
-! 20:26:55, 29/7/2016 http://myanimelist.net/anime/20/Naruto
-myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(2) > .pb24 > div:nth-of-type(4)
-
-! 20:27:40, 29/7/2016 http://myanimelist.net/
-myanimelist.net###content > .pt12.left-column > article:nth-of-type(9) > .left.left_bottom_ad.widget > .clearfix
-
-! 20:28:00, 29/7/2016 http://myanimelist.net/
-myanimelist.net###content > .right-column > .widget:nth-of-type(1) > .right.right_top_ad.widget
-
-! 20:28:11, 29/7/2016 http://myanimelist.net/
-myanimelist.net###content > .right-column > .widget:nth-of-type(4) > .right.right_middle_ad.widget
-
 ! 18:14:34, 3/8/2016 http://4r.ketnoitatca.net/forum.php?s=582aa3faaae5b4bc886d42cdfa976b4b
 4r.ketnoitatca.net###fl813691
 
