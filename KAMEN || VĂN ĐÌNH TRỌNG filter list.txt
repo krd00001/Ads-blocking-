@@ -1094,4 +1094,65 @@ torrentwiz1.com##.view-wrap-pad.view-wrap > .hiddenpage.clearfix
 torrentwiz1.com##.hiddenpage.clearfix:nth-of-type(4)
 
 
+! 2/3/2017, 4:08:14 PM http://mphim.net/
+mphim.net###floatright
+
+! 2/6/2017, 8:26:34 AM http://imgchili.net/show/75726/75726493_snd_003_s.jpg
+imgchili.net##center:nth-of-type(2)
+
+! 2/6/2017, 8:26:44 AM http://imgchili.net/show/75726/75726493_snd_003_s.jpg
+imgchili.net##center:nth-of-type(1)
+
+! 2/7/2017, 3:20:01 PM http://thiendia.com/diendan/threads/gg-gg-tuyen-tap-phim-jav-
+
+beautiful-girl-khong-che-upload-phim-moi-ra-hom-nay.1023814/
+thiendia.com##footer > .my_responsive_ads
+
+! 2/7/2017, 4:03:45 PM 
+
+http://imgspice.com/nvytlwtyfnb1/543bb80a3815d139d58e91dd35200bfb-
+
+d4uzhus.jpg.html
+imgspice.com##table:nth-of-type(2)
+
+! 2/7/2017, 4:03:52 PM 
+
+http://imgspice.com/nvytlwtyfnb1/543bb80a3815d139d58e91dd35200bfb-
+
+d4uzhus.jpg.html
+imgspice.com##table:nth-of-type(3)
+
+! 2/24/2017, 12:27:53 AM http://tuoi69.net/
+tuoi69.net###bar_float
+
+! 2/24/2017, 12:34:59 AM http://sieukhung.net/
+sieukhung.net###ads-left
+
+! 2/24/2017, 12:35:08 AM http://sieukhung.net/
+sieukhung.net###bar_float_r
+
+taohuabbs.info##table[style="width:100%;"]
+||discuz.gtimg.cn/cloud/scripts/discuz_tips.js
+||173.208.177.227^*.gif
+||baidu.com/h.js?
+||cnzz.com^$third-party
+
+! 3/4/2017, 2:09:08 AM http://taohuabbs.info/forum.php
+taohuabbs.info##.a_cn
+
+! 3/4/2017, 2:09:16 AM http://taohuabbs.info/forum.php
+taohuabbs.info##.a_fl:nth-of-type(8)
+
+! 3/4/2017, 2:09:21 AM http://taohuabbs.info/forum.php
+taohuabbs.info##.a_cb.a_fl
+
+! 3/4/2017, 2:09:26 AM http://taohuabbs.info/forum.php
+taohuabbs.info##.a_cb.a_fr
+
+! 3/4/2017, 2:09:44 AM http://taohuabbs.info/forum.php
+taohuabbs.info##body > div:nth-of-type(4)
+
+! 3/4/2017, 2:09:56 AM http://taohuabbs.info/forum.php
+taohuabbs.info##div:nth-of-type(1) > div:nth-of-type(9)
+
 
