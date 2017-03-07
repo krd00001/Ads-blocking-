@@ -1155,4 +1155,20 @@ taohuabbs.info##body > div:nth-of-type(4)
 ! 3/4/2017, 2:09:56 AM http://taohuabbs.info/forum.php
 taohuabbs.info##div:nth-of-type(1) > div:nth-of-type(9)
 
+! 08:29:42, 4/1/2017 http://vietmediaf.net/threads/22326/
+vietmediaf.net###content > .pageWidth > .pageContent > div:nth-of-type(1)
 
+! 08:29:56, 4/1/2017 http://vietmediaf.net/threads/22326/
+vietmediaf.net##.pageContent > div:nth-of-type(2)
+
+! 23:40:33, 10/1/2017 http://www.thanhtrungit.com/
+www.thanhtrungit.com###HTML6 > .widget-content
+
+! 00:20:19, 15/1/2017 http://animevsub.com/xem-anime/kyoukai-no-kanata-bd-beyond-the-boundary-bd.egUb.animevsub
+animevsub.com##.float-ck
+
+! 16:14:47, 23/1/2017 http://mphim.net/phim/con-qua-tre-de-chet-too-young-to-die-2016.html
+mphim.net###floatright > .qc:nth-of-type(1)
+
+! 13:22:38, 7/3/2017 http://mphim.net/phim/con-qua-tre-de-chet-too-young-to-die-2016.html
+mphim.net###floatleft > .qc
