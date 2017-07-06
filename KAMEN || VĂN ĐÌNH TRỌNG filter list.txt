@@ -1172,3 +1172,31 @@ mphim.net###floatright > .qc:nth-of-type(1)
 
 ! 13:22:38, 7/3/2017 http://mphim.net/phim/con-qua-tre-de-chet-too-young-to-die-2016.html
 mphim.net###floatleft > .qc
+
+! 00:02:27, 23/5/2017 http://congtruongit.com/forum/de-tai/fixauto-1-1-7-tie-ng-vie-t-sua-loi-may-tinh.23489/
+congtruongit.com##.pageContent > div:nth-of-type(2)
+
+! 00:05:13, 23/5/2017 http://congtruongit.com/forum/
+congtruongit.com##.mainContent > div:nth-of-type(2)
+
+! 11:16:08, 23/5/2017 http://miyoratobacco.com/threads/m2ts-silent-voice-2016-1080p-bluray-remux-avc-dts-hd-5-1-joro-dang-hinh-thanh-am.1312435/
+miyoratobacco.com##.defaultBorderRadius.pageContent > div:nth-of-type(2)
+
+! 11:16:23, 23/5/2017 http://miyoratobacco.com/threads/m2ts-silent-voice-2016-1080p-bluray-remux-avc-dts-hd-5-1-joro-dang-hinh-thanh-am.1312435/
+miyoratobacco.com##.vnxf_banner_6.vnxf_banner
+
+! 11:16:33, 23/5/2017 http://miyoratobacco.com/threads/m2ts-silent-voice-2016-1080p-bluray-remux-avc-dts-hd-5-1-joro-dang-hinh-thanh-am.1312435/
+miyoratobacco.com###vnxf_banner_12
+
+! 6/27/2017, 1:31:08 PM https://www.sadeempc.com/idm/
+www.sadeempc.com##.code-block-3.code-block > center
+
+! 6/27/2017, 1:31:23 PM https://www.sadeempc.com/idm/
+www.sadeempc.com##.code-block-1.code-block > center
+
+! 6/27/2017, 1:31:32 PM https://www.sadeempc.com/idm/
+www.sadeempc.com##.code-block-2.code-block > center
+
+! 6/27/2017, 2:12:34 PM http://www.idntheme.com/2016/08/simplify-2.html#more
+www.idntheme.com###keep-ads
+
