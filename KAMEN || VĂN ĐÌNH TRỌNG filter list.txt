@@ -1202,20 +1202,16 @@ www.idntheme.com###keep-ads
 
 ||https://static1.fshare.vn/js/noel.js
 
-||snowstorm.js
-||snowstorm.js^$script
 
-! 12/25/2019 blackpearl
+
+! 12/25/2019 blackpearl.biz
+
 blackpearl.biz/js/themehouse/holidays/snowstorm.js
 blackpearl.biz/js/themehouse/holidays/snowstorm.js^$script
-
 ||blackpearl.biz/js/themehouse/holidays/snowstorm.js
-
 ||blackpearl.biz/js/themehouse/holidays/snowstorm.js^$script
 ||https://blackpearl.biz/js/themehouse/holidays/snowstorm.js
 ||snowstorm.js
-
-
 ||snowstorm.js^$script
 
 
