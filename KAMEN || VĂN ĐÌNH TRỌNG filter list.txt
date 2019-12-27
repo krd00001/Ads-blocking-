@@ -1215,10 +1215,6 @@ blackpearl.biz/js/themehouse/holidays/snowstorm.js^$script
 ||snowstorm.js^$script
 
 snahp.it/wp-content/plugins/snow-storm/snow-storm.js
-||snahp.it/wp-content/plugins/snow-storm/snow-storm.js
-
-
-
 
 
 
